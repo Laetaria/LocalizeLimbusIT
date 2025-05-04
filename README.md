@@ -6,6 +6,7 @@ Traduzione Italiana Limbus Company
 
 # Installazione
 Selezionare il gioco su Steam e nel menù di avvio e a destra di GIOCA selezionare le Opzioni (Ingranaggio) e scorrere su Gestisci>Sfoglia i file locali. Aprire LimbusCompany_Data e se non c'è una cartella Lang crearla. Mettere Italiano in quella cartella dopo averlo decompresso, e in Lang fuori da Italiano config.json (incollare il contenuto se ci sono altre lingue per aggiungere Italiano al menù)
+
 Oppure usare il launcher https://github.com/kimght/LimbusLocalizationManager
 
 # Membri
