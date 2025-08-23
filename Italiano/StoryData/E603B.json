@@ -1,0 +1,589 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ufficio Riscossione Tempo Locale",
+      "content": "Il motivo per il quale la Tassa Temporale che ci era stata addebitata era così alta era molto più semplice di quello che pensassi."
+    },
+    {
+      "id": 1,
+      "model": "T사사무직",
+      "teller": "Personale Amministrativo di Classe 2",
+      "title": "T Corp.",
+      "content": "Circa una settimana fa, al maniero 'Wuthering Heights'è stato osservato un fenomeno di perdita temporale non autorizzato... A causa dell'enorme quantità di tempo fuoriuscito, siete stati piazzati nello scaglione più alto per l'uso di Tempo in modo continuato."
+    },
+    {
+      "id": 2,
+      "model": "그레고르",
+      "content": "Un fenomeno di perdita temporale?"
+    },
+    {
+      "id": 3,
+      "model": "T사사무직",
+      "teller": "Personale Amministrativo di Classe 2",
+      "title": "T Corp.",
+      "content": "Ci riferiamo ad una decelerazione del flusso temporale in una determinata zona fisica. Nel vostro caso, non si è trattato neanche di un'area decelerata statica... Il fenomeno si è esteso per tutto il maniero, ed a lungo. In totale, si è misurato che il fenomeno è durato circa quattro ore."
+    },
+    {
+      "id": 4,
+      "model": "히스클리프2",
+      "content": "... De che cazzo stanno a parla'?"
+    },
+    {
+      "id": 5,
+      "model": "이상",
+      "content": "Decelerazione del flusso temporale in una certa... Ah."
+    },
+    {
+      "id": 6,
+      "model": "이상",
+      "content": "Credo si stiano riferendo al momento in cui Dante ci ha donato la celerità mentre inseguivamo quell'uomo al maniero."
+    },
+    {
+      "id": 7,
+      "model": "뫼르소",
+      "content": "Impossibile. L'abilità del Manager si è attivata per meno di trenta minuti. È più probabile che la vostra misurazione di quattro ore sia errata."
+    },
+    {
+      "id": 8,
+      "model": "이상",
+      "content": "……."
+    },
+    {
+      "id": 9,
+      "model": "이상",
+      "content": "Ah, no. Data la strana sensazione che abbiamo provato lasciando il maniero... è molto probabile che non si siano verificati errori nei loro calcoli."
+    },
+    {
+      "id": 10,
+      "model": "이상",
+      "content": "Ti ricordi, Dante? Quando stavamo lasciando il maniero..."
+    },
+    {
+      "id": 11,
+      "content": "Qualche giorno fa..."
+    },
+    {
+      "id": 12,
+      "place": "Aboard Mephistopheles, Past",
+      "model": "뫼르소",
+      "content": "... Mm."
+    },
+    {
+      "id": 13,
+      "model": "돈키호테",
+      "content": "Aha! Meursault, avete scovato alcunché di strano nella vostra rou-tine mattutina?"
+    },
+    {
+      "id": 14,
+      "content": "Eravamo appena saliti su Mephistopheles dopo l'incidente al maniero di Wuthering Heights."
+    },
+    {
+      "id": 15,
+      "model": "히스클리프",
+      "content": "……."
+    },
+    {
+      "id": 16,
+      "content": "La maggior parte dei Peccatori si erano seduti in disparte, dato il nuovo volto addolorato di Heathcliff. Ma, come sempre... la voce allegra di Don Quixote aveva rotto il silenzio."
+    },
+    {
+      "id": 17,
+      "model": "뫼르소",
+      "content": "Ho identificato un'anomalia."
+    },
+    {
+      "id": 18,
+      "model": "이상",
+      "content": "…?"
+    },
+    {
+      "id": 19,
+      "model": "뫼르소",
+      "content": "Avremmo dovuto ricevere il quotidiano della mattina, non quello della sera. Tutto ciò è inconsistente con il tempo impiegato nella visita al maniero."
+    },
+    {
+      "id": 20,
+      "model": "돈키호테",
+      "content": "Hm? Che non sia un mero sbaglio?"
+    },
+    {
+      "id": 21,
+      "model": "뫼르소",
+      "content": "Da quando sono diventato un passeggero di questo autobus, i quotidiani mattutini mi sono stati consegnati durante le ore stabilite della mattina, e i quotidiani serali sono sempre stati consegnati nelle ore stabilite della sera."
+    },
+    {
+      "id": 22,
+      "model": "뫼르소",
+      "content": "Non si può escludere la possibilità che abbiano commesso uno sbaglio, ma la possibilità che si sia verificato è davvero minuscola."
+    },
+    {
+      "id": 23,
+      "model": "이스마엘",
+      "content": "Oh, adesso che me lo fai notare... quello è un tramonto, non un'alba. Non me n'ero accorta per colpa dell'assenza di colori."
+    },
+    {
+      "id": 24,
+      "model": "돈키호테",
+      "content": "Non può essere! Queste dovrebbero essere la prime ore del dì, indubbiamente...?!"
+    },
+    {
+      "id": 25,
+      "model": "이상",
+      "content": "Ah, potrei avere un'idea di come si possa essere verificata questa inconsistenza."
+    },
+    {
+      "id": 26,
+      "model": "히스클리프",
+      "content": "... Giusto. Il Protocollo TT4."
+    },
+    {
+      "id": 27,
+      "model": "단테",
+      "content": "<... Cosa sarebbe?>"
+    },
+    {
+      "id": 28,
+      "model": "히스클리프",
+      "content": "Dispositivo de Sincronizzazione da' Velocità Temporale... o quarcosa der genere."
+    },
+    {
+      "id": 29,
+      "model": "히스클리프",
+      "content": "L'ho visto in 'na' pubblicità. \"'Na soluzione de lusso alle vostre necessità de sincronizzazione temporale. Passate le stesse piacevoli ore insieme.\"... o 'na roba simile."
+    },
+    {
+      "id": 30,
+      "model": "돈키호테",
+      "content": "Ooho...? Non è da voi, Ser Heathcliff, usare cotante difficoltose parole in una sola frase! Vi prego, qualched'uno potrebbe spiegarlo con parole più semplici?"
+    },
+    {
+      "id": 31,
+      "model": "히스클리프",
+      "content": "... Haaaaaah..."
+    },
+    {
+      "id": 32,
+      "model": "이상",
+      "content": "È un'apparato che equipara la velocità del tempo di ogni induviduo sotto l'influenza del Dis... Protocollo TT4."
+    },
+    {
+      "id": 33,
+      "model": "돈키호테",
+      "content": "Aha...! Certamente, avevo trovato difatti bizzaro come qualcuno così abbiente di tempo potesse moversi e parlare alla stessa velocità di noialtri!"
+    },
+    {
+      "id": 34,
+      "model": "뫼르소",
+      "content": "Hm. Quindi, considerando questa informazioni, la conclusione è che il passaggio del tempo che abbiamo sperimentato nel maniero fosse più veloce rispetto al mondo esterno."
+    },
+    {
+      "id": 35,
+      "model": "뫼르소",
+      "content": "Questa è la spiegazione più coerente del perché sia stato consegnato il quotidiano serale, invece che quello mattutino."
+    },
+    {
+      "id": 36,
+      "model": "베르길리우스",
+      "content": "Bene. Ora che siete soddisfatti della spiegazione, non avrete problemi ad affrontare una nuova missione, giusto?"
+    },
+    {
+      "id": 37,
+      "model": "파우스트",
+      "content": "La LCA ci ha richiesto di rintracciare una Distorsione. Riguardo ai dettagli—"
+    },
+    {
+      "id": 38,
+      "place": "Ufficio Riscossione Tempo Locale",
+      "model": "단테",
+      "content": "<... Quindi attivare la mia abilità all'interno del Protocollo TT4 avrebbe causato...>"
+    },
+    {
+      "id": 39,
+      "model": "이상",
+      "content": "Mm... Esattamente. Sarebbe come manomettere un flusso di tempo già accelerato; dall'esterno, sembrerebbe che più tempo di quello che è passato sia 'fuoriuscito'."
+    },
+    {
+      "id": 40,
+      "model": "T사사무직",
+      "teller": "Personale Amministrativo di Classe 2",
+      "title": "T Corp.",
+      "content": "Quel tipo sa bene di cosa parla. Inoltre, non avete solo manipolato il tempo di ogni persona, ma avete anche influenzato il flusso temporale di uno spazio fisico."
+    },
+    {
+      "id": 41,
+      "model": "T사사무직",
+      "teller": "Personale Amministrativo di Classe 2",
+      "title": "T Corp.",
+      "content": "E quello spazio non era una sfera statica, vi ricordo. Ha influito su tutto il maniero. In tutta onestà, questa situazione non ha precedenti."
+    },
+    {
+      "id": 42,
+      "model": "히스클리프2",
+      "content": "Ah, già... Lo attivavano solo pe le occasioni speciali, come quanno c'avevamo molti ospiti 'n visita... Costava 'n occhio da' testa."
+    },
+    {
+      "id": 43,
+      "model": "T사사무직",
+      "teller": "Personale Amministrativo di Classe 2",
+      "title": "T Corp.",
+      "content": "Dunque... la Tassa Temporale del vostro scaglione, moltiplicata per l'addizionale-per-volume per lo spazio fisico occupato dalla manipolazione temporale... Non mi stupisce che il totale sia quel numero assurdo."
+    },
+    {
+      "id": 44,
+      "model": "그레고르",
+      "content": "Non ci aspettavamo certo qualcosa del genere..."
+    },
+    {
+      "id": 45,
+      "model": "T사사무직",
+      "teller": "Personale Amministrativo di Classe 2",
+      "title": "T Corp.",
+      "content": "Dunque, stavamo dicendo. Avete due opzioni per saldare il debito di Tassa Temporale."
+    },
+    {
+      "id": 46,
+      "model": "히스클리프2",
+      "content": "Oi, opzioni? Quali opzioni...? 'E buste co dieci bilioni de Ahn nun crescono sopra l'alberi, no?"
+    },
+    {
+      "id": 47,
+      "model": "T사사무직",
+      "teller": "Personale Amministrativo di Classe 2",
+      "title": "T Corp.",
+      "content": "Prima opzione: pagamento in contanti. Seconda opzione: pagamento in tempo."
+    },
+    {
+      "id": 48,
+      "model": "로쟈",
+      "content": "Ecco, a proposito della seconda opzione. Che vorrebbe dire, esattamente? \"Pagare col tempo\"?"
+    },
+    {
+      "id": 49,
+      "model": "T사사무직",
+      "teller": "Personale Amministrativo di Classe 2",
+      "title": "T Corp.",
+      "content": "Vuol dire... oh."
+    },
+    {
+      "id": 50,
+      "content": "L'impiegata, che stava per rispondere alle nostre domande con evidente fastidio, sobbalzò all'improvviso al suono di un'allarme."
+    },
+    {
+      "id": 51,
+      "model": "T사사무직",
+      "teller": "Personale Amministrativo di Classe 2",
+      "title": "T Corp.",
+      "content": "... Ricevuto."
+    },
+    {
+      "id": 52,
+      "model": "T사사무직",
+      "teller": "Personale Amministrativo di Classe 2",
+      "title": "T Corp.",
+      "content": "Mi è appena stato comunicato che siamo pronti per la riunione di emergenza circa questo incidente. Limbus Company potrà inviare due individui alla riunione, come rappresentanti della compagnia."
+    },
+    {
+      "id": 53,
+      "model": "단테",
+      "content": "<Ah...>"
+    },
+    {
+      "id": 54,
+      "model": "베르길리우스",
+      "content": "Non serve ticchettare ed agitarsi, Dante. Gestire situazioni complicate come questa riunione è una delle mie responsabilità."
+    },
+    {
+      "id": 55,
+      "model": "베르길리우스",
+      "content": "Io mi unirò a loro per discutere delle possibili soluzioni, tu hai il compito di tenere i Peccatori sotto controllo. Tranne la signorina Faust, lei verrà con me."
+    },
+    {
+      "id": 56,
+      "model": "파우스트",
+      "content": "Ricevuto."
+    },
+    {
+      "id": 57,
+      "model": "베르길리우스",
+      "content": "Se provate anche solo a fare un'altro disastro mentre non ci sono..."
+    },
+    {
+      "id": 58,
+      "model": "베르길리우스",
+      "content": "...credo che l'unica persona ad apprezzare quello che succederà dopo sarà Ryōshū. Tenetelo bene a mente."
+    },
+    {
+      "id": 59,
+      "model": "료슈",
+      "content": "Oho..."
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "content": "Beh, ecco che se ne vanno. Quindi...? Non ci hanno nemmeno lasciato fare altre domande."
+    },
+    {
+      "id": 62,
+      "model": "로쟈",
+      "content": "Ci lasciano qui, così...? Tutta questa storia non riguarda che fine faremo?!"
+    },
+    {
+      "id": 63,
+      "model": "홍루",
+      "content": "Scusate... non è nulla di cui preoccuparsi, ma..."
+    },
+    {
+      "id": 64,
+      "model": "홍루",
+      "content": "Che ci fa Meursault sul patibolo?"
+    },
+    {
+      "id": 65,
+      "model": "단테",
+      "content": "<Cosa?>"
+    },
+    {
+      "id": 66,
+      "model": "단테",
+      "content": "<Meursault, che ci fai là sopra?!>"
+    },
+    {
+      "id": 67,
+      "model": "뫼르소",
+      "content": "Mi hanno detto di mettermi qui, e così ho fatto."
+    },
+    {
+      "id": 68,
+      "model": "로쟈",
+      "content": "Chi te lo avrebbe... detto?"
+    },
+    {
+      "id": 69,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Io, io! Stavo solo cercando di aiutare con i problemi di Tassa Temporale vostri e del vostro amico."
+    },
+    {
+      "id": 70,
+      "model": "단테",
+      "content": "<Pensavo che tutti gli impiegati fossero ad una riunione di emergenza?>"
+    },
+    {
+      "id": 71,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Ooh, un'orologio con le gambe! Affascinante. Se qualcuno ti iscrivesse per la valutazione alla prossima esposizione, potresti vincere un premio per la partecipazione!"
+    },
+    {
+      "id": 72,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Mi hai ricordato di quella volta che qualche povera anima ha iscritto un'orologio che faceva anche da bussola, ma che purtroppo aveva un tragico critico errore di progettazione: poteva leggere l'ora o trovare la strada, ma mai allo stesso tempo! Trovare la direzione, o leggere l'ora? Era solo una cosa o l'altra, lasciandoti perso nel tempo e tra le strade! Non andava, per niente. Non è molto meglio di un'orologio incollato ad una bussola a questo punto, vero?"
+    },
+    {
+      "id": 73,
+      "model": "로쟈",
+      "content": "Uhm..."
+    },
+    {
+      "id": 74,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Oh, giusto! Il Protocollo TT5-2 è attualmente attivo è in quest'ufficio, in funzione sperimentale! Tenete a mente che chiunque non sia sincronizzato con l'Ora Locale potrebbe finire disorientato."
+    },
+    {
+      "id": 75,
+      "model": "이스마엘",
+      "content": "Ch-cosa...?"
+    },
+    {
+      "id": 76,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Quello è lo sguardo di chi non ha mai sentito parlare del Protocollo TT5-2, eh? Come suggerisce il nome, il Protocollo TT5-2 è l'invenzione che dovrebbe risolvere il problema di efficenza temporale esistente nel Protocollo TT4. Stanno venendo effettuate delle prove in alcuni uffici scelti della T Corp., quindi se doveste mai sentire l'impulso di riferire le vostre impressioni su questa brillante novità, siete liberi di scrivere qualche parola su quella bache— un'attimo, chi ha scritto quella recenzione da tre stelle?"
+    },
+    {
+      "id": 77,
+      "content": "L'uomo, che supponiamo sia del Personale di T Corp., sembrava un'esperto nel tenere una conversazione a senso unico, senza che altri contribuissero."
+    },
+    {
+      "id": 78,
+      "content": "Non che chiunque di noi potesse stare al suo passo, visto come parlava veloce."
+    },
+    {
+      "id": 79,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Allora, se sei pronto... andiamo!"
+    },
+    {
+      "id": 80,
+      "model": "뫼르소",
+      "content": "Sono pronto."
+    },
+    {
+      "id": 81,
+      "model": "단테",
+      "content": "<Aspetta, non so se sia una buona idea prepararsi per qualcosa che sembra—>"
+    },
+    {
+      "id": 82,
+      "content": "La corda che pendeva dalla spaventosa macchina si strinse intorno alla gola di Meursault."
+    },
+    {
+      "id": 83,
+      "model": "싱클레어",
+      "content": "È… è questo che intendevano con pagare la Tassa Temporale con il tempo? Venire impiccati al patibolo…?"
+    },
+    {
+      "id": 84,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Vi prego di chiamarlo con il suo vero nome: Patibolo Bilancia Temporale. Misura l'esatta quantità di tempo dovuta, e l'aspira via. In realtà quello non era il nome originale, ma c'era troppa confusione e clamore riguardo al suo 'nome esageratamente lungo', di all'incirca cinquantotto parole. O lettere."
+    },
+    {
+      "id": 85,
+      "model": "단테",
+      "content": "<… Qualcuno può chiedergli cosa succederà a Meursault?>"
+    },
+    {
+      "id": 86,
+      "model": "뫼르소",
+      "content": "……."
+    },
+    {
+      "id": 87,
+      "model": "싱클레어",
+      "content": "… Quella cosa ucciderà Meursault?!"
+    },
+    {
+      "id": 88,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Ucciderlo? Che assurdità! È una macchina molto gentile! È semplicemente inconcepibile. Solo che..."
+    },
+    {
+      "id": 89,
+      "model": "이상",
+      "content": "Un 'solo che', detto in certo modo... spesso indica che verremo colpiti da avvenimenti di ancor più grande sfortuna..."
+    },
+    {
+      "id": 90,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "... Non so cosa potrebbe accadere, in realtà. Immagino che risucchierà dieci bilioni di Ahn di tempo dal vostro amico."
+    },
+    {
+      "id": 91,
+      "model": "오티스",
+      "content": "Smetti di fare lo gnorri. Che vorrebbe dire, esattamente?"
+    },
+    {
+      "id": 92,
+      "model": "싱클레어",
+      "content": "... Resterà bloccato così per dieci bilioni di ore o qualcosa del genere...?"
+    },
+    {
+      "id": 93,
+      "model": "돈키호테",
+      "content": "Uuh?!"
+    },
+    {
+      "id": 94,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Beh, non proprio. Lasciate che vi parli di questo sistema incredibilmente generoso di T Corp., chiamato Polizza di Minimo Tempo Garantito di Quattro Ore Giornaliere! Molto generoso, vero? Anche quando il peggio va in peggio, ogni cittadino ha diritto a godere di giorni di almeno quattro ore. Secondo il Concilio della Sanità Pubblica della T Corp., quattro ore è il minimo assoluto di ore al giorno per assicurare la sopravvivenza di una persona. Enfasi sul 'Sopravvivere'."
+    },
+    {
+      "id": 95,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 96,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Guarda qua! Suppongo che risucchiare dieci bilioni e quaranta milioni di Ahn dal tuo amico fosse troppo. La macchina dice “errore di misurazione”. Succede di rado."
+    },
+    {
+      "id": 97,
+      "model": "이스마엘",
+      "content": "... Aspetta, hai tirato la leva anche se non avevi idea di cosa sarebbe successo? Così, per curiosità?"
+    },
+    {
+      "id": 98,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Hm? Ma certo! Dieci bilioni di Ahn in Tasse Temporali è una cifra mai vista nella storia, quindi dovevo vedere cosa sarebbe accaduto. Potresti vincere la lotteria e non ti avvicineresti nemmeno a guadagnare dieci bilioni di Ahn, ancora prima che il premio venga tassato. Per me, in tutta onestà, dovreste stare tutti in un museo!"
+    },
+    {
+      "id": 99,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "E poi, non ho mai visto qualcuno con più di 150 ore di debito di Tassa Temporale salire sul patibolo prima d'ora. Chiunque lo superi di solito decide di fuggire e si indebita sempre di più .\nNon mi aspettavo che qualcuno in debito di dieci bilioni di Ahn salisse con tanta tranquillità!"
+    },
+    {
+      "id": 100,
+      "model": "단테",
+      "content": "<Cos'ha che non va quel tizio?>"
+    },
+    {
+      "id": 101,
+      "model": "돈키호테",
+      "content": "Svegliatevi, Meursault! Vi prego, non vi arrendete a tale marchingegno!"
+    },
+    {
+      "id": 102,
+      "model": "뫼르소",
+      "content": "……. "
+    },
+    {
+      "id": 103,
+      "model": "돈키호테",
+      "content": "Ohaaah?! S-siete incolume?"
+    },
+    {
+      "id": 104,
+      "model": "뫼르소",
+      "content": "Mm. Sto bene."
+    },
+    {
+      "id": 105,
+      "model": "그레고르",
+      "content": "Meursault, che ne, uh, che ne diresti di scendere dal patibolo, intanto?"
+    },
+    {
+      "id": 106,
+      "model": "베르길리우스",
+      "content": "……."
+    },
+    {
+      "id": 107,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 108,
+      "content": "Vergilius e Faust, che erano tornati proprio mentre avveniva questo incidente, ci stavano fissando con delle espressioni decisamente non amichevoli..."
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Sala Proiezioni",
+            "model": "싱클레어",
+            "content": "It's too dark to see... What is that?"
+        },
+        {
+            "id": 1,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "È tutto fermo per via della confusione dei piani di sotto, giusto?"
+        },
+        {
+            "id": 2,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Esatto, visto che gli intrusi potrebbero arrivare qui... la Direttrice Alfonso ha ordinato lo stop alle operazioni, per il momento..."
+        },
+        {
+            "id": 3,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "No, no, così non va bene. Le perdite causate da questa breve pausa saranno terrificanti, Samjo."
+        },
+        {
+            "id": 4,
+            "model": "로쟈",
+            "content": "Scratch that... What IS that thing?!"
+        },
+        {
+            "id": 5,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah, si tratta... Della cosa che piange in nostra vece."
+        },
+        {
+            "id": 6,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "In cambio, la guardo sempre con gratitudine e misericordia."
+        },
+        {
+            "id": 7,
+            "model": "동백",
+            "teller": "???",
+            "title": "???",
+            "content": "I see now... That's what Ran told me about."
+        },
+        {
+            "id": 8,
+            "content": "The voice of a person we've been desperately looking for was heard."
+        },
+        {
+            "id": 9,
+            "content": "Its source was right in front of us."
+        },
+        {
+            "id": 10,
+            "content": "Some kind of translucent veil seemed to drop as she rose..."
+        },
+        {
+            "id": 11,
+            "content": "And Dongbaek was looking at us."
+        },
+        {
+            "id": 12,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ahh~ Mi stavo proprio chiedendo come fosse possibile, ed ora conosco la risposta."
+        },
+        {
+            "id": 13,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Come avete fatto a fare irruzione così facilmente, come continuavamo a perdere le tue tracce, come continuavi a svanire..."
+        },
+        {
+            "id": 14,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Avevi con te il 'velo'. Ah, era così ovvio, come ho fatto a non arrivarci prima?"
+        },
+        {
+            "id": 15,
+            "model": "히스클리프",
+            "content": "'Veil'? What's that supposed to be... Gah, you buggers started talking about things only you know again, eh?"
+        },
+        {
+            "id": 16,
+            "model": "이스마엘",
+            "content": "You might be able to live in the City alright, but you clearly aren't cut out to be a Fixer."
+        },
+        {
+            "id": 17,
+            "model": "파우스트",
+            "content": "Most people will struggle to figure out or understand the source of each technology in their lives, so they give up the endeavor and simply nod along."
+        },
+        {
+            "id": 18,
+            "model": "파우스트",
+            "content": "Pretending to know. It's an essential skill for making your life in the City bearable."
+        },
+        {
+            "id": 19,
+            "model": "이스마엘",
+            "content": "…Ahem."
+        },
+        {
+            "id": 20,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "……"
+        },
+        {
+            "id": 21,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Si tratta di un costoso prodotto basato su una Singolarità, solamente Fixer celebri, membri del consiglio d'amministrazione delle Ali, o le classi più agiate possono permetterselo... E anche se ti chiedessi come te lo sei procurato, immagino che non mi risponderai, ho ragione?"
+        },
+        {
+            "id": 22,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Is what I'm seeing the truth behind regeneration ampules?"
+        },
+        {
+            "id": 23,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "...Sì, è proprio la verità. Ecco la fonte delle fiale che sei così determinata a distruggere."
+        },
+        {
+            "id": 24,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Di che stai... Distruggere?"
+        },
+        {
+            "id": 25,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Permettimi di chiederti una cosa: Hai la minima idea di quante persone possono essere salvate da quelle fiale?"
+        },
+        {
+            "id": 26,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "These regeneration ampules don't simply regenerate the body."
+        },
+        {
+            "id": 27,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "These tears can kill as easily as they can save."
+        },
+        {
+            "id": 28,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Hah... Vorresti farmi credere che quelle lacrime uccidono le persone?"
+        },
+        {
+            "id": 29,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "I have nothing more to say to you if you won't believe me even after seeing it happen several times already."
+        },
+        {
+            "id": 30,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Come vuoi; cambieresti idea se ti dimostrassi che sono sicure con un tuffo nella cisterna?"
+        },
+        {
+            "id": 31,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "What?"
+        },
+        {
+            "id": 32,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non permetterti di infangare Mr. Dongrang con le tue accuse infondate. Incalcolabili persone in condizioni critiche sono state salvate da quella tecnologia."
+        },
+        {
+            "id": 33,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Io stesso ho ricevuto un'iniezione."
+        },
+        {
+            "id": 34,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Mi sono rotto il collo mentre guidavo, ma una fiala rigenerativa mi ha salvato mentre ero in punto di morte. È uno dei motivi per cui ho fatto domanda d'assunzione a K Corp nel momento in cui sono diventato maggiorenne, ma non è questo il punto."
+        },
+        {
+            "id": 35,
+            "model": "로쟈",
+            "content": "W-What are you doing, Mr. Samjo?"
+        },
+        {
+            "id": 36,
+            "model": "옷벗은삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Il mio sogno era di diventare un nuotatore agonistico nel Nido. Posso tuffarmi da questa altezza senza problemi."
+        },
+        {
+            "id": 37,
+            "model": "로쟈",
+            "content": "I thought it was being a baseball star..."
+        },
+        {
+            "id": 38,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Haha, stai esagernado di nuovo, Samjo. Non c'è bisogno di prenderti la briga. È tutto a posto, rimani qui."
+        },
+        {
+            "id": 39,
+            "model": "옷벗은삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non è niente. Tu stesso hai lavorato alle fiale."
+        },
+        {
+            "id": 40,
+            "model": "옷벗은삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Mr. Dongrang, Direttrice Alfonso... ed innumerevoli altri studiosi hanno lavorato per anni per perfezionare le fiale rigenerative di K Corp."
+        },
+        {
+            "id": 41,
+            "model": "옷벗은삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Sono qui davanti a voi perché mi fido di questa tecnologia. Ne vado fiero."
+        },
+        {
+            "id": 42,
+            "model": "옷벗은삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Torno tra un minuto."
+        },
+        {
+            "id": 43,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "...Aspetta, Samjo?"
+        },
+        {
+            "id": 44,
+            "content": "Samjo took his glasses off and jumped into the vat containing the tears."
+        },
+        {
+            "id": 45,
+            "content": "Small bubbles rose from where he dove, but a few seconds later, no sound could be heard from the vat."
+        },
+        {
+            "id": 46,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah..."
+        },
+        {
+            "id": 47,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Oh accidenti, che seccatura. Samjo non ha mai saputo delle lacrime non raffinate."
+        },
+        {
+            "id": 48,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non potremo nemmeno recuperare le sue spoglie. Perlomeno... è una fortuna che sia stato fiero di noi fino alla fine."
+        },
+        {
+            "id": 49,
+            "model": "싱클레어",
+            "content": "...What did you just say?"
+        },
+        {
+            "id": 50,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Quella di Mr. Samjo era la tipica storia di successo nonostante le umili origini. Mi piacciono quel genere di persone."
+        },
+        {
+            "id": 51,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Le persone assunte dalle Ali nonostante le loro qualifiche siano decisamente inferiori ai requisti professionali tipici, tendono ad essere profondamente devoti ai loro datori di lavoro."
+        },
+        {
+            "id": 52,
+            "model": "히스클리프",
+            "content": "What? Wasn't he a Nest-born..."
+        },
+        {
+            "id": 53,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Vero, ma lo sai che nascere nel Nido non significa avere una posizione garantita in un'Ala?"
+        },
+        {
+            "id": 54,
+            "model": "이상",
+            "content": "……"
+        },
+        {
+            "id": 55,
+            "model": "싱클레어",
+            "content": "What's happening? Why isn't Mr. Samjo coming back?"
+        },
+        {
+            "id": 56,
+            "model": "이상",
+            "content": "What does the unprocessed liquid do, Dongrang?"
+        },
+        {
+            "id": 57,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "La funzione delle lacrime consiste nel riportare le cose al loro stato originale."
+        },
+        {
+            "id": 58,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Le fiale rigenerative in vendita sono un prodotto che ha subito vari processi di raffinazione."
+        },
+        {
+            "id": 59,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Quando una persona che ha perso un braccio prende una fiala, essa si ricorderà di avere il braccio al suo stato originale."
+        },
+        {
+            "id": 60,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Quando una persona con un trauma cranico prende la fiala, la sua testa tornerà allo stato originale che ricorda di aver avuto."
+        },
+        {
+            "id": 61,
+            "model": "그레고르",
+            "content": "What about those people in the Lobotomy branch... who died like bugs..."
+        },
+        {
+            "id": 62,
+            "model": "이상",
+            "content": "They were all under a trance, so to speak."
+        },
+        {
+            "id": 63,
+            "model": "이상",
+            "content": "By repeatedly playing the voice that says 'you are a bug' in a sealed, otherwise silent room... the image of bugs will be instilled in the subconscious."
+        },
+        {
+            "id": 64,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Esattamente. Diventa più efficace attraverso la raffinatura e la diluizione tramite concetti umani."
+        },
+        {
+            "id": 65,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ma quando una lacrima che non è stata trattata con nessuna intepretazione entra in contatto con qualcuno..."
+        },
+        {
+            "id": 66,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Quel qualcuno viene riportato alla sua forma originale... la forma originale dell'umanità."
+        },
+        {
+            "id": 67,
+            "model": "그레고르",
+            "content": "The... original form?"
+        },
+        {
+            "id": 68,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "O forse sarebbe più corretto affermare che ti aiuta a tornare a quello stato?"
+        },
+        {
+            "id": 69,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Nonostante ci provi... sembra incapace di portare una persona completamente allo stato originale."
+        },
+        {
+            "id": 70,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Certo, la rimozione del dolore è una conseguenza, ma..."
+        },
+        {
+            "id": 71,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Comunque, sei soddisfatta, Dongbaek? Avevi ragione, e Samjo probabilmente è tornato alla forma originale dell'umanità, o qualcosa di simile, nella cisterna di lacrime. Congratulazioni. Insomma, cosa vuoi veramente?"
+        },
+        {
+            "id": 72,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "……"
+        },
+        {
+            "id": 73,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "The Singularity. Permanently destroying it and everything related by using the concept incinerator."
+        },
+        {
+            "id": 74,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "L'inceneritore concettuale, huh. Lo userai di nuovo?"
+        },
+        {
+            "id": 75,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ricapitolando, Dongbaek... Mettiamo che tu riesca a tornare alla tua età del nulla... Dopo cosa succede?"
+        },
+        {
+            "id": 76,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Tagliamo alberi, costruiamo capanne, creiamo vestiti con pelle animale... È questa la vita che desideri?"
+        },
+        {
+            "id": 77,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "In lutto per le vite perdute degli alberi e gli animaletti uccisi?"
+        },
+        {
+            "id": 78,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ascoltami, Dongbaek... Con una visione del genere... non sarai mai nulla di più di una cavernicola dilettante. Sei proprio certo che sia questo ciò che vuoi?"
+        },
+        {
+            "id": 79,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "You... always ask stupid questions, then and now."
+        },
+        {
+            "id": 80,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "We decided to use vile technology as tools to get rid of their vile creators."
+        },
+        {
+            "id": 81,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Thus, no one can remain in the future we envision."
+        },
+        {
+            "id": 82,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "That's why we could be free. From the obsession with survival."
+        },
+        {
+            "id": 83,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Haha, ma che vai cianciando? Ma allora non immaginavi un futuro, semplicemente non riesci a lasciarti alle spalle il passato."
+        },
+        {
+            "id": 84,
+            "model": "이상",
+            "content": "Both of you... Stop this."
+        },
+        {
+            "id": 85,
+            "model": "이상",
+            "content": "I don't want old feuds repeating before my eyes."
+        },
+        {
+            "id": 86,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Yi Sang, you look fine."
+        },
+        {
+            "id": 87,
+            "model": "그레고르",
+            "content": "You say it like you're relieved. Didn't you want him..."
+        },
+        {
+            "id": 88,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "You're right. I wanted him to die."
+        },
+        {
+            "id": 89,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "But I'm sure he wished for the same."
+        },
+        {
+            "id": 90,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "He wouldn't resist while it dug into his heart."
+        },
+        {
+            "id": 91,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "It was unpleasant. It felt like I was granting your wish."
+        },
+        {
+            "id": 92,
+            "model": "이상",
+            "content": "……"
+        },
+        {
+            "id": 93,
+            "model": "그레고르",
+            "content": "Seems to me both of you got a few screws loose. You think pushing someone off a cliff can be justified because that person was hesitating?"
+        },
+        {
+            "id": 94,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Hesi— Haah, why don't we hear it from the person himself, then?"
+        },
+        {
+            "id": 95,
+            "model": "이상",
+            "content": "...I have no words to say."
+        },
+        {
+            "id": 96,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "This conversation is over, then."
+        },
+        {
+            "id": 97,
+            "model": "동백",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "I'm frankly glad it is."
+        },
+        {
+            "id": 98,
+            "model": "동백여우각성",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "I'll take this opportunity to kill two of my old companions with my own hands."
+        },
+        {
+            "id": 99,
+            "model": "동백여우각성",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Then I'll seize and burn the Singularity."
+        }
+    ]
+}

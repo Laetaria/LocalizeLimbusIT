@@ -1,0 +1,3804 @@
+{
+  "dataList": [
+    {
+      "id": "tutorial_mainui_01_selection",
+      "content": "Crea la tua Squadra"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_01_desc_01",
+      "content": "Puoi formare una Squadra con i tuoi 12 Peccatori e le loro Identità."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_02_title_01",
+      "content": "Squadra (Schermata Peccatori)"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_02_desc_01",
+      "content": "Nella schermata 'Peccatori' Cliccando il riquadro di un Peccatore verrà mostrata una lista delle Identità che possiedi. Da lì, puoi scegliere un'Identità da schierare."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_03_title_01",
+      "content": "Squadra (Prima del Combattimento)"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_03_desc_01",
+      "content": "Cliccando la parte superiore del riquadro di un Peccatore verrà mostrata la lista delle sue Identità. Da lì, puoi scegliere un'Identità da schierare."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_04_desc_01",
+      "content": "Cliccare la parte inferiore del riquadro di un Peccatore schiererà un'Identità in battaglia."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_04_desc_02",
+      "content": "Qui viene mostrato il numero di Identità schierabili per il combattimento."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_05_desc_01",
+      "content": "In alcuni combattimenti non potrai modificare la tua Squadra. In quel caso, cliccare sul riquadro di un Peccatore schiererà l'Identità scelta in battaglia."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_06_title_01",
+      "content": "Squadra - Informazioni Identità"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_06_desc_01",
+      "content": "In tutti i menù di Squadra, puoi tener premuto il riquadro di un'Identità per vedere informazioni dettagliate sull'Identità e sugli E.G.O equipaggiati."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_07_title_01",
+      "content": "Selezione Annunciatori"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_07_desc_01",
+      "content": "Clicca qui per visualizzare la lista di Annunciatori in tuo possesso."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_07_desc_02",
+      "content": "Puoi scegliere quali annunciatori ti seguiranno in battaglia."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_08_title_01",
+      "content": "SQUADRE"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_08_desc_01",
+      "content": "Seleziona le parole chiave dalla lista per scegliere un nome per la Squadra."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_08_desc_02",
+      "content": "Puoi preparare fino a 20 Squadre qui."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_09_title_01",
+      "content": "Informazioni Squadra"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_09_desc_01",
+      "content": "Cliccando qui puoi vedere le seguenti informazioni:\n Tipi di Attacco delle Identità, Affinità Peccato, ed E.G.O equipaggiati"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_10_title_01",
+      "content": "Risorse E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_10_desc_01",
+      "content": "'Affinità' mostra il tipo e la quantità delle Risorse E.G.O che la tua squadra può generare in combattimento e i Costi degli E.G.O equipaggiati."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_10_desc_02",
+      "content": "Selezionando un'Affinità puoi vedere in dettaglio quali Identità la generano e quali E.G.O la consumano."
+    },
+    {
+      "id": "tutorial_mainui_02_identityandegolist",
+      "content": "Lista di E.G.O e Identità"
+    },
+    {
+      "id": "tutorial_mainui_02_identitylist",
+      "content": "Lista Identità"
+    },
+    {
+      "id": "tutorial_mainui_02_egolist",
+      "content": "Lista E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_02_identitylist_page_01_desc_01",
+      "content": "Le Identità dei Peccatori sono mostrate qui. Puoi vedere la loro Rarità, Grado Legame, Livello, e Fazioni."
+    },
+    {
+      "id": "tutorial_mainui_02_identitylist_page_02_title_01",
+      "content": "Configurazione Squadra"
+    },
+    {
+      "id": "tutorial_mainui_02_identitylist_page_02_desc_01",
+      "content": "Puoi vedere sia le Identità che E.G.O selezionati per la tua squadra qui. Un E.G.O può essere equipaggiato per ogni grado."
+    },
+    {
+      "id": "tutorial_mainui_02_identitylist_page_03_title_01",
+      "content": "Configurazione Squadra"
+    },
+    {
+      "id": "tutorial_mainui_02_identitylist_page_03_desc_01",
+      "content": "Premere questo bottone ti porta alla lista di E.G.O che si possono equipaggiare nella sezione."
+    },
+    {
+      "id": "tutorial_mainui_02_identitylist_page_04_desc_01",
+      "content": "Puoi visualizzare il livello dell'E.G.O, Grado Intreccio, Attributo principale, e Nome."
+    },
+    {
+      "id": "tutorial_mainui_02_identitylist_page_05_title_01",
+      "content": "Lista Supporti"
+    },
+    {
+      "id": "tutorial_mainui_02_identitylist_page_05_title_02",
+      "content": "Bottone Supporti"
+    },
+    {
+      "id": "tutorial_mainui_02_identitylist_page_05_desc_01",
+      "content": "Cliccandolo, viene mostrata una lista delle Identità di supporto dei tuoi amici."
+    },
+    {
+      "id": "tutorial_mainui_02_identitylist_page_05_desc_02",
+      "content": "Le Identità di Supporto e gli E.G.O registrati dagli amici vengono mostrati qui."
+    },
+    {
+      "id": "tutorial_mainui_02_identitylist_page_06_desc_01",
+      "content": "Puoi prendere in prestito l'Identità di un amico e E.G.O per aiutarti. Puoi avere una sola Identità di Supporto nella tua squadra."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo",
+      "content": "Informazioni Identità"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_01_title_01",
+      "content": "Livello"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_01_desc_01",
+      "content": "Aumentare il Livello un'Identità migliora le sue statistiche."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_01_title_02",
+      "content": "Grado Legame"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_01_desc_02",
+      "content": "Aumentare il Grado Legame migliora le Abilità già esistenti o ne sblocca di nuove."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_02_title_01",
+      "content": "Stato"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_02_desc_01",
+      "content": "Qui vengono mostrati PV Massimi, Velocità Min-Max, il Livello Difensivo e il suo modificatore."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_02_title_02",
+      "content": "Resistenze"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_02_desc_02",
+      "content": "Le Resistenze dell'Identità vengono mostrate qui."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_03_title_01",
+      "content": "Riepilogo dell'Identità"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_03_desc_01",
+      "content": "Gli E.G.O equipaggiati e le Abilità sbloccate dell'Identità sono mostrati qui."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_04_title_01",
+      "content": "Abilità"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_04_desc_01",
+      "content": "Ogni Identità ha Abilità con effetti diversi. Puoi visualizzare i dettagli qui."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_05_desc_01",
+      "content": "Le Identità schierate in battaglia possono attivare le loro Passive di Combattimento. All'inizio di ogni turno, le Passive di Combattimento si attivano quando le loro condizioni vengono raggiunte."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_06_desc_01",
+      "content": "Le Identità non schierate in battaglia possono attivare le loro Passive di Supporto. All'inizio di ogni turno, le Passive di Supporto si attivano quando le loro condizioni vengono raggiunte."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_07_title_01",
+      "content": "Icone delle Abilità"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_07_desc_01",
+      "content": "Il colore di un'Icona Abilità corrisponde ad un'Affinità Peccato.\nLe Affinità Peccato sono le seguenti: Ira, Lussuria, Accidia, Gola, Tristezza, Superbia, Invidia."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_08_desc_01",
+      "content": "Nella parte inferiore dell'Icona Abilità viene mostrato il suo Tipo di Attacco.\nI Tipi di Attacco sono i seguenti: Tagliente, Perforante, Contundente."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_08_desc_02",
+      "content": "A sinistra dell'Icona Abilità viene mostrato il suo Potere Base."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_08_desc_03",
+      "content": "Nella parte superiore di un'Icona Abilità sta il suo Potere Moneta.\nI tipi di calcolo per il Potere Moneta sono i seguenti: Più, Meno, e Moltiplicazione."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_09_desc_01",
+      "content": "Il numero di Monete delle Abilità viene mostrato qui."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_09_desc_02",
+      "content": "Qui sono indicate quante copie di un'Abilità sono a disposizione dell'Identità."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_09_desc_03",
+      "content": "Il Livello Offensivo dell'Abilità e il suo modificatore vengono mostrati qui. La differenza tra il Livello Offensivo dell'Attacco e il Livello Difensivo del bersaglio influenza la quantità di danni inflitti."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_10_desc_01",
+      "content": "Il Peso Attacco dell'Abilità è mostrato qui. Un Peso Attacco più alto bersaglia più nemici. (es. 1 Peso Att bersaglia un nemico, 3 Peso Att bersaglia 3 nemici)"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_11_title_01",
+      "content": "Effetti Abilità"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_11_desc_01",
+      "content": "Le Abilità possono avere degli effetti che si attivano quando si verificano le condizioni indicate."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_11_title_02",
+      "content": "Effetti delle Monete"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_11_desc_02",
+      "content": "Le Abilità potrebbero avere effetti che si attivano quando si verificano le condizioni delle Monete indicate (es. Testa Colpisce, Croce Colpisce). Gli effetti delle Monete non si attiveranno quando le condizioni non si verificano."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo",
+      "content": "Informazioni sugli E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_01_title_01",
+      "content": "Grado Intreccio"
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_01_desc_01",
+      "content": "Aumentare il Grado di Intreccio migliora le Abilità e gli Effetti degli E.G.O."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_02_title_01",
+      "content": "Resistenze"
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_02_desc_01",
+      "content": "Le Resistenze dell'E.G.O vengono mostrate qui. Se un'Identità ha usato un'Abilità E.G.O, le sue Resistenze vengono sostituite dalle Resistenze dell'E.G.O usato."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_02_title_02",
+      "content": "Costo in Sanità"
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_02_desc_02",
+      "content": "La quantità di PS spesi usando l'Abilità E.G.O viene mostrata qui."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_02_title_03",
+      "content": "Costo in Risorse dell'E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_02_desc_03",
+      "content": "Le risorse E.G.O richieste per usare l'Abilità E.G.O vengono mostrate qui."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_03_title_01",
+      "content": "Abilità E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_03_desc_01",
+      "content": "Le Abilità E.G.O hanno Potere Base e/o Moneta alto ed Effetti potenti. I dettagli delle Abilità E.G.O vengono mostrati qui."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_04_desc_01",
+      "content": "Se un'Identità con PS bassi usa un'Abilità E.G.O, c'è una probabilità che al suo posto venga usata una potente Abilità Corrosione E.G.O.\nUsare un'Abilità Corrosione E.G.O comporta un rischio, in quanto questa attacca indiscriminatamente e potrebbe bersagliare anche gli alleati."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_05_desc_01",
+      "content": "Puoi attivare forzatamente un'Abilità Corrosione E.G.O al costo di 1.5 volte la quantità di Risorse e PS rispetto al normale. Questo si chiame Overclock dell' E.G.O.\nL'Overclock dell'E.G.O si può attivare tenendo premuta la Carta dell'E.G.O nel menù di selezione Abilità E.G.O durante il combattimento."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_05_desc_02",
+      "content": "Un'Abilità Overclock E.G.O Stabile verrà attivata se sono disponibili abbastanza Costi E.G.O (1.5 volte i soliti). Le Abilità Overclock E.G.O Stabili distinguono gli alleati dai nemici."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_05_desc_03",
+      "content": "Se i Costi E.G.O disponibili non sono sufficenti, al suo posto viene attivata un'Abilità Overclock E.G.O Instabile. Le Abilità Overclock E.G.O Instabili non distinguono gli alleati dai nemici."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_06_desc_01",
+      "content": "Usare un'Abilità E.G.O attiverà la sua Passiva il turno successivo."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_07_title_01",
+      "content": "Icone Abilità"
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_07_desc_01",
+      "content": "Il colore di un'Icona Abilità corrisponde ad un'Affinità Peccato.\nLe Affinità Peccato sono le seguenti: Ira, Lussuria, Accidia, Gola, Tristezza, Superbia, Invidia."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_08_desc_01",
+      "content": "In fondo ad un'Icona Abilità si trova il suo Tipo di Attacco. I Tipi di Attacco sono i seguenti: Tagliente, Perforante, e Contundente."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_08_desc_02",
+      "content": "Alla sinistra di un'Icona Abilità si trova il suo Potere Base."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_08_desc_03",
+      "content": "In cima all' Icona Abilità si trova il suo Potere Moneta. I tipi di calcolo del Potere Moneta sono i seguenti: Più, Meno e Moltiplicazione."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_09_desc_01",
+      "content": "Il numero di Monete di l'Abilità è visualizzato qui."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_09_desc_02",
+      "content": "Il Livello Offensivo dell'Abilità e il suo modificatore sono mostrati qui. La differenza tra il Livello Offensivo dell'Attacco e il Livello Difensivo del bersaglio influenza la quantità di danni inflitti."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_09_desc_03",
+      "content": "Il Peso Attacco dell'Abilità è mostrato qui. Un Peso Attacco più alto bersaglia più nemici. (es. 1 Peso Att bersaglia un nemico, 3 Peso Att bersaglia 3 nemici)"
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_10_title_01",
+      "content": "Effetti Abilità"
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_10_desc_01",
+      "content": "Le Abilità potrebbero avere degli effetti che si attivano quando le condizioni indicate si avverano."
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_10_title_02",
+      "content": "Effetti delle Monete"
+    },
+    {
+      "id": "tutorial_mainui_04_egoinfo_page_10_desc_02",
+      "content": "Le Abilità potrebbero avere effetti che si attivano quando le condizioni delle Monete indicate(es. Testa Colpisce, Croce Colpisce) si avverano. Gli effetti delle Monete non si attiveranno quando le condizioni non si avverano."
+    },
+    {
+      "id": "tutorial_mainui_05_storymain",
+      "content": "La Storia Principale"
+    },
+    {
+      "id": "tutorial_mainui_05_storymain_page_01_title_01",
+      "content": "Selezione Canto"
+    },
+    {
+      "id": "tutorial_mainui_05_storymain_page_01_desc_01",
+      "content": "Puoi rileggere le parti della storia qui. Seleziona un Canto."
+    },
+    {
+      "id": "tutorial_mainui_05_storymain_page_02_title_01",
+      "content": "Elenco delle Scene"
+    },
+    {
+      "id": "tutorial_mainui_05_storymain_page_02_desc_01",
+      "content": "Seleziona la scena che vuoi rileggere."
+    },
+    {
+      "id": "tutorial_mainui_05_storymain_page_03_title_01",
+      "content": "Posizione nella Storia"
+    },
+    {
+      "id": "tutorial_mainui_05_storymain_page_03_desc_01",
+      "content": "Puoi vedere anche in quale sezione la scena si è svolta per la prima volta."
+    },
+    {
+      "id": "tutorial_mainui_06_storyidentity",
+      "content": "Storie delle Identità"
+    },
+    {
+      "id": "tutorial_mainui_06_storyidentity_page_01_title_01",
+      "content": "Seleziona un Peccatore"
+    },
+    {
+      "id": "tutorial_mainui_06_storyidentity_page_01_desc_01",
+      "content": "Qui puoi leggere i profili e le storie dei Peccatori. Seleziona un Peccatore."
+    },
+    {
+      "id": "tutorial_mainui_06_storyidentity_page_02_title_01",
+      "content": "Selezionare Identità"
+    },
+    {
+      "id": "tutorial_mainui_06_storyidentity_page_02_desc_01",
+      "content": "Seleziona l'Identità del Peccatore dalla lista."
+    },
+    {
+      "id": "tutorial_mainui_06_storyidentity_page_03_title_01",
+      "content": "Storia Identità"
+    },
+    {
+      "id": "tutorial_mainui_06_storyidentity_page_03_desc_01",
+      "content": "Puoi leggere la storia dell'Identità qui."
+    },
+    {
+      "id": "tutorial_mainui_06_storyidentity_page_04_title_01",
+      "content": "Dialoghi"
+    },
+    {
+      "id": "tutorial_mainui_06_storyidentity_page_04_desc_01",
+      "content": "Puoi riascoltare le frasi dette dall'Identità."
+    },
+    {
+      "id": "tutorial_mainui_07_storymirror",
+      "content": "Mondi Specchio"
+    },
+    {
+      "id": "tutorial_mainui_07_storymirror_page_01_title_01",
+      "content": "Mondi Specchio"
+    },
+    {
+      "id": "tutorial_mainui_07_storymirror_page_01_desc_01",
+      "content": "Una volta selezionati, verrà mostrata la lista di Mondi Specchio."
+    },
+    {
+      "id": "tutorial_mainui_07_storymirror_page_01_title_02",
+      "content": "Organizzazione"
+    },
+    {
+      "id": "tutorial_mainui_07_storymirror_page_01_desc_02",
+      "content": "Nei Mondi Specchio, le varie storie delle Identità sono raccolte in base al riflesso da cui vengono. Puoi vedere ogni Mondo Specchio e le sue fazioni."
+    },
+    {
+      "id": "tutorial_mainui_07_storymirror_page_02_title_01",
+      "content": "Storie dallo Specchio"
+    },
+    {
+      "id": "tutorial_mainui_07_storymirror_page_02_desc_01",
+      "content": "Leggi ogni storia delle Identità in base al Mondo Specchio."
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain",
+      "content": "Sezioni Principali"
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_01_title_01",
+      "content": "Sezione"
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_01_desc_01",
+      "content": "Scegli in quale sezione entrare."
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_02_desc_01",
+      "content": "Dopo aver vinto il combattimento, la sezione sarà segnata come completata."
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_02_desc_02",
+      "content": "Se completi gli Obiettivi EX, guadagnerai ricompense bonus, e la sezione sarà segnata di conseguenza."
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_03_title_01",
+      "content": "Storia della Sezione"
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_03_desc_01",
+      "content": "Puoi anche rivedere le scene viste in questa sezione."
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_03_title_02",
+      "content": "Descrizione Sezione"
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_03_desc_02",
+      "content": "Puoi vedere una sinossi e descrizione della sezione qui."
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_03_title_03",
+      "content": "Informazioni sui Nemici"
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_03_desc_03",
+      "content": "Puoi leggere informazioni sui nemici che appariranno. Le informazioni su alcuni nemici potenti saranno disponibili solo dopo averli incontrati."
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_04_title_01",
+      "content": "Obiettivi EX"
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_04_desc_01",
+      "content": "Gli Obiettivi EX sono mostrati qui."
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_04_title_02",
+      "content": "Entrare in una Sezione"
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_04_desc_02",
+      "content": "Entrare nelle sezioni con combattimento costa Encefalina."
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_05_title_01",
+      "content": "Limite di Partecipanti"
+    },
+    {
+      "id": "tutorial_mainui_08_stagemain_page_05_desc_01",
+      "content": "Ogni sezione ha un limite al numero di partecipanti."
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon",
+      "content": "Dungeon della Storia"
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon_page_01_title_01",
+      "content": "Finestra di Informazioni sul Dungeon"
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon_page_01_desc_01",
+      "content": "Un dungeon ti aspetta alla fine di ogni episodio. Entrare nei dungeon costa Moduli di Encefalina."
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon_page_02_title_01",
+      "content": "Esplorazione dei Dungeon"
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon_page_02_desc_01",
+      "content": "Puoi procedere spostandoti agli spazi adiacenti alla tua postazione. Incontrerai vari nemici e anche eventi con conseguenze."
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon_page_03_title_01",
+      "content": "Salute dei Peccatori"
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon_page_03_desc_01",
+      "content": "I PV, PS e morti dei Peccatori saranno mantenuti tra un'incontro e l'altro."
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon_page_03_title_02",
+      "content": "Checkpoint"
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon_page_03_desc_02",
+      "content": "Quando raggiungi un checkpoint, i tuoi Peccatori verranno completamente curati."
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon_page_04_title_01",
+      "content": "Doni E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon_page_04_desc_01",
+      "content": "Esplorando il dungeon, potresti ottenere Doni E.G.O; questo oggetti offrono degli effetti potenti che rimarranno fino alla fine dell'esplorazione."
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon_page_04_title_02",
+      "content": "Scendere tra Piani"
+    },
+    {
+      "id": "tutorial_mainui_09_stagedungeon_page_04_desc_02",
+      "content": "Un dungeon consiste di vari piani. Potrai procedere dopo aver preso la zona intorno alle scale."
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon",
+      "content": "Dungeon Specchio"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_01_title_01",
+      "content": "Lista dei Dungeon Specchio"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_01_desc_01",
+      "content": "Puoi scegliere uno dei vari Dungeon Specchio dove entrare. Ricevere i Premi del Dungon Specchio costa Moduli di Encefalina."
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_02_title_01",
+      "content": "Compendio dei Doni E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_02_desc_01",
+      "content": "Puoi vedere la lista dei Doni E.G.O che appaiono nel Dungeon Specchio. Certi Doni E.G.O devono essere sbloccati raggiungendo condizioni specifiche."
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_03_title_01",
+      "content": "Doni E.G.O Iniziali"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_03_desc_01",
+      "content": "Quando entri in un Dungeon Specchio, ti verrà offerta una selezione casuale di Doni E.G.O per aiutare nell'esplorazione. Scegline una da portare dentro."
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_04_title_01",
+      "content": "Selezionare i Peccatori"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_04_desc_01",
+      "content": "Crea una squadra di tre peccatori che devono svolgere l'esplorazione."
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_05_title_01",
+      "content": "Selezionare le Identità"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_05_desc_01",
+      "content": "Seleziona le Identità per i Peccatori. Nei Dungeon Specchio, tutte le Identità partono dal Livello 10, e possono aumentare di livello procedendo."
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_06_title_01",
+      "content": "Selezionare gli E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_06_desc_01",
+      "content": "Scegli gli E.G.O da equipaggiare per i tuoi Peccatori. Puoi solo selezionare E.G.O di grado ZAYIN durante lo schieramento."
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_07_title_01",
+      "content": "Esplorare il Dungeon Specchio"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_07_desc_01",
+      "content": "La struttura ed i percorsi nel Dungeon Specchio sono generati casualmente ogni volta che entri. Procedi spostandoti ad uno degli spazi adiacenti nel prossimo settore, e supera gli incontri e eventi che ti aspettano."
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_08_title_01",
+      "content": "Doni E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_08_desc_01",
+      "content": "Mentre esplori il dungeon, potrai acquisire dei Doni E.G.O; questi oggetti offrono degli effetti potenti che rimangono fino alla fine dell'esplorazione."
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_08_title_02",
+      "content": "Salute dei Peccatori"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_08_desc_02",
+      "content": "I PV, PS e morti dei Peccatori saranno mantenuti tra un'incontro e l'altro."
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_09_title_01",
+      "content": "Selezionare i Peccatori"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_09_desc_01",
+      "content": "Alcuni eventi ti permetteranno di aggiungere più Peccatori alla tua squadra."
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_09_title_02",
+      "content": "Potenziarsi"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_09_desc_02",
+      "content": "Nel Dungeon Specchio, le Identità si potenziano gradualmente mentre procedi. Aumentane il Livello e equipaggia più E.G.O grazie ad alcuni combattimenti e eventi."
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_10_title_01",
+      "content": "Ricompense del Dungeon Specchio"
+    },
+    {
+      "id": "tutorial_mainui_10_mirrordungeon_page_10_desc_01",
+      "content": "Otterrai una ricompensa una volta completato il dunngeon, e verrà aggiunto un bonus un numero preciso di volte ogni settimana. La quantità di ricompense è proporzionata al numero di nodi superati."
+    },
+    {
+      "id": "tutorial_mainui_11_extraction",
+      "content": "Estrazioni"
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_01_title_01",
+      "content": "Categorie"
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_01_desc_01",
+      "content": "Puoi scegliere tra Estrazioni Standard ed Estrazioni Mirate."
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_01_title_02",
+      "content": "Estrazione"
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_01_desc_02",
+      "content": "Puoi spendere Follia per estrarre Identità o E.G.O."
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_02_title_01",
+      "content": "Periodo di Mira"
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_02_desc_01",
+      "content": "Puoi vedere quando durerà il banner di Estrazione limitata."
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_02_title_02",
+      "content": "Obiettivo Incluso"
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_02_desc_02",
+      "content": "Puoi vedere dettagli sull'Identità o E.G.O inclusi qui."
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_03_title_01",
+      "content": "Cronologia Estrazione"
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_03_desc_01",
+      "content": "Puoi vedere il registro delle estrazioni precedenti qui."
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_03_title_02",
+      "content": "Informazioni Probabilità"
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_03_desc_02",
+      "content": "Puoi vedere la probabilità che l'Identità o E.G.O inclusi vengano estratti."
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_04_title_01",
+      "content": "ScheggieEgo"
+    },
+    {
+      "id": "tutorial_mainui_11_extraction_page_04_desc_01",
+      "content": "Quando ottieni un'Identità che possiedi già, riceverai delle ScheggieEgo in base alla rarità."
+    },
+    {
+      "id": "tutorial_mainui_12_vendingmachine",
+      "content": "Dispensa"
+    },
+    {
+      "id": "tutorial_mainui_12_vendingmachine_page_01_title_01",
+      "content": "Catalogo della Dispensa"
+    },
+    {
+      "id": "tutorial_mainui_12_vendingmachine_page_01_desc_01",
+      "content": "Puoi scambiare ScheggieEgo per Identità o E.G.O che non possiedi già."
+    },
+    {
+      "id": "tutorial_mainui_12_vendingmachine_page_02_title_01",
+      "content": "Tipi nella Dispensa"
+    },
+    {
+      "id": "tutorial_mainui_12_vendingmachine_page_02_desc_01",
+      "content": "Puoi comprare Identità e E.G.O disponibili in modo permanente, e in più quelle di stagioni passate."
+    },
+    {
+      "id": "tutorial_mainui_12_vendingmachine_page_03_title_01",
+      "content": "Scegliere Cose da Comprare"
+    },
+    {
+      "id": "tutorial_mainui_12_vendingmachine_page_03_desc_01",
+      "content": "Per comprare un' Identità o E.G.O da qui, ti serviranno delle ScheggieEgo del Peccatore."
+    },
+    {
+      "id": "tutorial_mainui_12_vendingmachine_page_04_title_01",
+      "content": "Scambio Filo"
+    },
+    {
+      "id": "tutorial_mainui_12_vendingmachine_page_04_desc_01",
+      "content": "Le ScheggieEgo si possono anche scambiare per del Filo."
+    },
+    {
+      "id": "tutorial_mainui_12_vendingmachine_page_04_title_02",
+      "content": "Filo"
+    },
+    {
+      "id": "tutorial_mainui_12_vendingmachine_page_04_desc_02",
+      "content": "Il filo può essere usato per Legare le Identità e intrecciare l'E.G.O."
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_manager",
+      "content": "Informazioni Manager"
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_01_title_01",
+      "content": "Informazioni Utente"
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_01_desc_01",
+      "content": "Qui puoi vedere le tue informazioni di utente, lista di personaggi di supporto, e la tua lista di amici."
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_02_title_01",
+      "content": "Informazioni Utente"
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_02_desc_01",
+      "content": "L'ID Utente (UID) e livello dell'account sono visualizzati qui."
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_02_title_02",
+      "content": "Banner"
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_02_desc_02",
+      "content": "Puoi configurare i tuoi banner decorativi."
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_03_title_01",
+      "content": "Volto della Compagnia"
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_03_desc_01",
+      "content": "Puoi scegliere un'illustrazione dei Peccatori da mostrare tra quelle che possiedi."
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_04_title_01",
+      "content": "Lista Illustrazioni"
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_04_desc_01",
+      "content": "Puoi vedere le illustrazioni delle Identità e E.G.O che possiedi."
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_05_title_01",
+      "content": "Presentazione"
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_05_desc_01",
+      "content": "Usa una combinazione delle frasi e parole che ti vengono date per presentarti."
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_06_title_01",
+      "content": "Creare una presentazione"
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_06_desc_01",
+      "content": "Scegli da una lista di frasi e parole prefatte per la tua presentazione."
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_company",
+      "content": "Compagnia"
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_07_title_01",
+      "content": "Identità di Supporto"
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_07_desc_01",
+      "content": "Puoi assegnare Identità e E.G.O di supporto per aiutare gli altri."
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_friend",
+      "content": "Amici"
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_08_title_01",
+      "content": "Lista Amici"
+    },
+    {
+      "id": "tutorial_mainui_13_userinfo_page_08_desc_01",
+      "content": "Puoi vedere gli ID, banner, presentazioni, e tempo di accesso più recente dei tuoi amici; e infine, aggiungere utenti come amici!"
+    },
+    {
+      "id": "tutorial_mainui_14_battlepass_title",
+      "content": "Battle Pass"
+    },
+    {
+      "id": "tutorial_mainui_14_battlepass_page_01_title_01",
+      "content": "Ricompense del Battle Pass"
+    },
+    {
+      "id": "tutorial_mainui_14_battlepass_page_01_desc_01",
+      "content": "Puoi vedere e raccogliere ricompense per i livelli del battle pass gratuito e del Limbus Pass."
+    },
+    {
+      "id": "tutorial_mainui_14_battlepass_page_02_title_01",
+      "content": "Durata del Pass e Nome"
+    },
+    {
+      "id": "tutorial_mainui_14_battlepass_page_02_desc_01",
+      "content": "Puoi vedere il titolo del battle pass e la durata."
+    },
+    {
+      "id": "tutorial_mainui_14_battlepass_page_02_title_02",
+      "content": "Livello del Pass e Progressi"
+    },
+    {
+      "id": "tutorial_mainui_14_battlepass_page_02_desc_02",
+      "content": "Puoi vedere il livello del tuo battle pass e i tuoi progressi qui."
+    },
+    {
+      "id": "tutorial_mainui_14_battlepass_page_03_title_01",
+      "content": "Missioni del Battle Pass"
+    },
+    {
+      "id": "tutorial_mainui_14_battlepass_page_03_desc_01",
+      "content": "Questa è la lista di missioni che ti daranno progressi nel battle pass quando vengono completate. Ci sono missioni giornaliere, settimanali, e stagionali."
+    },
+    {
+      "id": "tutorial_mainui_14_battlepass_page_04_title_01",
+      "content": "Ricompense per Livello Massimo"
+    },
+    {
+      "id": "tutorial_mainui_14_battlepass_page_04_desc_01",
+      "content": "Una volta che avrai raggiunto il livello massimo di ricompense definite del battle passs, riceverai ricompense aggiuntive ad ogni aumento do livello. Chi possiede il Limbus Pass otterrà ricompense aggiuntive."
+    },
+    {
+      "id": "tutorial_mainui_15_exp_dungeon_title",
+      "content": "Scavoluce ESP"
+    },
+    {
+      "id": "tutorial_mainui_15_exp_dungeon_page_01_title_01",
+      "content": "Lista di Siti per Scavoluce"
+    },
+    {
+      "id": "tutorial_mainui_15_exp_dungeon_page_01_desc_01",
+      "content": "Scegli in quale sezione entrare in base alla forza dei tuoi Peccatori. Entrare nelle sezioni di Scavoluce costa Moduli di Encefalina."
+    },
+    {
+      "id": "tutorial_mainui_15_exp_dungeon_page_02_title_01",
+      "content": "Affinità Utili"
+    },
+    {
+      "id": "tutorial_mainui_15_exp_dungeon_page_02_desc_01",
+      "content": "I nemici in Scavoluce ESP hanno resistenze specifiche. Puoi vedere il tipo e Affinità che saranno più efficaci per ogni sezione prima di entrare."
+    },
+    {
+      "id": "tutorial_mainui_15_exp_dungeon_page_03_title_01",
+      "content": "Ricompense dello Scavoluce ESP"
+    },
+    {
+      "id": "tutorial_mainui_15_exp_dungeon_page_03_desc_01",
+      "content": "In Scavoluce ESP, puoi acquisire esperienza dal combattimento e Biglietti per Addestramento Identità, e puoi guadagnare ricompense bonus per un numero fisso di vittorie al giorno."
+    },
+    {
+      "id": "tutorial_mainui_16_thread_dungeon_title",
+      "content": "Scavoluce Filo"
+    },
+    {
+      "id": "tutorial_mainui_16_thread_dungeon_01_title_01",
+      "content": "Lista di Siti per Scavoluce"
+    },
+    {
+      "id": "tutorial_mainui_16_thread_dungeon_page_01_desc_01",
+      "content": "Include sezioni di combattimento con Anormalità diverse a seconda del giorno della settimana. Entrare nelle sezioni di Scavoluce costa Moduli di Encefalina."
+    },
+    {
+      "id": "tutorial_mainui_16_thread_dungeon_page_02_title_01",
+      "content": "Affinità Utili"
+    },
+    {
+      "id": "tutorial_mainui_16_thread_dungeon_page_02_desc_01",
+      "content": "I nemici in Scavoluce Filo hanno resistenze specifiche. Puoi vedere il tipo e Affinità che saranno più efficaci per ogni sezione prima di entrare."
+    },
+    {
+      "id": "tutorial_mainui_16_thread_dungeon_page_03_title_01",
+      "content": "Seleziona il Livello"
+    },
+    {
+      "id": "tutorial_mainui_16_thread_dungeon_page_03_desc_01",
+      "content": "Scegli in quale sezione entrare in base alla forza dei tuoi Peccatori."
+    },
+    {
+      "id": "tutorial_mainui_16_thread_dungeon_page_04_title_01",
+      "content": "Ricompense dello Scavoluce Filo"
+    },
+    {
+      "id": "tutorial_mainui_16_thread_dungeon_page_04_desc_01",
+      "content": "Nello Scavoluce Filo, puoi acquisire Filo, e puoi guadagnare ricompense bonus per un numero fissso di vittorie al giorno."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_title",
+      "content": "Metro Rifrattive"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_01_title_01",
+      "content": "Apertura della Metro Rifrattiva"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_01_desc_01",
+      "content": "Le Tratte della Metro Rifrattiva saranno aperte per un certo periodo di tempo.\nPuoi entrare nelle Tratte disponibili senza costi."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_02_title_01",
+      "content": "Periodo di Apertura"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_02_desc_01",
+      "content": "Il tempo di apertura della Metro è visualizzato accanto alla Tratta."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_03_desc_01",
+      "content": "Dovrai scegliere delle Identità e E.G.O con cui cominciare la spedizione."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_04_desc_01",
+      "content": "Diversamente da altre modalità di combattimento, gli aumenti di Livello e Grado fatti alle tue Identità e E.G.O mentre la spedizione è ancora in corso non saranno riflettuti immediatamente dalla tua squadra."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_05_desc_01",
+      "content": "Non potrai modificare la tua squadra in alcun modo durante la spedizione. \nSe vuoi modificare le Identità e E.G.O portate o riflettere i loro miglioramenti, dovrai avviare una nuova spedizione."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_06_title_01",
+      "content": "Schermata Principale della Metro Rifrattiva"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_06_desc_01",
+      "content": "La Metro Rifrattiva consiste di 13 sezioni."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_07_title_01",
+      "content": "Incontri"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_07_desc_01",
+      "content": "Ogni combattimento nella Metro Rifrattiva the Metro Rifrattiva ti permetterà di appaiare direttamente le Abilità dei tuoi alleati con quelle dei nemici, similmente agli Incontri Mirati."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_08_title_01",
+      "content": "Risorse E.G.O Correnti"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_08_desc_01",
+      "content": "Le risorse E.G.O ottenute in una sezione saranno trasferite nella prossima."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_08_title_02",
+      "content": "Stato dei Peccatori"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_08_desc_02",
+      "content": "I PV, PS e disponibilità di un' Identità sono mostrati qui."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_09_title_01",
+      "content": "Turni Totali e Turni Totali Cumulativi"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_09_desc_01",
+      "content": "Quando completi una sezione, la Stazione registrerà il numero di turni serviti per superarla: Turni Totali.\nE in più il numore cumulativo di turni passati durante l'intera spedizione: Turni Totali Cumulativi."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_10_title_01",
+      "content": "Stato dei Peccatori"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_10_desc_01",
+      "content": "I PV, PS e disponibilità di un' Identità sono mostrati qui."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_11_title_01",
+      "content": "Requisiti per Banner"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_11_desc_01",
+      "content": "Puoi vedere i requisiti per ottenere i banner qui."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_11_desc_02",
+      "content": "Puoi ottenere dei banner con decorazioni più sfarzose raggiungeendo condizioni più difficili."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_12_title_01",
+      "content": "Gli Oggetti Smarriti"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_12_desc_01",
+      "content": "Dopo aver completato una sezione nella Tratta per la prima volta durante l'evento, i premi verranno mandati a Oggetti Smarriti."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_12_desc_02",
+      "content": "Dopo aver completato una sezione nella Tratta per la prima volta durante l'evento, i premi verranno mandati a Oggetti Smarriti.\nPer avere accesso agli Oggetti Smarriti, saranno richiesti dei Moduli di Encefalina.\nIn seguito, potrai accedervi e ricevere i premi che hai guadagnato senza altri costi."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_13_title_01",
+      "content": "Totale Registrato"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_13_desc_01",
+      "content": "Dopo aver completato la sezione finale, i dati della spedizione sarano salvati.\nSaranno registrate fino a 20 spedizioni.\nSe il registro contiene più di 20 spedizioni, saranno rimosse prima quelle con più Turni Totali Cumulativi; Se i Turni Totali Cumulativi sono gli stessi, allora il prossimo criterio sono il numero di morti.\nSe anche il numero di morti è identico, saranno rimosse le spedizioni più vecchie."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_14_title_01",
+      "content": "Riposo"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_14_desc_01",
+      "content": "La Vita e Sanità dei tuoi Peccatori sarnno mantenute tra le sezioni.\nPerò, dopo aver completato una sezione, chiunque non abbia partecipato al combattimento recupererà tutti i PV e PS entrando nella prossima sezione.\nLa Sanità sopra lo 0 verrà mantenuta in ogni caso."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_15_title_01",
+      "content": "Rompere i Dati"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_15_desc_01",
+      "content": "Durante una spedizione, puoi scegliere di ricominciare dalle Stazioni completate in precedenza.\nQuando lo fai, la battaglia inizierà con gli Stati dei Peccatori e risorse E.G.O riportati a quel punto, e ogni progresso che hai fatto da quella Stazione sarà resettato."
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_16_title_01",
+      "content": "I Banner Decorativi Speciali della Metro"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_16_desc_01",
+      "content": "Quando una Tratta della Metro Rifrattiva si chiude, i migliori Turni Totali Cumulativi registrati saranno incisi nella zona inferiore del banner della Tratta."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_title",
+      "content": "Galline da Incubo"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_01_title_01",
+      "content": "Sbloccare Galline da Incubo"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_01_desc_01",
+      "content": "La [Pagina Evento Galline da Incubo] si apre dopo aver completato la Sezione 3-22 della Storia Principale.\nPuoi aprire la pagina dell'evento dal buttone a lato della Finestra o da Guida."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_02_title_01",
+      "content": "Durata Evento"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_02_desc_01",
+      "content": "La durazione dell'evento Galline da Incubo è visualizzata qui. Durante l'evento, puoi ottenere [Pupazzi di Bongy] completando le Sezioni e Dungeon nell'evento e nella Storia Principale."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_02_desc_02",
+      "content": "※ Dungeon Specchio, Scavoluce, e la Metro Rifrattiva non danno [Pupazzi di Bongy]."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_03_title_01",
+      "content": "Sezioni Evento"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_03_desc_01",
+      "content": "Galline da Incubo consiste di 8 sezioni e 2 dungeon.\nQueste sezioni e dungeon offrono anche molti di [Pupazzi di Bongy] come bonus per il primo Completamento EX."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_03_desc_02",
+      "content": "Puoi ottenere molti più [Pupazzi di Bongy] dai Dungeon di Galline da Incubo rispetto alle sezioni normali."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_04_title_01",
+      "content": "Unità con Bonus Evento"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_04_desc_01",
+      "content": "Avere Identità e E.G.O dall'evento Galline da Incubo nella tua squadra aumenta la quantità di [Pupazzi di Bongy] ottenuti dalle sezioni e dungeon."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_05_title_01",
+      "content": "Scambio di Coupon"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_05_desc_01",
+      "content": "Puoi reclamare vari premi dallo [Scambio di Coupon] in base al numero di [Pupazzi di Bongy] in tuo possesso."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_06_title_01",
+      "content": "Scambio di Coupon"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_06_desc_01",
+      "content": "Puoi acquisire Identità e E.G.O in premio per l'evento, e in più varie risorse dallo [Scambio di Coupon]."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_06_desc_02",
+      "content": "La durata di apertura dello [Scambio di Coupon] è qui."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_07_title_01",
+      "content": "Dungeon dell'Evento"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_07_desc_01",
+      "content": "I Dungeon di Galline da Incubo funzionano in modo simile al Dungeon Specchio.\nI Dungeon hanno due difficoltà; le loro caratteristiche principali sono le seguenti."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_08_title_01",
+      "content": "Selezionare Doni E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_08_desc_01",
+      "content": "Vari Doni E.G.O dal Dungeon Specchio appariranno nel Dungeon di Galline da Incubo.\nQuesti Doni E.G.O aiuteranno le Identità e E.G.O dell'evento a brillare nelle loro specialità."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_09_title_01",
+      "content": "Preparazione Squadra Evento"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_09_desc_01",
+      "content": "Nei dungeon di Galline da Incubo, inizierai la spedizione con 5 Identità."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_09_title_02",
+      "content": "Prefatta"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_09_desc_02",
+      "content": "Per convenienza dei giocatori, una funzione 'prefatta' è stata aggiunta ai Dungeon di Galline da Incubo.\nUsando il bottone per squadra prefatta, puoi caricare velocemente l'ultima squadra che hai usato e avere un'entrata veloce."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_10_title_01",
+      "content": "Struttura del Dungeon"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_10_desc_01",
+      "content": "La distribuzione e i percorsi nei dungeon di Galline da Incubo sono creati casualmente ogni volta che entri.\nQuesti dungeon constistono di un solo piano, e il nodo finale contiene sempre il boss di Galline da Incubo."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_11_title_01",
+      "content": "Incontri Esclusivi"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_11_desc_01",
+      "content": "Ci sono degli incontri speciali e Doni E.G.O unici ai dungeon di Galline da Incubo.\nQueste specialità sono segnate con un'icona unica sotto al nodo nel dungeon per riconoscerle più facilmente."
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_12_title_01",
+      "content": "Chiusura dell'Evento"
+    },
+    {
+      "id": "tutorial_mainui_18_hells_chicken_12_desc_01",
+      "content": "Anche una volta che l'evento è finito del tutto, potrai affrontare i combattimenti e vedere la storia di Galline da Incubo in qualunque momento da Guida - [Deviazione] e Teatro - [Deviazioni]."
+    },
+    {
+      "id": "tutorial_manual_1_season_information_title",
+      "content": "Guida alle Stagioni"
+    },
+    {
+      "id": "tutorial_manual_1_season_information_01_title_01",
+      "content": "Durata della Stagione"
+    },
+    {
+      "id": "tutorial_manual_1_season_information_01_desc_01",
+      "content": "Quando inizia una nuova stagione, verrà aggiunto un nuovo Battle Pass.\nPuoi vedere la durata della stagione corrente nella schermata del Battle Pass."
+    },
+    {
+      "id": "tutorial_manual_1_season_information_02_title_01",
+      "content": "Ricompense del Battle Pass"
+    },
+    {
+      "id": "tutorial_manual_1_season_information_02_desc_01",
+      "content": "Dal Battle Pass puoi ottenere risorse per la stagione corrente e anche E.G.O."
+    },
+    {
+      "id": "tutorial_manual_1_season_information_03_title_01",
+      "content": "Informazioni sulla Stagione delle Identità e E.G.O"
+    },
+    {
+      "id": "tutorial_manual_1_season_information_03_desc_01",
+      "content": "Puoi vedere la stagione a cui appartengono un' Identità o E.G.O nella barra delle informazioni.\nQuelli senza stagione associata sono classificati come [Regolare]."
+    },
+    {
+      "id": "tutorial_manual_1_season_information_04_title_01",
+      "content": "Informazioni sulla Stagione delle Identità e E.G.O degli Eventi"
+    },
+    {
+      "id": "tutorial_manual_1_season_information_04_desc_01",
+      "content": "Le Identità e E.G.O degli Eventi hanno [EVENTO] accanto alla loro stagione."
+    },
+    {
+      "id": "tutorial_manual_1_season_information_05_title_01",
+      "content": "ScheggieEgo"
+    },
+    {
+      "id": "tutorial_manual_1_season_information_05_desc_01",
+      "content": "Le ScheggieEgo possono essere usate per il periodo indicato, corrispondente alla durata della Stagione.\n\nQuando inizia una nuova Stagione, metà delle ScheggieEgo della scorsa Stagione verranno trasferite nella nuova, convertite e arrotondate in su per la nuova Stagione.\n\nLe porzioni trasferite di ScheggieEgo non ancora convertite di Stagioni ancora più vecchie verranno dimezzate per ogni Stagione passata.\n\nLe ScheggieEgo non trasferite verranno convertite in Filo."
+    },
+    {
+      "id": "tutorial_manual_1_season_information_06_title_01",
+      "content": "Casse di ScheggieEgo"
+    },
+    {
+      "id": "tutorial_manual_1_season_information_06_desc_01",
+      "content": "Come per le ScheggieEgo, le Casse di ScheggieEgo possono essere usate per il periodo indicato, corrispondente alla durata della Stagione.\n\nQuando inizia una nuova Stagione, metà delle Casse di ScheggieEgo (sia A Scelta che Casuali) della scorsa Stagione verranno trasferite nella nuova, convertite e arrotondate in su per la nuova Stagione.\n\nLe porzioni trasferite di Casse di ScheggieEgo non ancora convertite di Stagioni ancora più vecchie verranno dimezzate per ogni Stagione passata.\n\nLe Casse di ScheggieEgo non trasferite verranno convertite in Casse di Filo."
+    },
+    {
+      "id": "tutorial_manual_1_season_information_07_title_01",
+      "content": "Estrazioni"
+    },
+    {
+      "id": "tutorial_manual_1_season_information_07_desc_01",
+      "content": "Le Identità e E.G.O di una nuova Stagione verranno aggiunte alla lista di cose da Estrarre.\nLe Identità dalle Stagioni precedenti rimangono nella lista, quindi possono ancora essere Estratte.\n※ Le Identità & E.G.O di un'Evento delle Stagioni precedenti potrebbero ancora apparire dalle Estrazioni Mirate di un Peccatore. (Tranne le Identità & E.G.O in premio della Stagione immediatamente precedente)"
+    },
+    {
+      "id": "tutorial_manual_1_season_information_08_title_01",
+      "content": "Dispensa"
+    },
+    {
+      "id": "tutorial_manual_1_season_information_08_desc_01",
+      "content": "Le Identità e E.G.O della nuova Stagione diventeranno disponibili dalla Dispensa.\nIn più potrai comprare Identità e E.G.O dei Battle Pass delle Stagioni precedenti.\nNotate bene che le ID da Estrarre della Stagione immediatamente precedente non saranno disponibili nella Dispensa fino a 2 Stagioni dopo la loro."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon",
+      "content": "Dungeon Specchio"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_01",
+      "content": "Lista dei Dungeon Specchio"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_01",
+      "content": "Puoi scegliere un Dungeon Specchio dalla lista in cui entrare.\nPuoi venire svolta una sola spedizione alla volta; se vuoi entrare in un Dungeon Specchio diverso mentre è in corso una spedizione, dovrai completare o abbandonare la spedizione corrente.\nOgni Dungeon Specchio (escluso lo Specchio degli Inizi) ha due difficoltà: Normale e Difficile."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_02",
+      "content": "Bonus Settimanali"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_02",
+      "content": "Ogni settimana avrai 3 Bonus Settimanali da usare che ti daranno ricompense aggiuntive per le spedizioni nel Dungeon Specchio."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_03",
+      "content": "Requisiti per Sbloccare"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_03",
+      "content": "Ogni Dungeon Specchio ha dei requisiti per sbloccarlo."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_04",
+      "content": "Enciclopedia Doni E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_04",
+      "content": "Puoi vedere la lista di Doni E.G.O che appaiono nel Dungeon Specchio.\nQuelli che non hai ancora ottenuto nelle spedizioni nel Dungeon Specchio saranno indicati con \"Nessun Dato\"."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_05",
+      "content": "Dono E.G.O di Partenza"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_05",
+      "content": "Quando entri in un Dungeon Specchio, ti verrà offerta una selezione casuale di Doni E.G.O per autarti nell'esplorazione. Scegline uno da portare con te."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_06",
+      "content": "Selezionare Peccatori"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_06",
+      "content": "Sceglierai una squadra di Peccatori con cui entrare nel Dungeon Specchio.\nOgni Dungeon Specchio ha il suo limite di dimensioni per la squadra di partenza."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_07",
+      "content": "Doni E.G.O Ottenuti"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_07",
+      "content": "Puoi vedere i Doni E.G.O un tuo possesso al momento."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_08",
+      "content": "Prefatte"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_08",
+      "content": "Con le squadre prefatte, puoi usare una Squadra con Identità e E.G.O già scelti nella schermata 'Peccatori'."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_09",
+      "content": "Costo"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_09",
+      "content": "Puoi vedere il Costo a tua disposizione qui.\nIl Costo viene usato per comprare Doni E.G.O, o ottenere nuove Identità o E.G.O da aggiungere alla tua squadra nei negozi o alle zone di riposo.\nA difficoltà Normale, non ti sarà dato un Costo iniziale, ma la squadra di partenza non richiede un costo.\nA Difficoltà Difficile, ti sarà dato un Costo fisso per formare la tua squadra."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_10",
+      "content": "Selezionare Identità"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_10",
+      "content": "Seleziona Identità per i Peccatori.\nNel Dungeon Specchio, tutte le Identità sono portate al livello appropriato per il Dungeon."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_11",
+      "content": "Selezionare E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_11",
+      "content": "Scegli un'E.G.O da usare per il Peccatore selezionato."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_12",
+      "content": "Entra nel Dungeon Specchio"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_12",
+      "content": "Dopo aver finito di preparare la squadra, premi 'Conferma' per entrare nel Dungeon Specchio."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_13",
+      "content": "Esplorare il Dungeon Specchio"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_13",
+      "content": "LaLa distribuzione dei nodi e strade nel Dungeon Specchio è generata casualmente ogni volta che entri.\nProcedi spostandoti verso uno degli spazi nella zona adiacente, e pensa ai combattimenti e eventi che ti aspettano."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_14",
+      "content": "Doni E.G.O"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_14",
+      "content": "Esplorando il dungeon, potresti ottenere Doni E.G.O; questo oggetti offrono degli effetti potenti che rimarranno fino alla fine dell'esplorazione."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_15",
+      "content": "Salute dei Peccatori"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_15",
+      "content": "I PV, PS e morti dei Peccatori saranno mantenuti tra un'incontro e l'altro."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_16",
+      "content": "Attacchi Efficaci"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_16",
+      "content": "Below the combat encounter nodes in Dungeon Specchio, types and affinities effective against the enemies will be shown."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_17",
+      "content": "Zone per Riposarsi"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_17",
+      "content": "Nei Dungeon Specchio, ci sono della Fermate Riposo dove puoi curarti gratuitamente, o spendere Costo per aggiungere un'Identità o E.G.O alla tua Squadra."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_18",
+      "content": "Negozi"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_18",
+      "content": "Nei Negozi, puoi comprare Doni E.G.O, curare alleati, recrutare Identità o E.G.O, o potenziare gli alleati selezionati usando il Costo guadagnato dai combattimenti."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_19",
+      "content": "Ricompense Dungeon Specchio"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_19",
+      "content": "Dopo aver completato una spedizione, puoi spendere dei Moduli di Encefalina per ottenere ricompense.\nSe usi una tacca di Bonus Settimanale, potrai ottenere molta Esperienza del Battle Pass e della Follia.\nLa quantità di ricompense dipende dal numero di nodi completati."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_20",
+      "content": "Ricompense Difficoltà Difficile"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_20",
+      "content": "una volta che è stata sbloccata la Difficoltà Difficile di un Dungeon Specchio, le ricompense della difficoltà Difficile verranno mostrate sopra.\nA Difficoltà Difficile, puoi guadagnare più Esperienza del Battle Pass, ma puoi ottenere le ricompense solamente 3 volte a settimana.\nIl bonus per la difficoltà Difficile ed il bonus settimanale sono indipendenti; puoi ottenere ricompense migliori applicando il bonus settimanale alle ricompense per la difficoltà Difficile."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_21",
+      "content": "Buff iniziali"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_21",
+      "content": "Lo Specchio degli Specchi e il Dungeon Specchio seguente hanno buff iniziali che puoi attivare."
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_title_22",
+      "content": "Effetti dei Buff iniziali"
+    },
+    {
+      "id": "tutorial_mainui_19_mirrordungeon_desc_22",
+      "content": "I buff iniziali si possono attivare usando la 'Luce Stellare', che fornisce vari effetti utili durante la spedizione nel Dungeon Specchio.\nLA Luce Stellare può essere guadagnata giocando nel Dungeon Specchio. Arrivare a piani più lontani ne fornisce di più.\nI buff iniziali si applicano a sia la difficoltà Normale che Difficile, ma non influenzano gli altri Dungeon Specchio.\nNon puoi usare la Luce Stellare di un Dungeon Specchio per attivare i buff iniziali in un'altro Dungeon Specchio."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_title",
+      "content": "M.A.R.E."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_01_title_01",
+      "content": "Sbloccare M.A.R.E."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_01_desc_01",
+      "content": "La [Pagina Evento M.A.R.E.] si apre dopo aver completato la Sezione 4-54 della Storia Principale.\nPuoi entrare nella pagina dell'evento dal pulsante nella Finestra o da Guida."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_02_title_01",
+      "content": "Durata Evento"
+    },
+    {
+      "id": "tutorial_mainui_20_umida_02_desc_01",
+      "content": "La durata dell' evento M.A.R.E. è mostrata qui. Curante l'evento, puoi ottenere [Rottami Modifica-Bus] completando Sezioni e Dungeons nell'evento e Storia principale."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_02_desc_02",
+      "content": "※ Dungeon Specchio e Scavoluce non danno [Rottami Modifica-Bus]."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_03_title_01",
+      "content": "Sezioni Evento"
+    },
+    {
+      "id": "tutorial_mainui_20_umida_03_desc_01",
+      "content": "M.A.R.E. consiste di 12 sezioni, incluse sezioni con storia.\nQueste sezioni offrono anche mucchi di [Rottami Modifica-Bus] come bonus per il primo Completamento EX."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_03_desc_02",
+      "content": "Puoi ottenere molti più [Rottami Modifica-Bus] da M.A.R.E. rispetto alle Sezioni della Storia Principale."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_04_title_01",
+      "content": "Unità con Bonus Evento"
+    },
+    {
+      "id": "tutorial_mainui_20_umida_04_desc_01",
+      "content": "Avere Identità e E.G.O dell'evenro M.A.R.E. i squadra aumenta la quantità di [Rottami Modifica-Bus] ottenuta da sezioni e dungeon."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_05_title_01",
+      "content": "Scatola di Rottami"
+    },
+    {
+      "id": "tutorial_mainui_20_umida_05_desc_01",
+      "content": "Puoi comprare vari premi dalla [Scatola di Rottami] in base ai [Rottami Modifica-Bus] in tuo possesso."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_06_title_01",
+      "content": "Scatola di Rottami"
+    },
+    {
+      "id": "tutorial_mainui_20_umida_06_desc_01",
+      "content": "Puoi acquisire dalla [Scatola di Rottami] Identità e E.G.O in premio per l'evento, e anche varie risorse."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_06_desc_02",
+      "content": "La durata di apertura di [Scatola di Rottami] è mostrata qui."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_07_title_01",
+      "content": "Sezioni Evento"
+    },
+    {
+      "id": "tutorial_mainui_20_umida_07_desc_01",
+      "content": "M.A.R.E. non include un dungeon; invece, ha una sezione speciale da cui puoi ottenere molti più [Rottami Modifica-Bus]."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_07_desc_02",
+      "content": "La sezione speciale richiede di pagare Moduli di Encefalina per entrare."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_08_title_01",
+      "content": "Raro Ferro di Cavallo con Rottami Modifica-Bus"
+    },
+    {
+      "id": "tutorial_mainui_20_umida_08_desc_01",
+      "content": "Dopo aver vinto una battaglia, hai una piccola probabilità di trovare [Raro Ferro di Cavallo con Rottami Modifica-Bus].\nIl [Raro Ferro di Cavallo con Rottami Modifica-Bus] è convertito automaticamente in 20 [Rottami Modifica-Bus]."
+    },
+    {
+      "id": "tutorial_mainui_20_umida_09_title_01",
+      "content": "Chiusura dell'Evento"
+    },
+    {
+      "id": "tutorial_mainui_20_umida_09_desc_01",
+      "content": "Anche una volta che l'evento è finito del tutto, potrai affrontare i combattimenti e vedere la storia di M.A.R.E. in qualunque momento da Guida - [Deviazione] e Teatro - [Deviazioni]."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_01_title_01",
+      "content": "Come Entrare"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_01_desc_01",
+      "content": "La Metro Rifrattiva 2 non richiede risorse per partecipare. Seleziona una Tratta per entrare."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_02_title_01",
+      "content": "Squadra"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_02_desc_01",
+      "content": "Sceglierai alcune Identità e E.G.O con cui avviare la spedizione."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_03_desc_01",
+      "content": "Non puoi modificare la tua squadra mentre la spedizione è in corso. Diversamente da altre modalità di combattimento, gli aumenti di Livello e Grado fatti alle tue Identità e E.G.O mentre la spedizione è ancora in corso non saranno riflettuti immediatamente dalla tua squadra."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_04_title_01",
+      "content": "Stazioni della Tratta 2"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_04_desc_01",
+      "content": "La  Tratta 2 della Metro Rifrattiva consiste di 9 Stazioni."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_05_desc_01",
+      "content": "Seleziona la Stazione in cui entrare."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_05_desc_02",
+      "content": "La ricompense per aver completato questa stazione sono mostrate qui. Le ricompense di alcune Stazioni verranno sbloccate solo raggiunto le condizioni giuste riguardanti il Numero di Cicli."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_06_title_01",
+      "content": "Formazione Squadra"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_06_desc_01",
+      "content": "Puoi scegliere fino a 7 partecipanti per combattimento. Anche se puoi scegliere meno di 7 partecipanti, in quel caso non gli verranno dati altri Slot Abilità durante il combattimento."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_07_title_01",
+      "content": "Incontri"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_07_desc_01",
+      "content": "Ogni combattimento nella Metro Rifrattiva ti permetterà di associare le Abilità degli alleati direttamente a quelle dei nemici, proprio come negli Scontri Controllati."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_07_desc_02",
+      "content": "Una volta finito un combattimento, i PV, PS, le Abilità sul Pannello di Controllo, Abilità usate, e le Abilità rimanenti dell'Identità vengono salvati."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_08_desc_01",
+      "content": "Le risorse E.G.O ottenute dopo aver completato una Stazione saranno trasferite nella prossima."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_08_desc_02",
+      "content": "Il tuo Numero di Cicli e Turni Totali Cumulativi fino a questa Stazione sono mostrati qui."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_08_desc_03",
+      "content": "I PV, PS, e disponibilità delle tue Identità sono mostrati qui."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_09_desc_01",
+      "content": "Quando entrerai nella prossima Stazione, verranno caricate le informazioni salvate nella scorsa Stazione.\nLa Velocità degli alleati e dei nemici viene salvata entrando in una Stazione."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_09_desc_02",
+      "content": "La Velocità degli alleati e dei nemici viene salvata entrando in una Stazione."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_10_desc_01",
+      "content": "Dopo aver abbandonato una Sezione, ritornerai allo stato subito prima dell'entrata in questa sezione.\nI PV, PS, le Abilità sul Pannello di Controllo, Abilità usate, le Abilità rimanenti dell'Identità, la Velocità dei nemici e lo stato subito prima dell'entrata in Stazione non cambieranno."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_10_desc_02",
+      "content": "I PV, PS, le Abilità sul Pannello di Controllo, Abilità usate, le Abilità rimanenti dell'Identità, la Velocità dei nemici e lo stato subito prima dell'entrata in Stazione non cambieranno."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_11_desc_01",
+      "content": "Dopo la sconfitta, puoi tornare allo stato subito prima dell'entrata in Stazione o continuare con le tue Identità sopravvissute."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_11_desc_02",
+      "content": "Se decidessi di continuare, i PV attuali dei nemici verranno salvati. Le loro percentuali di PV rimasti saranno mostrate sopra la Stazione."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_12_title_01",
+      "content": "Cicli"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_12_desc_01",
+      "content": "Dopo aver completato tutte le Stazioni aperte sulla Tratta, puoi tornare alla Stazione #1(Prima Fermata) e continuare il Ciclo."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_12_desc_02",
+      "content": "Se decidessi di continuare il Ciclo, aumenterai di 1 il Numero di Cicli. Alcune Stazioni si apriranno solo dopo un certo Numero di Cicli."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_13_title_01",
+      "content": "Seleziona i Buff"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_13_desc_01",
+      "content": "At the end of every Cycle, you can choose 1 Ally Buff and 1 Enemy Buff."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_13_desc_02",
+      "content": "All selected Buffs will carry over to the coming encounters."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_14_desc_01",
+      "content": "Select 1 Ally Buff. You cannot select the same Buff you selected in the last Cycle."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_15_desc_01",
+      "content": "Select 1 Enemy Buff. You cannot select the same Buff you selected in the last Cycle.\nHowever, if all Buffs had been selected at least once, selection limits will reset and you can select any Buff you want again."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_15_desc_03",
+      "content": "Aside from the Buffs you select, every Cycle also gives 1 fixed Buff."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_16_desc_01",
+      "content": "Every 5 Cycles, you will have a chance to revive one of your dead allied Identità."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_17_title_01",
+      "content": "The Terminus"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_17_desc_01",
+      "content": "If you have completed a Cycle (If you have 1 or more Cycle Counts), the Terminus in the middle of this Tratta will be activated."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_17_desc_02",
+      "content": "Once the Terminus is activated, you can access it from any Stazione."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_18_desc_01",
+      "content": "You cannot go back to the previous Stazione once you enter the Terminus. Choose carefully."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_18_desc_02",
+      "content": "The ultimate goal of Metro Rifrattiva Tratta 2 is to complete the Terminus. Upon completion, your Cycle Count, Turni Totali Cumulativi, participating Identità & E.G.O, and selected Buffs will be recorded."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_19_title_01",
+      "content": "Banner Requisites"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_19_desc_01",
+      "content": "You can check the requirements for acquiring banners here."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_19_desc_02",
+      "content": "More special banners have harder acquisition conditions.\nUpon acquisition of the banner, your best Cycle Count and Total Turn records will be displayed on them."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_19_desc_03",
+      "content": "Upon acquisition of the banner, your best Cycle Count and Total Turn records will be displayed on them."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_20_title_01",
+      "content": "Oggetti Smarriti"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_20_desc_01",
+      "content": "After clearing a stage in the Tratta for the first time or meeting a certain condition, the rewards will be sent to the Oggetti Smarriti."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_20_desc_02",
+      "content": "To gain access to a reward for the first time at Oggetti Smarriti, a number of Moduli di Encefalina will be required.\nAfterward, you may freely access it and claim rewards you've earned at no additional cost."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_21_title_01",
+      "content": "Total Record"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_21_desc_01",
+      "content": "Upon clearing the final stage, your Metro Rifrattiva play record will be saved. Up to 20 records can be viewed."
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_21_desc_02",
+      "content": "When you have made more than 20 records, records with the least Cycle Count will be deleted first. If there are two lowest records with the same Cycle Count, the one with a higher Total Turn Count will be deleted."
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_1_title_01",
+      "content": "Alter Tratta Button"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_1_desc_01",
+      "content": "Upon clearing all Stazioni aperte on the Tratta, a button to continue to the next Tratta will appear."
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_2_title_01",
+      "content": "Cycle"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_2_desc_01",
+      "content": "You can take the Tratta to return to Stazione #1(Prima Fermata)."
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_2_desc_02",
+      "content": "In this process, you will gain 1 Cycle Count, and be asked to select 1 Ally Buff and 1 Enemy Buff that will be applied to the upcoming encounters."
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_3_title_01",
+      "content": "Select Buffs"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_3_desc_01",
+      "content": "At the end of every Cycle, you can choose 1 Ally Buff and 1 Enemy Buff."
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_3_desc_02",
+      "content": "All selected Buffs will carry over to the coming encounters."
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_4_desc_01",
+      "content": "Select 1 Ally Buff. You cannot select the same Buff you selected in the last Cycle."
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_5_desc_01",
+      "content": "Select 1 Enemy Buff. You cannot select the same Buff you selected in the last Cycle.\nHowever, if all Buffs had been selected at least once, selection limits will reset and you can select any Buff you want again."
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_5_desc_03",
+      "content": "Aside from the Buffs you select, every Cycle also gives 1 fixed Buff."
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_6_title_01",
+      "content": "Button to the Terminus"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_6_desc_01",
+      "content": "Once you've selected your Buffs, take the Tratta to Stazione #1(Prima Fermata). Some Stazioni will open only after reaching certain Cycle Counts."
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_6_desc_02",
+      "content": "After completing a Cycle, the Terminus in the middle of the Tratta will be activated. A button to enter the Terminus will also be activated."
+    },
+    {
+      "id": "tutorial_mainui_23_railway2_page_1_desc_01",
+      "content": "You cannot go back to the previous Stazione once you enter the Terminus. Choose carefully."
+    },
+    {
+      "id": "tutorial_mainui_23_railway2_page_1_desc_02",
+      "content": "The ultimate goal of Metro Rifrattiva Tratta 2 is to complete the Terminus. Upon completion, your Cycle Count, Turni Totali Cumulativi, participating Identità & E.G.O, and selected Buffs will be recorded."
+    },
+    {
+      "id": "tutorial_mainui_railway2_mainTitle",
+      "content": "Metro Rifrattiva Tratta 2"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_08_title_01",
+      "content": "Button to the Terminus"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_04_desc_02",
+      "content": "Only 3 Stazioni will be open upon entry. Growing your Cycle Count will sequentially open the subsequent Stazioni (Stazione #4 ~ #8)."
+    },
+    {
+      "id": "tutorial_walpurgisnacht_extraction",
+      "content": "Walpurgis Night"
+    },
+    {
+      "id": "tutorial_walpurgisnacht_extraction_page_01_desc_01",
+      "content": "Walpurgis Night Target Extractions will be available during the event period."
+    },
+    {
+      "id": "tutorial_walpurgisnacht_extraction_page_01_desc_02",
+      "content": "Walpurgis Night Target Extractions will have higher Extraction rates for Identità e E.G.O from the currently active Walpurgis Night event."
+    },
+    {
+      "id": "tutorial_walpurgisnacht_extraction_page_02_desc_01",
+      "content": "During the event period, Identità & E.G.O from the current Walpurgis Night event will be Extractable from other Extraction banners(save for Stagione relevant Extraction banners) as well.\n\nHowever, their extraction rates will be identical to those of other Identità & E.G.O."
+    },
+    {
+      "id": "tutorial_walpurgisnacht_extraction_page_03_desc_01",
+      "content": "During the event period, previous Walpurgis Night Identità & E.G.O will be Extractable from all Extraction banners(save for Stagione relevant Extraction banners).\n\nHowever, they will not receive increased rates for those Extractions."
+    },
+    {
+      "id": "tutorial_walpurgisnacht_extraction_page_04_desc_01",
+      "content": "Once the event period is over, Walpurgis Night Identità e E.G.O will no longer be Extractable."
+    },
+    {
+      "id": "tutorial_walpurgisnacht_vendingmachine",
+      "content": "Walpurgis Night"
+    },
+    {
+      "id": "tutorial_walpurgisnacht_vendingmachine_page_01_desc_01",
+      "content": "During the event period, Identità e E.G.O from all previous Walpurgis Night events are available from the Dispenser."
+    },
+    {
+      "id": "tutorial_walpurgisnacht_vendingmachine_page_02_desc_01",
+      "content": "Identità e E.G.O from the currently active Walpurgis Night event are not available from the Dispenser."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_01_title_01",
+      "content": "Mirror of the Lake"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_01_desc_01",
+      "content": "Stagione 3's Dungeon Specchio is called 'Mirror of the Lake'."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_01_desc_02",
+      "content": "Choose between 'Normal' and 'Hard' difficulties to enter."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_02_title_01",
+      "content": "Weekly Bonuses"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_02_desc_01",
+      "content": "Every week, Dungeon Specchio offer Weekly Bonuses. Use Weekly Bonuses when you're claiming the rewards for the run—and receive greatly increased rewards."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_02_desc_02",
+      "content": "'Normal' difficulty offers 3 Weekly Bonuses, and 'Hard' difficulty offers 1 Weekly Bonus."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_02_desc_03",
+      "content": "Clearing the 'Hard' Difficulty Dungeon Specchio will allow you to spend the rest of the Normal Difficulty Weekly Bonuses as well, maximizing the amount of rewards you gain from the Dungeon Specchio."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_03_title_01",
+      "content": "Sinners"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_03_desc_01",
+      "content": "You can view your currently deployed Sinners here."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_03_title_02",
+      "content": "Starter Buffs"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_03_desc_02",
+      "content": "Collect Starlight from completing Dungeon Specchio and use them to obtain several Starter Buffs that will help you in the Dungeon Specchio."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_03_title_03",
+      "content": "Dono E.G.O Compendium"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_03_desc_03",
+      "content": "You can view the list of Doni E.G.O that appear in the Dungeon Specchio. Obtaining an Dono E.G.O in the Dungeon Specchio will add an entry to your Dono E.G.O Compendium."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_04_title_01",
+      "content": "Starter Buffs"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_04_desc_01",
+      "content": "In Mirror of the Lake, you can increase your chances of obtaining higher Tier Doni E.G.O during your Dungeon Specchio run by activating more Starter Buffs."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_04_desc_02",
+      "content": "Starter Buffs do not change with the Dungeon Specchio difficulties."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_04_title_02",
+      "content": "Starlight"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_04_desc_03",
+      "content": "You can obtain Starlight from completing Dungeon Specchio runs."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_04_desc_04",
+      "content": "The higher you rise through the Dungeon Specchio floors, the more Starlight you will obtain."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_05_title_01",
+      "content": "Starting Dono E.G.O Choice"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_05_desc_01",
+      "content": "Upon Dungeon Specchio entry, you will be given 8 Dono E.G.O categories to choose from."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_05_desc_02",
+      "content": "You can choose as many Doni E.G.O as it is available to you from the same category."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_05_desc_03",
+      "content": "Doni E.G.O provide special effects in the Dungeon Specchio to assist you in your journey."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_05_desc_04",
+      "content": "You can obtain extra Starlight by choosing an Dono E.G.O category that you did not use in your immediately preceding run."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_06_title_01",
+      "content": "Forming the Team"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_06_desc_01",
+      "content": "Select Sinners who will participate in the Dungeon Specchio run."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_06_desc_02",
+      "content": "In the Dungeon Specchio deployment stage, all Identity Levels will be fixed to 40. In 'Hard' difficulty, your current Identity levels will be reflected instead."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_06_desc_03",
+      "content": "Deploy 1★ or 2★ Identità to gain additional Cost upon entry."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_06_desc_04",
+      "content": "Deploy Identità that have not been used in your immediately preceding Run to gain additional Cost upon entry."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_07_title_01",
+      "content": "Rest Bonus"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_07_desc_01",
+      "content": "The deployed Identity's Rest Bonus will be completely exhausted upon clearing the Dungeon Specchio. The more Rest Bonus you exhaust, the more Starlight you will earn."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_07_desc_02",
+      "content": "However, Identità that have been swapped in or out during the Dungeon Specchio run will not spend their Rest Bonuses, and will not provide additional Starlight."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_07_desc_03",
+      "content": "Identità that did not spend their Rest Bonuses, and Identità that were not swapped in or out will gain 1 Bar of Rest Bonus."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_08_title_01",
+      "content": "Entering the Dungeon Specchio"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_08_desc_01",
+      "content": "After finishing up the initial Team setup, press 'Confirm' to enter the Dungeon Specchio."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_08_desc_02",
+      "content": "This area displays the additional Cost you have gained over the deployment process."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_09_title_01",
+      "content": "Exploring Dungeon Specchio"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_09_desc_01",
+      "content": "The Dungeon Specchio rooms and paths are randomly generated."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_09_desc_02",
+      "content": "You proceed by moving to nodes adjacent to your current node. You may find various events or combat encounters in each of the nodes."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_09_title_02",
+      "content": "Cost"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_09_desc_03",
+      "content": "You will earn 'Cost' as you proceed through the Dungeon Specchio. 'Cost' you earned can be spent at Shops and Rest Stops."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_10_title_01",
+      "content": "Doni E.G.O"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_10_desc_01",
+      "content": "Acquired Doni E.G.O are displayed here. Doni E.G.O are items that offer powerful effects that last until the end of the Dungeon."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_10_title_02",
+      "content": "Effective Attacks"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page10_desc_02",
+      "content": "Below the combat Encounter nodes in Dungeon Specchio are types and affinities effective against the enemies in each node."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_10_title_03",
+      "content": "Stato dei Peccatori"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_10_desc_03",
+      "content": "The PV, PS, and lost lives of your Sinners will carry over between encounters."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_11_title_01",
+      "content": "Shops"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_11_desc_01",
+      "content": "At Shops, you can spend your 'Cost' to purchase Doni E.G.O, heal allies, deploy/swap out additional Identità or power up selected Identità."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_11_desc_02",
+      "content": "At Shops, you can sell Doni E.G.O you don't use to obtain 'Cost'."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_12_title_01",
+      "content": "Rest Stops"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_12_desc_01",
+      "content": "At Rest Stops, you can spend your 'Cost' to heal allies, deploy/swap out additional Identità or enhance Doni E.G.O."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_12_desc_02",
+      "content": "You can Fuse Doni E.G.O to obtain different Doni E.G.O."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_13_title_01",
+      "content": "Floor Buffs"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_13_desc_01",
+      "content": "Upon clearing a floor, you will obtain random enemy buffs tied to each Doni E.G.O."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_13_desc_02",
+      "content": "Enemy Buffs will continue to stack with every floor cleared."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_14_title_01",
+      "content": "Dungeon Specchio Rewards"
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_14_desc_01",
+      "content": "Upon clearing a Dungeon Specchio run, spend Moduli di Encefalina to claim your rewards."
+    },
+    {
+      "id": "tutorial_mirrordungeon03_page_14_desc_02",
+      "content": "The amount of rewards depends on the number of cleared Floors. You can use Weekly Bonus chances to claim even more rewards."
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_01_title",
+      "content": "Miracle in District 20"
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_01_title_01",
+      "content": "Unlock Miracle in District 20"
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_01_desc_01",
+      "content": "The [Miracle in District 20 Sezioni Evento] opens after clearing Sezione 5-36 of the Main Story. You may enter the event page via the banner on the Window or the Driverside."
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_02_title_01",
+      "content": "Event Period"
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_02_desc_01",
+      "content": "The duration of The Miracle in District 20 event is shown here. During the event, you can earn [Trinkets Sack] by clearing Sezioni and Dungeons in the event and Main Story.\n※ However, [Trinkets Sack] cannot be obtained in Luxcavations."
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_03_title_01",
+      "content": "Event Encounters"
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_03_desc_01",
+      "content": "Miracle in District 20 consists of 13 stages, including story stages.\nSaid stages also offer batches of [Trinkets Sack] as a first-time Clear bonus."
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_03_desc_02",
+      "content": "You can earn considerably more [Trinkets Sack] from the Miracle in District 20 stages compared to Main Story stages."
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_04_title_01",
+      "content": "Event Bonus Units"
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_04_desc_01",
+      "content": "Having E.G.O from the Miracle in District 20 event on your team increases the amount of [Trinkets Sack] earned from stages and dungeons."
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_05_title_01",
+      "content": "Gift Exchange"
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_05_desc_01",
+      "content": "You can redeem various rewards from the [Gift Exchange] based on the number of [Trinkets Sack] you have.\nYou can collect up to 4,000 [Trinkets Sack]."
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_06_desc_01",
+      "content": "You can acquire event reward Identità e E.G.O, as well as various currencies from the [Gift Exchange]."
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_06_desc_02",
+      "content": "The [Gift Exchange]'s open duration is shown here."
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_07_title_01",
+      "content": "Sezioni Evento"
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_07_desc_01",
+      "content": "Miracle in District 20 does not feature a dungeon; instead, there's a special stage where you can earn larger amounts of Trinkets Sack. The special stage consumes Moduli di Encefalina."
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_08_title_01",
+      "content": "Trinkets Sack"
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_08_desc_01",
+      "content": "There is a small chance to obtain a Huge Trinkets Sack upon clearing an Encounter. Huge Trinkets Sacks are automatically converted to 20 Trinkets Sacks."
+    },
+    {
+      "id": "tutorial_mainui_24_miracle_09_desc_01",
+      "content": "Even after the event fully ends, you will be able to experience the Miracle in District 20 combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Deviazioni]."
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_01_title",
+      "content": "The 2nd Walpurgis Night - The Dawn of Green"
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_01_title_01",
+      "content": "Unlocking The 2nd Walpurgis Night - The Dawn of Green"
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_01_desc_01",
+      "content": "[The 2nd Walpurgis Night - The Dawn of Green] unlocks regardless of your progress in the Main Story. Enter via the event banner on the Window or the Driverside tabs."
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_02_title_01",
+      "content": "Event Period"
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_02_desc_01",
+      "content": "The duration of The 2nd Walpurgis Night - The Dawn of Green event is shown here. During the event, complete Missions for Normal and Hard difficulty Dawn of Green Ordeal Encounters and claim their rewards."
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_03_title_01",
+      "content": "Normal Difficulty Encounter"
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_03_desc_01",
+      "content": "Select the door to begin the Normal difficulty Dawn of Green Ordeal. Dawn of Green Ordeal consumes an Enkephalin Module upon completion. In Normal difficulty, any deployed Identità under Level 40 will be raised to Level 40. However, your Identità' current Uptie Tiers and E.G.O Threadspinning Tiers will be reflected."
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_03_title_02",
+      "content": "Hard Difficulty Encounter"
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_03_desc_02",
+      "content": "Clearing the Normal difficulty Dawn of Green Ordeal unlocks the Hard difficulty. In Hard difficulty, your Identità' current Levels, Uptie Tiers, and E.G.O Threadspinning Tiers will be reflected."
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_04_title_01",
+      "content": "Special Announcer"
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_04_desc_01",
+      "content": "There will be a special, fixed Announcer for the Dawn of Green Ordeal Encounter. Therefore, you cannot select your own Announcers for this event Encounter."
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_04_title_02",
+      "content": "Control Team Captain Effects"
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_04_desc_02",
+      "content": "The #1 Sinner to be deployed in the Teams menu will be imbued with the 'Control Team Captain' effect. The Sinner with the 'Control Team Captain' effect will gain more Slots, their Skill composition will change, and will gain more beneficial effects."
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_05_title_01",
+      "content": "Missions"
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_05_desc_01",
+      "content": "You can enter the [Missions] page, where you can view the list of Missions to be completed during the Encounter and their rewards."
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_06_desc_01",
+      "content": "You can view the Reward Exchange period in the [Missions] page."
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_06_desc_02",
+      "content": "Normal difficulty and Hard difficulty each has different sets of Missions to complete."
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_06_desc_03",
+      "content": "Complete these Missions and claim various rewards from the [Missions] page."
+    },
+    {
+      "id": "tutorial_mainui_25_walpu2_07_desc_01",
+      "content": "Even after the event fully ends, you will be able to experience the 'The 2nd Walpurgis Night - The Dawn of Green' combat Encounters and view its story anytime at the Driverside and Theater - [Deviazioni]."
+    },
+    {
+      "id": "tutorial_mainui_railway3_title_01",
+      "content": "Metro Rifrattiva Tratta 3"
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_01_title_01",
+      "content": "How to Enter"
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_01_desc_01",
+      "content": "Select the activated Tratta to enter. Entering the Metro Rifrattiva does not cost any currency or resources."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_02_title_01",
+      "content": "Creating your Team"
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_02_desc_01",
+      "content": "You will choose a number of Identità e E.G.O to begin the expedition with."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_03_title_01",
+      "content": "Tratta 3 Stazioni"
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_03_desc_01",
+      "content": "There are a total of 13 Stazioni in Metro Rifrattiva Tratta 3. 10 of those Stazioni are combat Encounters."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_03_desc_02",
+      "content": "Stazione #4, #8, and #12 are not combat Encounters. There, you can heal, revive, or change your Team Loadout. "
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_04_desc_01",
+      "content": "Select the Stazione to enter."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_04_desc_02",
+      "content": "Below each Stazione, you can view the rewards for clearing that Stazione. Claim them at the Oggetti Smarriti."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_05_title_01",
+      "content": "Team Setup"
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_05_desc_01",
+      "content": "You can select up to 6 participants for an encounter. While you can select less than 6 combat participants, no additional Skill slots will be given for them throughout the encounter."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_06_title_01",
+      "content": "Encounter"
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_06_desc_01",
+      "content": "Every battle in the Metro Rifrattiva will allow you to directly match ally skills against enemy skills, just like in Scontri Controllati."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_07_title_01",
+      "content": "Observation Logs"
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_07_desc_01",
+      "content": "If you have already unlocked the Abnormalities' Observation Levels through the Story Dungeon Encounters, their Observation Levels will be reflected in the Metro Rifrattiva and you can view their information as you would in those Dungeons."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_07_desc_02",
+      "content": "However, the damage bonus based on Observation Levels do not apply in the Metro Rifrattiva."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_07_desc_03",
+      "content": "In Metro Rifrattiva Tratta 3, the updated Observation Level will be saved even if you give up mid-Encounter."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_08_desc_01",
+      "content": "The E.G.O resources held after clearing a Stazione can be carried over to the next Stazione."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_08_desc_02",
+      "content": "Turni Totali Cumulativi taken to clear the Stazione and Turni Totali Cumulativi taken since the Prima Fermata will be shown above each Stazione."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_08_desc_03",
+      "content": "The PV, PS, and availability of your Identità are shown here."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_09_desc_01",
+      "content": "Upon defeat, you can either return to the state immediately before entering that Stazione or continue using your surviving Identità."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_09_desc_02",
+      "content": "Should you choose to continue, enemies' current PV will be saved. Their remaining PV percentages will be shown above the Stazione."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_10_desc_01",
+      "content": "Select the Reset button to return to the state immediately before entering that Stazione."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_11_title_01",
+      "content": "Breaking Records"
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_11_desc_01",
+      "content": "During an expedition, you can choose to start over from previously cleared Stazioni.\nWhen you do so, the battle will start with the Sinners' statuses and E.G.O resources reverted to that point, and any progress you've made since that Stazione will be reset."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_12_title_01",
+      "content": "Rest Stazione"
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_12_desc_01",
+      "content": "Stazione #4, #8, and #12 are Rest Stazioni. Reaching those Stazioni will fully heal all allies and revive dead Identità."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_12_desc_02",
+      "content": "Identità with 0 or positive PS will maintain their PS, but Identità with negative PS will recover to 0 PS."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_12_desc_03",
+      "content": "You can also change your Team Loadout in Rest Stazioni."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_13_desc_01",
+      "content": "You cannot go back to the previous Stazione once you enter the Terminus. Choose carefully."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_13_desc_02",
+      "content": "Clearing the Terminus is the ultimate objective of Metro Rifrattiva Tratta 3."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_14_title_01",
+      "content": "Banner Requisites"
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_14_desc_01",
+      "content": "You can check the requirements for acquiring Metro Rifrattiva Tratta 3 banners here."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_14_desc_02",
+      "content": "You can acquire more lavishly ornamented banners as you meet more difficult conditions."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_14_desc_03",
+      "content": "Upon acquisition of these banners, the Turni Totali Cumulativi of your best record will be displayed on them."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_15_title_01",
+      "content": "The Oggetti Smarriti"
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_15_desc_01",
+      "content": "After clearing a Stazione in the Tratta for the first time, the rewards will be sent to the Oggetti Smarriti."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_15_desc_02",
+      "content": "To gain access to a reward for the first time at Oggetti Smarriti, a number of Moduli di Encefalina will be required.\nAfterward, you may freely access it and claim rewards you've earned at no additional cost."
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_16_title_01",
+      "content": "Travel Collection"
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_16_desc_01",
+      "content": "Upon clearing the final Stazione, your Metro Rifrattiva play record will be saved. Up to 20 records can be viewed. "
+    },
+    {
+      "id": "tutorial_mainui_railway3_page_16_desc_02",
+      "content": "If you have more than 20 records, records with the highest Turni Totali Cumulativi will be deleted first."
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_01_title",
+      "content": "Yield My Flesh to Claim Their Bones"
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_01_title_01",
+      "content": "Unlocking Yield My Flesh to Claim Their Bones"
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_01_desc_01",
+      "content": "The [Yield My Flesh to Claim Their Bones Event Page] opens after clearing Sezione 5.5-12 of the Main Story.\n\nYou may enter the event page via the banner on the Window or the Driverside."
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_02_title_01",
+      "content": "Event Period"
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_02_desc_01",
+      "content": "The duration of Yield My Flesh to Claim Their Bones event is shown here.\n\nDuring the event, you can earn [Bloodied Scabbard] by clearing Sezioni Evento and Event Dungeons. You can also earn [Bloodied Scabbard] by clearing the Dungeon Specchio or clearing Main Story Sezioni or Dungeons for the first time.\n\n※ However, [Bloodied Scabbard] cannot be obtained in Luxcavations and Metro Rifrattivas."
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_03_title_01",
+      "content": "Event Encounters"
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_03_desc_01",
+      "content": "Including Story Sezioni, the Yield My Flesh to Claim Their Bones event is composed of 12 Sezioni."
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_03_desc_02",
+      "content": "You can earn considerably more [Bloodied Scabbard] from Yield My Flesh to Claim Their Bones Sezioni compared to Main Story Sezioni. "
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_04_title_01",
+      "content": "Event Bonus Identità"
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_04_desc_01",
+      "content": "Having Event Identità from the Yield My Flesh to Claim Their Bones event on your team increases the amount of [Bloodied Scabbard] earned from Sezioni and Dungeons."
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_05_title_01",
+      "content": "Reward Exchange"
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_05_desc_01",
+      "content": "At the Reward Exchange window, you can submit [Bloodied Scabbard] you've collected to purchase various rewards."
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_06_desc_01",
+      "content": "The duration to claim the rewards is shown here."
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_06_desc_02",
+      "content": "Here, you can obtain various currencies and the Event Identity."
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_07_title_01",
+      "content": "Sezioni Evento"
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_07_desc_01",
+      "content": "The final battle of Yield My Flesh to Claim Their Bones is like a Dungeon Specchio.\n\nEntering the Dungeon costs Moduli di Encefalina."
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_08_title_01",
+      "content": "Resentful Scabbard"
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_08_desc_01",
+      "content": "Rarely, you may obtain [Resentful Scabbard] from clearing Encounters.\n\n[Resentful Scabbard] is automatically converted to 20 [Bloodied Scabbard] upon acquisition."
+    },
+    {
+      "id": "tutorial_mainui_26_ycgd_09_desc_01",
+      "content": "Even after the event fully ends, you will be able to experience the Yield My Flesh to Claim Their Bones combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Deviazioni]."
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_01_title",
+      "content": "Tempo Ammazzatempo"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_01_title_01",
+      "content": "Accedere all'Evento"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_01_desc_01",
+      "content": "La [Schermata Evento di Tempo Ammazzatempo] diventa disponibile dover aver completato la Sezione 6-48 della Storia Principale. Puoi accedere alla schermata evento dal banner sulla Finestra o a lato della schermata Guida."
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_02_title_01",
+      "content": "Durata dell'Evento"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_02_desc_01",
+      "content": "La durata dell'evento Tempo Ammazzatempo viene mostrata qui.\n\nDurante l'evento, puoi ottenere degli [Orologi da Taschino] completando le Sezioni Evento. Puoi anche ottenere gli [Orologi da Taschino] completanto per la prima volta le Sezioni della Storia Principale, oppure i Dungeon Specchio.\n\n※ Gli [Orologi da Taschino] NON possono essere ottenuti negli Scavoluce e nella Metro Rifrattiva."
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_03_title_01",
+      "content": "Incontri Evento"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_03_desc_01",
+      "content": "Tempo Ammazzatempo è composto da 14 sezioni. (13 sezioni storia ed un singolo dungeon)\n\nGli Incontri Evento offrono degli [Orologi da Taschino] come bonus Primo Completamento."
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_04_title_01",
+      "content": "Identità con Bonus Evento"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_04_desc_01",
+      "content": "Avere nella tua Squadra le Identità e gli E.G.O dall'evento Tempo Ammazzatempo aumenta il numero di [Orologi da Taschino] che ottieni dalle Sezioni e dai Dungeon Specchio."
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_05_title_01",
+      "content": "Scambio Ricompense"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_05_desc_01",
+      "content": "Puoi ottenere vari premi dalla schermata [Scambio Ricompense] in base al numero di [Orologi da Taschino] che possiedi."
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_06_desc_01",
+      "content": "Puoi ottenere l'Identità evento ed altro dalla schermata [Scambio Ricompense]."
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_06_desc_02",
+      "content": "Qui viene indicato per quanto tempo è possibile scambiare gli [Orologi da Taschino] con i premi nella schermata [Scambio Ricompense]."
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_07_title_01",
+      "content": "Sezioni Evento"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_07_desc_01",
+      "content": "Alla fine dell'evento Tempo Ammazzatempo ti attende un Dungeon Specchio. Entrare in questo Dungeon Specchio costa Moduli di Encefalina."
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_08_title_01",
+      "content": "Pacchetto di Orologi da Taschino"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_08_desc_01",
+      "content": "A volte, potresti ottenere un [Pacchetto di Orologi da Taschino] dopo aver completato gli Incontri. Il [Pacchetto di Orologi da Taschino] viene convertito immediatamente in 20 [Orologi da Taschino] dopo essere stato ottenuto."
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_09_desc_01",
+      "content": "Anche dopo che l'evento è terminato, potrai giocare gli Incontri di Tempo Ammazzatempo e leggere la storia in qualsiasi momento. Puoi farlo dalla schermata Guida - [Deviazione] e Teatro - [Deviazioni]."
+    },
+    {
+      "id": "tutorial_mainui_28_tkt",
+      "content": "Tempo Ammazzatempo"
+    },
+    {
+      "id": "tutorial_mainui_railway4_title_01",
+      "content": "Metro Rifrattiva Tratta 4"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_01_title_01",
+      "content": "How to Enter"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_01_desc_01",
+      "content": "Select the activated Tratta to enter. Entering the Metro Rifrattiva does not cost any currency or resources."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_02_desc_01",
+      "content": "Metro Rifrattiva presents a series of very challenging battles."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_02_desc_02",
+      "content": "We recommend that you Uptie your Identità to Tier 4, level them to Level 45, and Threadspin your E.G.Os to Tier 4."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_02_desc_03",
+      "content": "We suggest that you enter the Railway after meeting the recommended conditions."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_03_title_01",
+      "content": "Creating your Team"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_03_desc_01",
+      "content": "Choose a number of Identità e E.G.O to enter the Railway with."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_03_desc_02",
+      "content": "If you level up, Uptie, or Threadspin your Identità o E.G.O outside the Metro Rifrattiva, the changes will be applied to your characters in the Metro Rifrattiva as well."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_04_title_01",
+      "content": "Tratta 4: Stazioni and Sections"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_04_desc_01",
+      "content": "Metro Rifrattiva Tratta 4 is composed of several Sections that tie several Stazioni into a single Sezione. There are a total of 13 Stazioni."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_04_desc_02",
+      "content": "There are four Combat Encounter Sezioni, each called a 'Section'; between each Section is a rest station."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_05_desc_01",
+      "content": "Select the Section to enter."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_05_desc_02",
+      "content": "Clearing the Section will record your Clear Turn Count.\n\nBelow the Clear Turn Count is the Total Turn Count, which is the sum of all Clear Turn Counts from each Section."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_05_desc_03",
+      "content": "Below each Section, you can view the rewards for clearing that Section. Claim them at the Oggetti Smarriti."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_06_title_01",
+      "content": "Combat Deployment - Deployment Order Effects"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_06_desc_01",
+      "content": "Metro Rifrattiva Tratta 4 presents special buffs to your Sinners depending on their order of Deployment."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_06_desc_02",
+      "content": "Certain Backup units receive additional Entry PS buffs. Minus Coin Identità will receive negative Entry PS buffs."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_07_title_01",
+      "content": "Combat Deployment - Battaglie Consecutive"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_07_desc_01",
+      "content": "Metro Rifrattiva Tratta 4 introduces the 'Battaglia Consecutiva' system.\n\nIn Battaglie Consecutive, when a Deployed unit is defeated, the Backup units will fill their spots in their own Deployment orders."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_07_desc_02",
+      "content": "You can enter the Section only when you have selected both your Deployment units and the Backup units, six in each category."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_08_title_01",
+      "content": "Encounter"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_08_desc_01",
+      "content": "Every battle in the Metro Rifrattiva will allow you to directly match ally skills against enemy skills, just like in Scontri Controllati.\nIn Metro Rifrattiva Tratta 4, the Sapling of Light ability can be activated once per every run.\nActivation inside the Metro Rifrattiva does not count toward the activation limit outside the Metro Rifrattiva."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_09_title_01",
+      "content": "Combat - Deployment Order Effects"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_09_desc_01",
+      "content": "You can view the Deployment Order effects in the middle of an Encounter as well."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_09_desc_02",
+      "content": "In Tratta 4, a defeated ally Identity will give E.G.O resources that correspond with the Sin Affinities of the Attack Abilità on the defeated Ally. The amount of E.G.O resources given corresponds with the Rank of each Attack Skill. (S1 gives 1, S2 gives 2, S3 gives 3, for example)"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_10_title_01",
+      "content": "Combat - Battaglie Consecutive"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_10_desc_01",
+      "content": "When a Deployed unit is defeated, the Backup units will fill their spot in the Deployment order."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_10_desc_02",
+      "content": "When a Backup unit is Deployed into battle, its Combat Passive activates instead of its Support Passive.\n\nWhen a Deployed unit is defeated, its Support Passive will activate instead of its Combat Passive."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_11_title_01",
+      "content": "Combat - Resilient Determination"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_11_desc_01",
+      "content": "In Tratta 4, ally death will not lower the other allies' PS."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_11_desc_02",
+      "content": "Certain enemies in Tratta 4 will gain certain effects based on their Deployment orders."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_12_title_01",
+      "content": "Observation Logs"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_12_desc_01",
+      "content": "If you have already unlocked the Abnormalities' Observation Levels through the Story Dungeon or Dungeon Specchio Encounters, their Observation Levels will be reflected in the Metro Rifrattiva, and you can view their information as you would in those Dungeons."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_12_desc_02",
+      "content": "However, the damage bonus based on Observation Levels does not apply in the Metro Rifrattiva."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_12_desc_03",
+      "content": "In Tratta 4, the updated Observation Level will be saved even if you give up or retry mid-Encounter."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_13_desc_01",
+      "content": "The E.G.O resources held after clearing a Stazione can be carried over to the next Section."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_13_desc_02",
+      "content": "The PV, PS, and availability of your Identità are shown at the bottom of the screen."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_14_title_01",
+      "content": "Rest Stazioni"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_14_desc_01",
+      "content": "Stopping by the Rest Stazioni, which are located between Sections, will fully heal your Identità and reset their Sp to 0."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_14_desc_02",
+      "content": "You can also change your Team Loadout in Rest Stazioni.\n\nIf you are having difficulty clearing a Sezione, please note that a different Team may work better against certain enemies."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_15_desc_01",
+      "content": "If all of your allies are defeated, you can choose between returning to the Team Loadout menu to change your Deployment orders, and immediately retrying the battle."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_16_title_01",
+      "content": "Breaking Records"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_16_desc_01",
+      "content": "During an expedition, you can choose to start over from previously cleared Sezioni."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_16_desc_02",
+      "content": "When you do so, the battle will start with the Sinners' statuses and E.G.O resources reverted to that point, and any progress you've made since that Sezione will be reset."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_17_title_01",
+      "content": "Banner Requisites"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_17_desc_01",
+      "content": "You can check the requirements for acquiring Metro Rifrattiva Tratta 4 banners here."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_17_desc_02",
+      "content": "Upon acquisition of these banners, the Turni Totali Cumulativi of your best record will be displayed on them."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_18_title_01",
+      "content": "Oggetti Smarriti"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_18_desc_01",
+      "content": "After clearing a Sezione in the Tratta for the first time, the rewards will be sent to the Oggetti Smarriti."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_18_desc_02",
+      "content": "To gain access to a reward for the first time at Oggetti Smarriti, a number of Moduli di Encefalina will be required.\nAfterward, you may freely access it and claim rewards you've earned at no additional cost."
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_19_title_01",
+      "content": "Travel Collection"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_19_desc_01",
+      "content": "Upon clearing the final Sezione, your Metro Rifrattiva play record will be saved. Up to 20 records can be viewed. "
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_19_desc_02",
+      "content": "If you have more than 20 records, records with the highest Turni Totali Cumulativi will be deleted first."
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_01_title",
+      "content": "Murder on the WARP Express"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_01_title_01",
+      "content": "Unlocking Murder on the WARP Express"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_01_desc_01",
+      "content": "The [Murder on the WARP Express Event Page] opens after clearing Sezione 0-4 of the Main Story. You may enter the event page via the banner on the Window or the Driverside."
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_02_title_01",
+      "content": "Event Period"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_02_desc_01",
+      "content": "The duration of the Murder on the WARP Express event is shown here.\n\nDuring the event, you can earn [Civilian Recov. Pack] by clearing Sezioni Evento. You can also earn [Civilian Recov. Pack] by clearing the Dungeon Specchio or clearing Main Story Sezioni for the first time.\n\n※ However, [Civilian Recov. Pack] cannot be obtained in Luxcavations and Metro Rifrattivas."
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_03_title_01",
+      "content": "Event Encounters"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_03_desc_01",
+      "content": "Murder on the WARP Express consists of 15 stages, including story stages.\nSaid stages also offer batches of [Civilian Recov. Pack] as a first-time EX Clear bonus."
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_03_desc_02",
+      "content": "You can earn considerably more [Civilian Recov. Pack] from Murder on the WARP Express Sezioni compared to Main Story Sezioni."
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_04_title_01",
+      "content": "Event Bonus Units"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_04_desc_01",
+      "content": "Having Event Identità e E.G.O from the Murder on the WARP Express event on your team increases the amount of [Civilian Recov. Pack] earned from Sezioni and Dungeons."
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_05_title_01",
+      "content": "Reward Exchange"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_05_desc_01",
+      "content": "You can redeem various rewards from the [Reward Exchange] using the [Civilian Recov. Pack] you have collected."
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_06_desc_01",
+      "content": "The [Reward Exchange]'s open duration is shown here."
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_06_desc_02",
+      "content": "You can acquire event reward Identità and various currencies from the [Reward Exchange]."
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_07_title_01",
+      "content": "Incontri di Battaglia Consecutiva"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_07_desc_01",
+      "content": "Certain Encounters in the Murder on the WARP Express event are Battaglie Consecutive. In Battaglie Consecutive, the Sinners will not lose their Sanity(PS) even if their allies are defeated."
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_08_title_01",
+      "content": "Fixer Recov. Pack"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_08_desc_01",
+      "content": "Rarely, you may obtain [Fixer Recov. Pack] from clearing Encounters. [Fixer Recov. Pack] is immediately converted to 20 [Civilian Recov. Pack] upon acquisition."
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_09_desc_01",
+      "content": "Even after the event fully ends, you will be able to experience the Murder on the WARP Express combat Encounters and view its story at any time at the Driverside and Theater - [Deviazioni]."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_11_title_01",
+      "content": "Battaglie Consecutive"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_11_desc_01",
+      "content": "In Battaglie Consecutive, you can deploy 'Backup Units' in addition to participating units.\n\nWhen a unit is defeated mid-battle, a backup unit will substitute in to fill their place.\n\nIn Battaglie Consecutive, you cannot lose until all units selected for the Encounter(both participating units and backup units) are defeated."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_12_title_01",
+      "content": "Deploying Backup Units"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_12_desc_01",
+      "content": "When a participating unit is killed, Backup units will be substituted into the field in the order of their Deployment.\n\nWhen the Backup units substitute into the battle, they enter with bonus PS based on the starting PS values defined by their deployment order.\n\nCertain Battaglie Consecutive may give additional buffs for Backup units.\n\nPlease experiment with Deployment orders to strategize prior to entering Battaglie Consecutive."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_13_title_01",
+      "content": "Substitute"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_13_desc_01",
+      "content": "In Battaglie Consecutive, PS loss due to ally death listed in the 'Base factors increasing/decreasing Sanity' will not activate.\n\nIf an ally is defeated mid-Encounter, the Backup unit next in the Deployment order will replace them.\nThis is called <Substitution>.\n\nWhen a Deployed unit is defeated, its Support Passive will activate instead of its Combat Passive.\n\nWhen a Backup unit is substituted in, its Combat Passive will activate instead of its Support Passive."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_14_title_01",
+      "content": "Remaining Enemies Indicator"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_14_desc_01",
+      "content": "In Battaglie Consecutive, the indicator that shows the number of Waves shows total number of enemies and the number of defeated enemies instead.\n\nHowever, this indicator does not take into account the extra enemies that are summoned due to certain conditions."
+    },
+    {
+      "id": "TutoEvent5501_P1_T1",
+      "content": "Accessing the Event"
+    },
+    {
+      "id": "TutoEvent5501_P1_D1",
+      "content": "Select the Event banner from either the Window or the Drive menu to enter the [Miracle in District 20 BokGak Event] menu."
+    },
+    {
+      "id": "TutoEvent5501_P2_T1",
+      "content": "Event Period"
+    },
+    {
+      "id": "TutoEvent5501_P2_D1",
+      "content": "The duration of Miracle in District 20 BokGak Event is shown here.\n\nDuring the event, you can earn [Trinkets Sack] by clearing Sezioni Evento. You can also earn [Trinkets Sack] by clearing the Dungeon Specchio or clearing Main Story Sezioni for the first time.\n\n※ However, [Trinkets Sack] cannot be obtained in Luxcavations and Metro Rifrattivas."
+    },
+    {
+      "id": "TutoEvent5501_P3_T1",
+      "content": "Event Encounters"
+    },
+    {
+      "id": "TutoEvent5501_P3_D1",
+      "content": "Miracle in District 20 BokGak Event consists of 13 stages, including story stages.\n\nSaid stages also offer batches of [Trinkets Sack] as a First-time Clear bonus in addition to clear rewards. (only for first-time clears of each Sezione)"
+    },
+    {
+      "id": "TutoEvent5501_P4_T1",
+      "content": "Event Bonus Units"
+    },
+    {
+      "id": "TutoEvent5501_P4_D1",
+      "content": "Having Event E.G.Os from the Event on your team increases the amount of [Trinkets Sack] earned from Sezioni and the Dungeon Specchio."
+    },
+    {
+      "id": "TutoEvent5501_P5_T1",
+      "content": "Reward Exchange"
+    },
+    {
+      "id": "TutoEvent5501_P5_D1",
+      "content": "You can redeem various rewards from [Reward Exchange] by spending the [Trickets Sack] you collected."
+    },
+    {
+      "id": "TutoEvent5501_P6_D1",
+      "content": "You can acquire the event reward E.G.O, Announcer, Ticket Deco, banners, and various currencies from [Reward Exchange] menu."
+    },
+    {
+      "id": "TutoEvent5501_P6_D2",
+      "content": "The [Reward Exchange]'s open duration is shown here."
+    },
+    {
+      "id": "TutoEvent5501_P7_T1",
+      "content": "Huge Trinkets Sack"
+    },
+    {
+      "id": "TutoEvent5501_P7_D1",
+      "content": "There is a small chance to obtain a [Huge Trinkets Sack] upon clearing an Encounter.\n\n[Huge Trinkets Sacks] are automatically converted to 20 [Trinkets Sack]."
+    },
+    {
+      "id": "TutoEvent5501_P8_T1",
+      "content": "Hard Difficulty"
+    },
+    {
+      "id": "TutoEvent5501_P8_D1",
+      "content": "Miracle in District 20 Hard Difficulty will be unlocked during the Event period. The Hard Difficulty is unlocked upon clearing the Main Story Sezione 6-48."
+    },
+    {
+      "id": "TutoEvent5501_P8_D2",
+      "content": "Hard Difficulty rewards more Event currencies than the Normal Difficulty does."
+    },
+    {
+      "id": "TutoEvent5501_P8_D3",
+      "content": "You can earn first-time clear rewards, EX Clear rewards, and Chapter Progress rewards from clearing the Hard Difficulty Sezioni as well."
+    },
+    {
+      "id": "TutoEvent5501_P9_D1",
+      "content": "Even after the event fully ends, you will be able to experience the Miracle in District 20 combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Deviazioni]."
+    },
+    {
+      "id": "TutoEvent7501_P1_T1",
+      "content": "LCB Regular Check-up"
+    },
+    {
+      "id": "TutoEvent7501_P1_D1",
+      "content": "Unlocking LCB Regular Check-up"
+    },
+    {
+      "id": "TutoEvent7501_P1_D2",
+      "content": "Select the Event banner from either the Window or the Drive menu to enter."
+    },
+    {
+      "id": "TutoEvent7501_P2_T1",
+      "content": "Event Period"
+    },
+    {
+      "id": "TutoEvent7501_P2_D1",
+      "content": "The duration of LCB Regular Check-up event is shown here. During the event, you can earn [Amassed Data] by clearing Sezioni and Dungeons in the event and Main Story.\n\n※ However, [Amassed Data] cannot be obtained in Luxcavations."
+    },
+    {
+      "id": "TutoEvent7501_P3_T1",
+      "content": "Event Encounters"
+    },
+    {
+      "id": "TutoEvent7501_P3_D1",
+      "content": "LCB Regular Check-up event consists of 13 stages, including story stages, and a single dungeon.\n\nEvent Encounters also offer batches of [Amassed Data] as a first-time Clear bonus."
+    },
+    {
+      "id": "TutoEvent7501_P3_D2",
+      "content": "You can earn considerably more [Amassed Data] from LCB Regular Check-up Sezioni compared to Main Story Sezioni. "
+    },
+    {
+      "id": "TutoEvent7501_P4_T1",
+      "content": "Event Bonus Units"
+    },
+    {
+      "id": "TutoEvent7501_P4_D1",
+      "content": "Having Event Identità e E.G.O from the LCB Regular Check-up event on your team increases the amount of [Amassed Data] earned from Sezioni and Dungeons."
+    },
+    {
+      "id": "TutoEvent7501_P5_T1",
+      "content": "Reward Exchange"
+    },
+    {
+      "id": "TutoEvent7501_P5_D1",
+      "content": "You can redeem various rewards from the [Reward Exchange] based on the number of [Amassed Data] you have."
+    },
+    {
+      "id": "TutoEvent7501_P6_T1",
+      "content": "The [Reward Exchange]'s open duration is shown here."
+    },
+    {
+      "id": "TutoEvent7501_P6_D1",
+      "content": "You can acquire event reward Identità and various currencies from the [Reward Exchange]."
+    },
+    {
+      "id": "TutoEvent7501_P7_T1",
+      "content": "Incontri di Battaglia Consecutiva"
+    },
+    {
+      "id": "TutoEvent7501_P7_D1",
+      "content": "Certain Encounters in the LCB Regular Check-up event are Battaglie Consecutive. In Battaglie Consecutive, the Sinners will not lose their Sanity(PS) even if their allies are defeated."
+    },
+    {
+      "id": "TutoEvent7501_P8_T1",
+      "content": "Sezioni Evento"
+    },
+    {
+      "id": "TutoEvent7501_P8_D1",
+      "content": "A Dungeon Specchio awaits at the end of LCB Regular Check-up event. Entering this Dungeon Specchio costs Moduli di Encefalina."
+    },
+    {
+      "id": "TutoEvent7501_P9_T1",
+      "content": "Classified Data"
+    },
+    {
+      "id": "TutoEvent7501_P9_D1",
+      "content": "There is a small chance to obtain Classified Data upon clearing an Encounter. Classified Data are automatically converted to 20 Amassed Data."
+    },
+    {
+      "id": "TutoEvent7501_P10_D1",
+      "content": "Even after the event fully ends, you will be able to experience the LCB Regular Check-up combat Encounters and view its story at any time at the Driverside - [Deviazione] and Theater - [Deviazioni]."
+    },
+    {
+      "id": "TutoEvent5502_P1_T1",
+      "content": "Accessing the Event"
+    },
+    {
+      "id": "TutoEvent5502_P1_D1",
+      "content": "Select the Event banner from either the Window or the Drive menu to enter the [Yield My Flesh to Claim Their Bones BokGak Event] menu."
+    },
+    {
+      "id": "TutoEvent5502_P2_T1",
+      "content": "Event Period"
+    },
+    {
+      "id": "TutoEvent5502_P2_D1",
+      "content": "The duration of Yield My Flesh to Claim Their Bones BokGak Event is shown here.\n\nDuring the event, you can earn [Bloodied Scabbard] by clearing Sezioni Evento. You can also earn [Bloodied Scabbard] by clearing the Dungeon Specchio or clearing Main Story Sezioni for the first time.\n\n※ However, [Bloodied Scabbard] cannot be obtained in Luxcavations and Metro Rifrattivas."
+    },
+    {
+      "id": "TutoEvent5502_P3_T1",
+      "content": "Event Encounters"
+    },
+    {
+      "id": "TutoEvent5502_P3_D1",
+      "content": "Yield My Flesh to Claim Their Bones BokGak Event consists of 11 stages, including story stages, and a Dungeon.\n\nSaid stages also offer batches of [Bloodied Scabbard] as a First-time Clear bonus in addition to clear rewards. (only for first-time clears of each Sezione)"
+    },
+    {
+      "id": "TutoEvent5502_P4_T1",
+      "content": "Event Bonus Units"
+    },
+    {
+      "id": "TutoEvent5502_P4_D1",
+      "content": "Having Event Identità from Event on your team increases the amount of [Bloodied Scabbard] earned from Sezioni and Dungeons."
+    },
+    {
+      "id": "TutoEvent5502_P5_T1",
+      "content": "Reward Exchange"
+    },
+    {
+      "id": "TutoEvent5502_P5_D1",
+      "content": "You can redeem various rewards from the [Reward Exchange] using the [Bloodied Scabbard] you have collected."
+    },
+    {
+      "id": "TutoEvent5502_P6_D1",
+      "content": "The [Reward Exchange]'s open duration is shown here."
+    },
+    {
+      "id": "TutoEvent5502_P6_D2",
+      "content": "You can acquire the event reward Identity, Ticket Deco, banners, and various currencies from [Reward Exchange] menu."
+    },
+    {
+      "id": "TutoEvent5502_P7_T1",
+      "content": "Resentful Scabbard"
+    },
+    {
+      "id": "TutoEvent5502_P7_D1",
+      "content": "Rarely, you may obtain [Resentful Scabbard] from clearing Encounters.\n\n[Resentful Scabbard] is automatically converted to 20 [Bloodied Scabbard] upon acquisition."
+    },
+    {
+      "id": "TutoEvent5502_P8_T1",
+      "content": "Hard Difficulty"
+    },
+    {
+      "id": "TutoEvent5502_P8_D1",
+      "content": "Yield My Flesh to Claim Their Bones Hard Difficulty will be unlocked during the Event period. The Hard Difficulty is unlocked upon clearing the Main Story Sezione 6-48."
+    },
+    {
+      "id": "TutoEvent5502_P8_D2",
+      "content": "Hard Difficulty rewards more Event currencies than the Normal Difficulty does."
+    },
+    {
+      "id": "TutoEvent5502_P8_D3",
+      "content": "You can earn first-time clear rewards, EX Clear rewards, and Chapter Progress rewards from clearing the Hard Difficulty Sezioni as well."
+    },
+    {
+      "id": "TutoEvent5502_P9_D1",
+      "content": "Even after the event fully ends, you will be able to experience the Yield My Flesh to Claim Their Bones combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Deviazioni]."
+    },
+    {
+      "id": "TutoRailway5_P1_T1",
+      "content": "Metro Rifrattiva Tratta 5"
+    },
+    {
+      "id": "TutoRailway5_P1_D1",
+      "content": "How to Enter"
+    },
+    {
+      "id": "TutoRailway5_P1_D2",
+      "content": "Select the activated Tratta to enter. Entering the Metro Rifrattiva does not cost any currency or resources."
+    },
+    {
+      "id": "TutoRailway5_P2_T1",
+      "content": "Metro Rifrattiva presents a series of very challenging battles."
+    },
+    {
+      "id": "TutoRailway5_P2_D1",
+      "content": "We recommend that you Uptie your Identità to Tier 4, level them to Level 50, and Threadspin your E.G.Os to Tier 4."
+    },
+    {
+      "id": "TutoRailway5_P2_D2",
+      "content": "We suggest that you enter the Railway after meeting the recommended conditions."
+    },
+    {
+      "id": "TutoRailway5_P3_T1",
+      "content": "Tratta 5: Stazioni and Sections"
+    },
+    {
+      "id": "TutoRailway5_P3_D1",
+      "content": "Metro Rifrattiva Tratta 5 is composed of several Sections that tie several Stazioni into a single Sezione. There are a total of 11 Stazioni."
+    },
+    {
+      "id": "TutoRailway5_P3_D2",
+      "content": "There are 3 Combat Encounter Sezioni, each called a 'Section'."
+    },
+    {
+      "id": "TutoRailway5_P4_T1",
+      "content": "Entering Section"
+    },
+    {
+      "id": "TutoRailway5_P4_D1",
+      "content": "Clearing the Section will record your Clear Turn Count.\n\nBelow the Clear Turn Count is the Total Turn Count, which is the sum of all Clear Turn Counts from each Section."
+    },
+    {
+      "id": "TutoRailway5_P4_D2",
+      "content": "Below each Section, you can view the rewards for clearing that Section. Claim them at the Oggetti Smarriti."
+    },
+    {
+      "id": "TutoRailway5_P5_T1",
+      "content": "Combat Deployment - Battaglie Consecutive"
+    },
+    {
+      "id": "TutoRailway5_P5_D1",
+      "content": "Metro Rifrattiva Tratta 5 uses the 'Battaglia Consecutiva' system.\n\nIn Battaglie Consecutive, when a Deployed unit is defeated, the Backup units will fill their spots in their own Deployment orders."
+    },
+    {
+      "id": "TutoRailway5_P5_D2",
+      "content": "You can enter the Section only when you have selected both your Deployment units and the Backup units, six in each category."
+    },
+    {
+      "id": "TutoRailway5_P6_T1",
+      "content": "Identity Deployment Limits"
+    },
+    {
+      "id": "TutoRailway5_P6_D1",
+      "content": "In Tratta 5, you cannot use the same team to challenge both Section 1 and Section 2.\nEach Section needs a different team of Identità."
+    },
+    {
+      "id": "TutoRailway5_P6_D2",
+      "content": "This Identity restriction does not apply to Section 3, however, and you can freely select any Identity to be deployed."
+    },
+    {
+      "id": "TutoRailway5_P7_T1",
+      "content": "Creating your Team"
+    },
+    {
+      "id": "TutoRailway5_P7_D1",
+      "content": "Choose a number of Identità e E.G.O to enter the Railway with. "
+    },
+    {
+      "id": "TutoRailway5_P7_D2",
+      "content": "If you level up, Uptie, or Threadspin your Identità o E.G.O outside the Metro Rifrattiva, the changes will be applied to your characters in the Metro Rifrattiva as well."
+    },
+    {
+      "id": "TutoRailway5_P7_D3",
+      "content": "Backup units receive Starting PS buffs, and Backup units further back in the Deployment order receive greater Starting PS buffs.\n\nMinus Coin Identità receive negative Starting PS buffs."
+    },
+    {
+      "id": "TutoRailway5_P8_T1",
+      "content": "Combat"
+    },
+    {
+      "id": "TutoRailway5_P8_D1",
+      "content": "Every battle in the Metro Rifrattiva will allow you to directly match ally skills against enemy skills.\nThe highest Turn Count that can be recorded in each Section is 100 Turns. If your Turn Count goes beyond 100 Turns in a single Sezione, the Encounter will end in defeat."
+    },
+    {
+      "id": "TutoRailway5_P9_T1",
+      "content": "Observation Logs"
+    },
+    {
+      "id": "TutoRailway5_P9_D1",
+      "content": "Save for the Boss enemy of the final waves of each Section, all enemy info will be unlocked for viewing from the start. Prepare the appropriate strategy, Identity, and E.G.O loadout based on this information."
+    },
+    {
+      "id": "TutoRailway5_P9_D2",
+      "content": "However, the damage bonus based on Observation Levels does not apply in the Metro Rifrattiva."
+    },
+    {
+      "id": "TutoRailway5_P9_D3",
+      "content": "In Tratta 5, the updated Observation Level will be saved even if you give up or retry mid-Encounter."
+    },
+    {
+      "id": "TutoRailway5_P10_T1",
+      "content": "Combat - Battaglie Consecutive"
+    },
+    {
+      "id": "TutoRailway5_P10_D1",
+      "content": "When a Deployed unit is defeated, the Backup units will fill their spot in the Deployment order."
+    },
+    {
+      "id": "TutoRailway5_P10_D2",
+      "content": "When a Backup unit is Deployed into battle, its Combat Passive activates instead of its Support Passive.\n\nWhen a Deployed unit is defeated, its Support Passive will activate instead of its Combat Passive."
+    },
+    {
+      "id": "TutoRailway5_P11_T1",
+      "content": "Combat - Lasting Determination"
+    },
+    {
+      "id": "TutoRailway5_P11_D1",
+      "content": "In Tratta 5, when an Identity is killed, they release E.G.O resources based on the ranks and Affinities of their Base Attack Abilità. And just like in Chain Encounters, their deaths will not reduce other allies' PS."
+    },
+    {
+      "id": "TutoRailway5_P12_T1",
+      "content": "Certain enemies in Tratta 5 will gain certain effects based on their Deployment orders."
+    },
+    {
+      "id": "TutoRailway5_P13_T1",
+      "content": "Combat - Buffs & Trials"
+    },
+    {
+      "id": "TutoRailway5_P13_D1",
+      "content": "Clearing a wave(Stazione) within a Section will bring you to the Buffs & Trials selection menu."
+    },
+    {
+      "id": "TutoRailway5_P13_D2",
+      "content": "Here, you will be selecting a mix of Buffs and Trials with positive effects for allies and enemies both. Any Buffs and Trials selected here will persist throughout Tratta 5."
+    },
+    {
+      "id": "TutoRailway5_P14_T1",
+      "content": "Clear Info"
+    },
+    {
+      "id": "TutoRailway5_P14_D1",
+      "content": "After clearing each Section, you can view statistics such as the obtained Buffs, Trials, and participating Identità in the Clear Info menu."
+    },
+    {
+      "id": "TutoRailway5_P15_T1",
+      "content": "The E.G.O resources held after clearing a Section can be carried over to the next Section."
+    },
+    {
+      "id": "TutoRailway5_P16_T1",
+      "content": "If all of your allies are defeated, you can choose between returning to the Team Loadout menu to change your Deployment orders, and immediately retrying the battle."
+    },
+    {
+      "id": "TutoRailway5_P17_T1",
+      "content": "Breaking Records"
+    },
+    {
+      "id": "TutoRailway5_P17_D1",
+      "content": "During an expedition, you can choose to start over from previously cleared Sezioni."
+    },
+    {
+      "id": "TutoRailway5_P17_D2",
+      "content": "When you do so, the battle will start with the Sinners' statuses and E.G.O resources reverted to that point, and any progress you've made since that Sezione will be reset."
+    },
+    {
+      "id": "TutoRailway5_P18_T1",
+      "content": "Banner Requisites"
+    },
+    {
+      "id": "TutoRailway5_P18_D1",
+      "content": "You can check the requirements for acquiring Metro Rifrattiva Tratta 5 banners here."
+    },
+    {
+      "id": "TutoRailway5_P18_D2",
+      "content": "Once you obtain a Banner, the Turn Count of your best record for each Section and total turns will be displayed on it.\nMaking a new best record in total turn count will update the Turn Count on your banner. If there are records with the same number of total turns, it will display the more recent record."
+    },
+    {
+      "id": "TutoRailway5_P19_T1",
+      "content": "The Oggetti Smarriti"
+    },
+    {
+      "id": "TutoRailway5_P19_D1",
+      "content": "After clearing a Sezione in the Tratta for the first time, the rewards will be sent to the Oggetti Smarriti."
+    },
+    {
+      "id": "TutoRailway5_P19_D2",
+      "content": "To gain access to a reward for the first time at Oggetti Smarriti, a number of Moduli di Encefalina will be required.\nAfterward, you may freely access it and claim rewards you've earned at no additional cost."
+    },
+    {
+      "id": "TutoRailway5_P20_T1",
+      "content": "Travel Collection"
+    },
+    {
+      "id": "TutoRailway5_P20_D1",
+      "content": "Upon clearing the final Sezione, your Metro Rifrattiva play record will be saved. Up to 20 records can be viewed. "
+    },
+    {
+      "id": "TutoRailway5_P20_D2",
+      "content": "If you have more than 20 records, records with the highest Turni Totali Cumulativi will be deleted first."
+    },
+    {
+      "id": "TutoEvent7502_P1_T1",
+      "content": "Nocturnal Sweeping"
+    },
+    {
+      "id": "TutoEvent7502_P1_D1",
+      "content": "Unlocking Nocturnal Sweeping"
+    },
+    {
+      "id": "TutoEvent7502_P1_D2",
+      "content": "The [Nocturnal Sweeping] page opens after clearing Sezione 7.5-14 of the Main Story. You may enter the event page via the banner on the Window or the Drive menu."
+    },
+    {
+      "id": "TutoEvent7502_P2_T1",
+      "content": "Event Period"
+    },
+    {
+      "id": "TutoEvent7502_P2_D1",
+      "content": "The duration of Nocturnal Sweeping event is shown here. During the event, you can earn [Sweeper Fuel Cylinder] by clearing Sezioni and Dungeons in the event and Main Story, or the Dungeon Specchio\n\n※ However, [Sweeper Fuel Cylinder] cannot be obtained in Luxcavations and in Dungeon Specchio Parallel Superposition Mode (F6 or higher)."
+    },
+    {
+      "id": "TutoEvent7502_P3_T1",
+      "content": "Event Encounters"
+    },
+    {
+      "id": "TutoEvent7502_P3_D1",
+      "content": "Nocturnal Sweeping consists of 12 Sezioni, including story Sezioni.\nSaid Sezioni also offer batches of [Sweeper Fuel Cylinder] as a first-time EX Clear bonus."
+    },
+    {
+      "id": "TutoEvent7502_P3_D2",
+      "content": "You can earn considerably more [Sweeper Fuel Cylinder] from Nocturnal Sweeping Sezioni compared to Main Story Sezioni. "
+    },
+    {
+      "id": "TutoEvent7502_P4_T1",
+      "content": "Event Bonus Units"
+    },
+    {
+      "id": "TutoEvent7502_P4_D1",
+      "content": "Having Event Identità from the Nocturnal Sweeping event on your team increases the amount of [Sweeper Fuel Cylinder] earned from Sezioni and Dungeons."
+    },
+    {
+      "id": "TutoEvent7502_P5_T1",
+      "content": "Reward Exchange"
+    },
+    {
+      "id": "TutoEvent7502_P5_D2",
+      "content": "You can redeem various rewards from [Reward Exchange] by spending the [Sweeper Fuel Cylinder] you collected."
+    },
+    {
+      "id": "TutoEvent7502_P6_D1",
+      "content": "The [Reward Exchange]'s open duration is shown here."
+    },
+    {
+      "id": "TutoEvent7502_P6_D2",
+      "content": "You can acquire event reward Identità and various currencies from the [Reward Exchange]."
+    },
+    {
+      "id": "TutoEvent7502_P7_T1",
+      "content": "Incontri di Battaglia Consecutiva"
+    },
+    {
+      "id": "TutoEvent7502_P7_D1",
+      "content": "Encounters in the Nocturnal Sweeping event are Battaglie Consecutive. In Battaglie Consecutive, the Sinners will not lose their Sanity(PS) even if their allies are defeated."
+    },
+    {
+      "id": "TutoEvent7502_P8_T1",
+      "content": "[Sweeper Fuel Tank]"
+    },
+    {
+      "id": "TutoEvent7502_P8_D1",
+      "content": "There is a small chance to obtain a [Sweeper Fuel Tank] upon clearing an Encounter. [Sweeper Fuel Tank] are automatically converted to 20 [Sweeper Fuel Cylinder]."
+    },
+    {
+      "id": "TutoEvent7502_P9_D1",
+      "content": " Even after the event fully ends, you will be able to experience the Nocturnal Sweeping combat Encounters and view its story anytime at Drive - [Deviazione] and Theater - [Deviazioni]."
+    },
+    {
+      "id": "TutoFormation_P1_T1",
+      "content": "Sinners (Team)"
+    },
+    {
+      "id": "TutoFormation_P1_D1",
+      "content": "You can configure various Teams from your 12 Limbus Company Sinners and their Identities."
+    },
+    {
+      "id": "TutoFormation_P1_T2",
+      "content": "Edit Team"
+    },
+    {
+      "id": "TutoFormation_P1_D2",
+      "content": "In 'Sinners' window, selecting a Sinner's Identity portrait will show a list of their Identities and E.G.O. You can change your Team from there."
+    },
+    {
+      "id": "TutoFormation_P1_D3",
+      "content": "Select the \"All Identities\" or \"All E.G.O\" button on the right to view the full list of Identities and E.G.O for all Sinners, making it easier to design your Team loadout."
+    },
+    {
+      "id": "TutoFormation_P2_T1",
+      "content": "Deployment Menu"
+    },
+    {
+      "id": "TutoFormation_P2_D1",
+      "content": "In normal Team loadout menus, clicking anywhere on each Identity's portrait loads into the \"Edit Team\" menu.\nHowever, in battle encounter Team menus, the Identity's portrait will be divided into the following two areas."
+    },
+    {
+      "id": "TutoFormation_P2_D2",
+      "content": "Selecting the upper part of the portrait loads into the \"Edit Team\" menu, where you can view and swap out the Identities and E.G.O of the selected Sinner."
+    },
+    {
+      "id": "TutoFormation_P2_D3",
+      "content": "Selecting the lower part of the portrait Deploys the Sinner, which means that the Sinner will be taking part in the battle."
+    },
+    {
+      "id": "TutoFormation_P2_D4",
+      "content": "This area on the bottom right shows the total number of Deployable Identities for this battle."
+    },
+    {
+      "id": "TutoFormation_P2_D5",
+      "content": "You will not be able to edit your Team in certain battle encounters, however.\nIn those cases, selecting anywhere on a Sinner's Identity portrait will deploy that Identity to battle."
+    },
+    {
+      "id": "TutoFormation_P2_T2",
+      "content": "Deploying Backup Units"
+    },
+    {
+      "id": "TutoFormation_P2_D6",
+      "content": "In normal battles, you cannot Deploy more Sinners than the \"Participant Limit\" indicated in the bottom right corner."
+    },
+    {
+      "id": "TutoFormation_P2_D7",
+      "content": "However, in Chain Battles, you can deploy 'Backup Units' in addition to participating units.\n\nWhen a unit is defeated mid-battle, a Backup Unit will substitute in to fill their place.\n\nIn Chain Battles, the battle will not end in defeat until all units selected for the battle encounter(both participating units and backup units) are defeated."
+    },
+    {
+      "id": "TutoFormation_P2_D8",
+      "content": "When a participating unit is killed, Backup units will be substituted into the field in the order of their Deployment.\n\nWhen the Backup units substitute into the battle, they enter with bonus SP based on the starting SP values defined by their deployment order."
+    },
+    {
+      "id": "TutoFormation_P2_D9",
+      "content": "Certain Chain Battles may give additional buffs for Backup units.\n\nPlease experiment with Deployment orders and strategize prior to entering Chain Battles to gain an edge."
+    },
+    {
+      "id": "TutoFormation_P2_T3",
+      "content": "Substitution"
+    },
+    {
+      "id": "TutoFormation_P2_D10",
+      "content": "In Chain Battles, SP loss due to ally death listed in the 'Base factors increasing/decreasing Sanity' will not activate.\n\nIf an ally is defeated mid-Encounter, a Backup Unit with the earliest Deployment order will replace them.\nThis is called <Substitution> or <Substitute>."
+    },
+    {
+      "id": "TutoFormation_P2_D11",
+      "content": "When a Deployed unit is defeated, its Support Passive will activate instead of its Combat Passive.\n\nWhen a Backup unit Substitutes in, its Combat Passive will activate instead of its Support Passive."
+    },
+    {
+      "id": "TutoFormation_P2_T4",
+      "content": "Enemy Count"
+    },
+    {
+      "id": "TutoFormation_P2_D12",
+      "content": "In Chain Battles, the indicator that shows the number of WAVEs shows total number of enemies and the number of defeated enemies instead."
+    },
+    {
+      "id": "TutoFormation_P2_D13",
+      "content": "However, this indicator does not take into account the extra enemies that are summoned due to certain conditions."
+    },
+    {
+      "id": "TutoFormation_P3_T1",
+      "content": "Identity Info"
+    },
+    {
+      "id": "TutoFormation_P3_D1",
+      "content": "Select and hold an Identity portrait to view the selected Identity's detailed information."
+    },
+    {
+      "id": "TutoFormation_P3_D2",
+      "content": "In the detailed Identity info menu, you can view more information about the selected Identity and any of its equipped E.G.O."
+    },
+    {
+      "id": "TutoFormation_P4_T1",
+      "content": "Select Announcer"
+    },
+    {
+      "id": "TutoFormation_P4_D1",
+      "content": "Select the Announcer button on the left to view the list of Announcers."
+    },
+    {
+      "id": "TutoFormation_P4_D2",
+      "content": "Announcers relay information regarding the flow of battle. You can change the equipped Announcer here."
+    },
+    {
+      "id": "TutoFormation_P4_D3",
+      "content": "Select the magnifier icon at the bottom of each Announcer to view their voicelinces for each situation."
+    },
+    {
+      "id": "TutoFormation_P5_T1",
+      "content": "Team Names"
+    },
+    {
+      "id": "TutoFormation_P5_D1",
+      "content": "Select from the list of keywords to choose a name for your Team loadout."
+    },
+    {
+      "id": "TutoFormation_P5_D2",
+      "content": "You can create up to 20 Teams."
+    },
+    {
+      "id": "TutoFormation_P6_T1",
+      "content": "Team Details"
+    },
+    {
+      "id": "TutoFormation_P6_D1",
+      "content": "Select the detailed info button here to view the following information: All Identities' Skill Attack Types, Sin Affinities, and equipped E.G.O."
+    },
+    {
+      "id": "TutoFormation_P6_T2",
+      "content": "E.G.O Resources"
+    },
+    {
+      "id": "TutoFormation_P6_D2",
+      "content": "On the right panel, you can access the general overview for the types and amounts of E.G.O Resources your current Team can gain in battle."
+    },
+    {
+      "id": "TutoFormation_P6_D3",
+      "content": "Select the right panel to view the Identities that gain the selected E.G.O Resources and E.G.O that use them."
+    },
+    {
+      "id": "TutoFormation_P7_T1",
+      "content": "Team Codes"
+    },
+    {
+      "id": "TutoFormation_P7_D1",
+      "content": "You can copy and share the Team Code, or paste it here to load a Team loadout."
+    },
+    {
+      "id": "TutoFormation_P7_T2",
+      "content": "Delete Team Loadout"
+    },
+    {
+      "id": "TutoFormation_P7_D2",
+      "content": "Reset the currently selected Team."
+    },
+    {
+      "id": "TutoFormation_P7_T3",
+      "content": "Support"
+    },
+    {
+      "id": "TutoFormation_P7_D3",
+      "content": "You can select the Support Identities that your Friends have registered here."
+    },
+    {
+      "id": "TutoFormation_P8_T1",
+      "content": "Copy Code"
+    },
+    {
+      "id": "TutoFormation_P8_D1",
+      "content": "Copy the Team Code for the currently selected Team loadout."
+    },
+    {
+      "id": "TutoFormation_P8_T2",
+      "content": "Paste Code"
+    },
+    {
+      "id": "TutoFormation_P8_D2",
+      "content": "Paste the copied Team Code here to equip the Team loadout."
+    },
+    {
+      "id": "TutoIDList_P1_T1",
+      "content": "Identity List"
+    },
+    {
+      "id": "TutoIDList_P1_D1",
+      "content": "The selected Sinner’s Identities are shown here.\n\nYou can check their Rarity, Uptie Tier, Level, and Faction here."
+    },
+    {
+      "id": "TutoIDList_P2_T1",
+      "content": "Selecting Sinners"
+    },
+    {
+      "id": "TutoIDList_P2_D1",
+      "content": "Select the \"ALL\" button to view the list of Identities for all Sinners at once."
+    },
+    {
+      "id": "TutoIDList_P2_D2",
+      "content": "The Identities that are in your current Team will be visible.\n\nSelect a Sinner's portrait to view their list of Identities."
+    },
+    {
+      "id": "TutoIDList_P2_D3",
+      "content": "Toggle between Identities and E.G.O tabs here."
+    },
+    {
+      "id": "TutoIDList_P3_T1",
+      "content": "Toggle Details"
+    },
+    {
+      "id": "TutoIDList_P3_D1",
+      "content": "The Identities' Skill Attack Types, Sin Affinities, stat values, and Resistances can be viewed here."
+    },
+    {
+      "id": "TutoIDList_P3_D2",
+      "content": "※ This button is deactivated when viewing the list of E.G.O."
+    },
+    {
+      "id": "TutoIDList_P4_T1",
+      "content": "E.G.O List"
+    },
+    {
+      "id": "TutoIDList_P4_D1",
+      "content": "The selected Sinner's E.G.O are shown here.\n\nYou can check their Rarity, Threadspinning Tier, their primary Affinity, and name here."
+    },
+    {
+      "id": "TutoIDList_P5_D1",
+      "content": "Select the \"ALL\" button to view the list of E.G.O for all Sinners at once."
+    },
+    {
+      "id": "TutoIDList_P5_D2",
+      "content": "Select a Sinner's portrait to view the full list of their E.G.O."
+    },
+    {
+      "id": "TutoIDList_P6_T1",
+      "content": "Team Loadout Configuration"
+    },
+    {
+      "id": "TutoIDList_P6_D1",
+      "content": "You can see the equipped Identity and E.G.O for the selected Sinner. Only one E.G.O can be equipped from each grade."
+    },
+    {
+      "id": "TutoIDList_P6_D2",
+      "content": "Selecting this button brings you to the list of Identities or E.G.O that can be equipped on the slot."
+    },
+    {
+      "id": "TutoIDList_P7_T1",
+      "content": "Sorting"
+    },
+    {
+      "id": "TutoIDList_P7_D1",
+      "content": "Sort the Identities and E.G.O by the following categories."
+    },
+    {
+      "id": "TutoIDList_P7_T2",
+      "content": "Filters"
+    },
+    {
+      "id": "TutoIDList_P7_D2",
+      "content": "Use these keyword filters to search for specific Identities and E.G.O that fit your criteria."
+    },
+    {
+      "id": "TutoIDList_P8_T1",
+      "content": "Visibility Toggle"
+    },
+    {
+      "id": "TutoIDList_P8_D1",
+      "content": "Selecting the \"Obtained\" option will show only the list of obtained Identities and E.G.O."
+    },
+    {
+      "id": "TutoIDList_P8_D2",
+      "content": "Selecting \"ALL\" option will show the full list of Identities and E.G.O, obtained or not."
+    },
+    {
+      "id": "TutoIDList_P9_T1",
+      "content": "Support List"
+    },
+    {
+      "id": "TutoIDList_P9_D1",
+      "content": "View the list of Support Identities registered by your friends here."
+    },
+    {
+      "id": "TutoIDList_P9_D2",
+      "content": "Select them to borrow your friends' Identities and E.G.O for battles. However, please note that you cannot have more than 1 Support Identity in a single Team loadout."
+    },
+    {
+      "id": "TutoEvent6511_P1_T1",
+      "content": "Accedere all'Evento"
+    },
+    {
+      "id": "TutoEvent6511_P1_D1",
+      "content": "Seleziona il banner Evento o dalla Finestra o dal menù Guida per entrare nella schermata dell'evento [Tempo Ammazzatempo]."
+    },
+    {
+      "id": "TutoEvent6511_P2_T1",
+      "content": "Durata dell'Evento"
+    },
+    {
+      "id": "TutoEvent6511_P2_D1",
+      "content": "La durata dell'evento Tempo Ammazzatempo viene mostrata qui.\n\nDurante l'evento, puoi ottenere degli [Orologi da Taschino] completando le Sezioni Evento. Puoi anche ottenere gli [Orologi da Taschino] completanto per la prima volta le Sezioni della Storia Principale, oppure i Dungeon Specchio.\n\n※ Gli [Orologi da Taschino] NON possono essere ottenuti negli Scavoluce e nelle Metro Rifrattive."
+    },
+    {
+      "id": "TutoEvent6511_P3_T1",
+      "content": "Incontri Evento"
+    },
+    {
+      "id": "TutoEvent6511_P3_D1",
+      "content": "Tempo Ammazzatempo BokGak è composto da 14 sezioni. (13 sezioni storia ed un singolo dungeon)\n\nGli Incontri Evento offrono degli [Orologi da Taschino] come bonus Primo Completamento."
+    },
+    {
+      "id": "TutoEvent6511_P4_T1",
+      "content": "Identità con Bonus Evento"
+    },
+    {
+      "id": "TutoEvent6511_P4_D1",
+      "content": "Avere nella tua Squadra le Identità e gli E.G.O dall'evento Tempo Ammazzatempo aumenta il numero di [Orologi da Taschino] che ottieni dalle Sezioni e dai Dungeon Specchio."
+    },
+    {
+      "id": "TutoEvent6511_P5_T1",
+      "content": "Scambio Ricompense"
+    },
+    {
+      "id": "TutoEvent6511_P5_D1",
+      "content": "Puoi ottenere vari premi dalla schermata [Scambio Ricompense], in base al numero di [Orologi da Taschino] che possiedi."
+    },
+    {
+      "id": "TutoEvent6511_P6_D1",
+      "content": "Puoi ottenere l'Identità Evento, banner decorativi, decorazioni per il tuo profilo ed altro nella schermata [Scambio Ricompense]."
+    },
+    {
+      "id": "TutoEvent6511_P6_D2",
+      "content": "Il tempo rimasto per fare scambi nella schermata [Scambia Ricompense] viene mostrata qui."
+    },
+    {
+      "id": "TutoEvent6511_P7_T1",
+      "content": "Pacchetto di Orologi da Taschino"
+    },
+    {
+      "id": "TutoEvent6511_P7_D1",
+      "content": "A volte, potresti ottenere un [Pacchetto di Orologi da Taschino] dopo aver completato gli Incontri. Il [Pacchetto di Orologi da Taschino] viene convertito immediatamente in 20 [Orologi da Taschino] dopo essere stato ottenuto."
+    },
+    {
+      "id": "TutoEvent6511_P8_T1",
+      "content": "Modalità Difficile"
+    },
+    {
+      "id": "TutoEvent6511_P8_D1",
+      "content": "La Modalità Difficile di Tempo Ammazzatempo verrà sbloccata durante l'Evento. Sbloccala completanto la Sezione 7-36 della Storia Principale."
+    },
+    {
+      "id": "TutoEvent6511_P8_D2",
+      "content": "La Modalità Difficile offre più [Orologi da Taschino] rispetto alla Modalità Normale."
+    },
+    {
+      "id": "TutoEvent6511_P8_D3",
+      "content": "Puoi ottenere le Ricompense per il Primo Completamento, Completamento EX e per i Progressi del Capitolo anche nelle Sezioni della Modalità Difficile."
+    },
+    {
+      "id": "TutoEvent6511_P9_D1",
+      "content": "Anche dopo che l'evento è terminato, potrai giocare gli Incontri di Tempo Ammazzatempo e leggere la storia in qualsiasi momento. Puoi farlo dalla schermata Guida - [Deviazione] e Teatro - [Deviazioni]."
+    }
+  ]
+}

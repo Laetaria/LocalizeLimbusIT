@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10102_1",
+      "desc": "Identità Ottenuta",
+      "dlg": "You need not hide any secrets from me."
+    },
+    {
+      "id": "lobby_morning_10102_1",
+      "desc": "Saluto Mattutino",
+      "dlg": "Ruminate on your yesterday. It shall prove useful for extricating the present from woe."
+    },
+    {
+      "id": "lobby_noon_10102_1",
+      "desc": "Saluto Pomeridiano",
+      "dlg": "An infinite spectrum comprises the rays of light cast by the sun. Likewise, this world hides countless secrets."
+    },
+    {
+      "id": "lobby_night_10102_1",
+      "desc": "Saluto Serale",
+      "dlg": "Furtive words are whispered in the dark. You must always have your ear to the ground."
+    },
+    {
+      "id": "smalltalk_10102_1",
+      "desc": "Chiacchere #1",
+      "dlg": "I would like to study your head if I get the chance one day."
+    },
+    {
+      "id": "smalltalk_10102_2",
+      "desc": "Chiacchere #2",
+      "dlg": "No man is without weakness. It is why no amount of extravagance and intimidation a move poses can threaten me."
+    },
+    {
+      "id": "smalltalk_10102_3",
+      "desc": "Chiacchere #3",
+      "dlg": "A little bit of attention can bring in much information. For instance, you will know that now is not a good time to speak with Heathcliff."
+    },
+    {
+      "id": "smalltalk_10102_4",
+      "desc": "Chiacchiere Livello Legame 1",
+      "dlg": "If you ever yearn to know your past, merely give me a request. …You'd rather not, I see… Dante, you are such a bizarre and curious specimen."
+    },
+    {
+      "id": "smalltalk_10102_5",
+      "desc": "Chiacchiere Livello Legame 2",
+      "dlg": "So far, I have yet to run out of curiosities to find here. The joy of discovery sates my hunger, and so do you."
+    },
+    {
+      "id": "neglect_10102_1",
+      "desc": "Inattività",
+      "dlg": "Hmm… Silence can speak much, in a way."
+    },
+    {
+      "id": "gacksung_10102_1",
+      "desc": "Aumento Legame Liv. 3",
+      "dlg": "It was as I expected."
+    },
+    {
+      "id": "formation_10102_1",
+      "desc": "Schieramento in Team",
+      "dlg": "It is time to enrich my knowledge."
+    },
+    {
+      "id": "battleentry_10102_1",
+      "desc": "Entrata nella Sezione",
+      "dlg": "What am I to study this time?"
+    },
+    {
+      "id": "battle_select_10102_1",
+      "desc": "Selezione in Battaglia",
+      "dlg": "How about you examine that one?"
+    },
+    {
+      "id": "battle_endcommand_10102_1",
+      "desc": "Inizio Attacco",
+      "dlg": "I have finished my studies."
+    },
+    {
+      "id": "battle_enemy_break_10102_1",
+      "desc": "Nemico Vacillante",
+      "dlg": "That one has become vulnerable."
+    },
+    {
+      "id": "battle_break_10102_1",
+      "desc": "Vacilla",
+      "dlg": "Oh…"
+    },
+    {
+      "id": "battle_kill_10102_1",
+      "desc": "Nemico Ucciso",
+      "dlg": "Fallen into silence."
+    },
+    {
+      "id": "battle_allydead_10102_1",
+      "desc": "Morte Alleato",
+      "dlg": "Not the most flattering situation."
+    },
+    {
+      "id": "choice_success_p_10102_1",
+      "desc": "Prova Superata",
+      "dlg": "It is as predicted."
+    },
+    {
+      "id": "choice_fail_n_10102_1",
+      "desc": "Prova Non Superata",
+      "dlg": "This was unexpected…"
+    },
+    {
+      "id": "battle_clear_10102_1",
+      "desc": "Vittoria",
+      "dlg": "I've successfully analyzed the enemy's behavior."
+    },
+    {
+      "id": "battle_clear_ex_10102_1",
+      "desc": "Condizioni Extra Soddisfatte",
+      "dlg": "That was an effective exploitation of their weaknesses."
+    },
+    {
+      "id": "battle_defeat_10102_1",
+      "desc": "Sconfitta",
+      "dlg": "We ought to explore other modes…"
+    }
+  ]
+}

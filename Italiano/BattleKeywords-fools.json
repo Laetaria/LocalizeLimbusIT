@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "id": "DolcettiForCharon",
+      "name": "Dolcetti?",
+      "desc": "- Valore Max: 1\n- Dove sono i dolcetti?",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TickTockTickTock",
+      "name": "Tick-Tock?!",
+      "desc": "- Si cura di 10 PS a Fine Turno",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DolcettiForCharon_LowMoral",
+      "name": "Dolcetti",
+      "desc": "- Morale Basso\n- Quando si Scontra con le Identità con , Potere Scontro +3; quando si Scontra con le altre Identità, Potere Scontro -1",
+      "summary": "Aumenta il Potere Scontro condizionale",
+      "undefined": "-"
+    },
+    {
+      "id": "DolcettiForCharon_Panic",
+      "name": "Dolcetti",
+      "desc": "- Panico\n- Quando si Scontra con le Identità con , Potere Scontro +5; quando si Scontra con le altre Identità, Potere Scontro -2",
+      "summary": "Aumenta il Potere Scontro condizionale",
+      "undefined": "-"
+    }
+  ]
+}

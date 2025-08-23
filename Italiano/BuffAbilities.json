@@ -1,0 +1,376 @@
+{
+  "dataList": [
+    {
+      "id": "AtkDamageMultiplier",
+      "desc": "{0}% ai danni inflitti",
+      "variation": "{1}% ai {0} danni inflitti"
+    },
+    {
+      "id": "AtkAndTakeAtkDamageMultiplier",
+      "desc": "{0}% ai danni inflitti e subiti",
+      "variation": "{1}% ai danni inflitti e subiti di Affinità {0}"
+    },
+    {
+      "id": "GiveBuffOnSucceedAttack",
+      "desc": "Applica {1} {0} Sul Colpo"
+    },
+    {
+      "id": "MaxHpMultiplierRail",
+      "desc": "PV Max {0}%"
+    },
+    {
+      "id": "SlotWeightAdder",
+      "desc": "Peso Slot {0}"
+    },
+    {
+      "id": "AtkAdder",
+      "desc": "Livello Offensivo {0}"
+    },
+    {
+      "id": "DefAdder",
+      "desc": "Livello Difensivo {0}"
+    },
+    {
+      "id": "AtkAdderIfNotDamagedPrevTurn",
+      "desc": "Livello Offensivo {0} se l'utilizzatore non ha subito danni ai PV per un turno\n(danni allo Scudo ≠ danni ai PV)"
+    },
+    {
+      "id": "MaxSpeedAdderAsStack",
+      "desc": "Velocità Max {0}"
+    },
+    {
+      "id": "MaxSpeedAdder",
+      "desc": "Velocità Max {0}"
+    },
+    {
+      "id": "MinSpeedAdder",
+      "desc": "Velocità Min {0}"
+    },
+    {
+      "id": "TakeHpHealMultiplier",
+      "desc": "PV curati con gli effetti di Abilità e Monete {0}%"
+    },
+    {
+      "id": "RecoverSelfHpOnSucceedAttackByDmg",
+      "desc": "Si cura di {0}% dei danni inflitti"
+    },
+    {
+      "id": "RailEnemyBuffF",
+      "desc": "{0} alla quantità di risorse E.G.O consumate dai Peccatori quando usano Abilità E.G.O"
+    },
+    {
+      "id": "MaxHpMultiplier",
+      "desc": "PV Max {0}%"
+    },
+    {
+      "id": "AtkAndDefAdder",
+      "desc": "Livello Offensivo {0}, Livello Difensivo {0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAlly",
+      "desc": "All'inizio del turno, applica {1} {0} e +{2} Conteggio {0} a tutti gli alleati",
+      "variation": "All'inizio del turno, applica {1} {0} a tutti gli alleati.",
+      "variation2": "All'inizio del turno, applica +{1} Conteggio {0} a tutti gli alleati"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAllyExtra",
+      "desc": "All'inizio del turno, applica {1} {0} a tutti gli alleati e applica +{2} Conteggio {0} in più agli alleati con {0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllEnemyExtra",
+      "desc": "All'inizio del turno, applica {1} {0} to tutti i nemici e applica +{2} Conteggio {0} in più a tutti i nemici con {0}"
+    },
+    {
+      "id": "LoseTurnOnRoundEnd",
+      "desc": "Fine Turno: perde {0} Conteggio"
+    },
+    {
+      "id": "Vibration",
+      "desc": "Quando subisce un'attacco che innesca Scoppio Vibrazione, alza la Soglia di Vacillamento di {0}. Dura {1} turno/i."
+    },
+    {
+      "id": "DefAdderByStackCeilToInt",
+      "desc": "Perde 1 Livello Difensivo per ogni 4 Potenza Vibrazione"
+    },
+    {
+      "id": "Crack",
+      "desc": "Quando Vacilla, e quando la somma di Potenza Vibrazione e Conteggio arriva a 20 o superiore, alza il Livello di Vacillamento di 1\nNon può superare il massimo Livello di Vacillamento con questo effetto"
+    },
+    {
+      "id": "VibrationEcho",
+      "desc": "Quando subisce un'attacco che innesca Scoppio Vibrazione, subisce {0} danni da Accidia."
+    },
+    {
+      "id": "VibrationDistribution",
+      "desc": "- Fine Turno: Ottiene ((somma del Conteggio Vibrazione - Distribuzione degli alleati) / (# degli alleati con Vibrazione - Distribuzione)) Aumento Offensivo il turno successivo (max 5)"
+    },
+    {
+      "id": "VibrationChain",
+      "desc": "Perde 1 Potere Scontro per ogni 10 Potenza Vibrazione sul bersaglio (max 3)"
+    },
+    {
+      "id": "VibrationContinue",
+      "desc": "- Quando si innesca Scoppio Vibrazione con effetti di Abilità o Monete, {0}% probabilità di innescare un'altro Scoppio Vibrazione. (max 50%)\n- Innescando Scoppio Vibrazione con effetti di Abilità o Monete, {1}% probabilità di innescare un'altro Scoppio Vibrazione. (max 50%)"
+    },
+    {
+      "id": "TimeSuspend",
+      "desc": "All'attivazione, infligge {3} danni da Accidia e innesca {0} Scoppi(o) Vibrazione"
+    },
+    {
+      "id": "TimeRentalTwoPersonality",
+      "name": "Tempo in Prestito",
+      "desc": "Fine Turno: ottiene {1} Haste, Potere Scontro Aumentato, e Fragile il turno successivo\nAt 1 Conteggio, ottiene {0} Bind il turno successivo instead",
+      "summary": ""
+    },
+    {
+      "id": "VibrationChainPersonality",
+      "name": "Vibrazione - Catena",
+      "desc": "Perde 1 Potere Scontro per ogni 10 Potenza Vibrazione (max 3)",
+      "summary": ""
+    },
+    {
+      "id": "DefSkillPowerResultAdder",
+      "desc": "Valore Finale Abilità Difensive {0}"
+    },
+    {
+      "id": "TakeAtkDamageMultiplier",
+      "desc": "Danni Subiti {0}%"
+    },
+    {
+      "id": "ParryingResultAdder",
+      "desc": "Potere Scontro {0}"
+    },
+    {
+      "id": "SkillPowerResultAdder",
+      "desc": "Valore Finale {0}"
+    },
+    {
+      "id": "SkillPowerAdder",
+      "desc": "Potere Base {0}"
+    },
+    {
+      "id": "PlusCoinScaleAdder",
+      "desc": "Potere Monete Positive {0}"
+    },
+    {
+      "id": "MinusCoinScaleAdder",
+      "desc": "Potere Monete Negative {0}"
+    },
+    {
+      "id": "DefaultMaxHpMultiplier",
+      "desc": "PV Max {0}%"
+    },
+    {
+      "id": "ResistAdderForLastBoss",
+      "desc": "Resistenza {1} del Boss Finale della Tratta 3 {0}"
+    },
+    {
+      "id": "MRR519P",
+      "desc": "Whenever an ally dies, infligge danni fissi pari a 20% of the dead ally's max PV contro tutti i nemici"
+    },
+    {
+      "id": "HealSelfOnSucceedAttackByDmgRatio",
+      "desc": "Sul Colpo, se il colpo ha ridotto i PV del bersaglio PV, si cura di {0}% of the danni inflitti"
+    },
+    {
+      "id": "MRR524P",
+      "desc": "Tutte le Abilità infliggono +1% danni per ogni 10 {0} su di sé (max 30%)"
+    },
+    {
+      "id": "MRR525",
+      "desc": "Fine Turno: perde {1} {0} Conteggio"
+    },
+    {
+      "id": "CoinScaleAdderByAtkType",
+      "desc": "{0} Abilità ottengono Potere Moneta Positiva +{1}, Potere Moneta Negativa -{1}"
+    },
+    {
+      "id": "GiveBuffOnReleaseStandBy",
+      "desc": "Ottiene {1} {0} quando entra dalla Riserva"
+    },
+    {
+      "id": "MRR532",
+      "desc": "Dopo aver usato un'Attivazione E.G.O, consuma anche 1 risorsa E.G.O da 3 Affinità Peccato casuali con più di 1 risorsa E.G.O."
+    },
+    {
+      "id": "LacerationStackAndTurnAdder",
+      "desc": "+{0} a {1} Potenza e Conteggio inflitti con effetti di Abilità e Monete"
+    },
+    {
+      "id": "MRR536",
+      "desc": "Quando subisce un colpo da un'Abilità, ottiene casualmente 1 dei seguenti il turno successivo: {0}, {1} (4 volte max)"
+    },
+    {
+      "id": "MRR540",
+      "desc": "Le Abilità che consumano {0} ottengono i seguenti: Valore Finale +1, infligge +10% danni"
+    },
+    {
+      "id": "MRR541",
+      "desc": "Quando il suo bersaglio principale è l'unità con meno {1}, Valore Finale Abilità +{0}"
+    },
+    {
+      "id": "MRR518P",
+      "desc": "Inizio Combattimento: i primi 3 alleati Schierati ottengono 10 Potenza Respiro"
+    },
+    {
+      "id": "MRR520P",
+      "desc": "Alla morte, infligge danni fissi pari a {0}% dei PV max dell'unnità morta contro tutti i nemici (per gli Incontri Mirati, tutte le Parti)"
+    },
+    {
+      "id": "MRR517",
+      "desc": "Quando subisce un colpo da un'Abilità, ottiene 2 Aumento Offensivo il turno successivo (max 6)"
+    },
+    {
+      "id": "MRR5051",
+      "desc": "Sul Colpo con Abilità che hanno consumato 8+ {0} Conteggio: +0.1 a {1} Resistenza sul bersaglio per questo incontro\n- Una Volta per Abilità per Nemico\n- Massima modifica di Resistenza con questo effetto: 0.3"
+    },
+    {
+      "id": "MRR5052",
+      "desc": "Le Abilità che ottengono o consumano Conteggio {0} infliggono +(10 + (Conteggio Carica consumato x 2))% danni (max 50%)"
+    },
+    {
+      "id": "MRR506",
+      "desc": "Fine Turno: per ogni Tratto, contro tutte le Parti nemiche con 2+ Conteggio, infligge {1} danni pari a Potenza {0} su ogni Parte; infine, riduce il loro Conteggio {0} di 1, innesca {2} una volta, e riduce il loro {3} Conteggio di 1"
+    },
+    {
+      "id": "MRR507",
+      "desc": "Le Abilità che infliggono Potenza {0} o Conteggio: Valore Finale +2"
+    },
+    {
+      "id": "MRR508",
+      "desc": "Infligge +(Potenza {0} sul bersaglio)% danni contro i bersagli con meno di 0 PS o senza PS (max 45%)"
+    },
+    {
+      "id": "MRR509P",
+      "desc": "Infligge +{0}% danni contro Parti Distrutte o Vacillanti"
+    },
+    {
+      "id": "GiveBuffOnFirstRoundStartPerWave",
+      "desc": "Primo Inizio Turno di un'ondata: ottiene {1} Potenza {0} e +{2} {0} Conteggio"
+    },
+    {
+      "id": "GiveBuffOnBattleStartAR",
+      "desc": "Se è stata attivata {0} Rison., tutti gli alleati ottengono {2} {1} Potenza e +{3} {1} Conteggio a Inizio Combattimento"
+    },
+    {
+      "id": "MRR511PMaxSpeedAdder",
+      "desc": "Alleato Schierato #1: Velocità Max +1"
+    },
+    {
+      "id": "MRR511PMinSpeedAdder",
+      "desc": "Alleato Schierato #1: Velocità Min +1"
+    },
+    {
+      "id": "MRR511PMinSpeedChangeSkill",
+      "desc": "Alleato Schierato #1: perde un'Abilità 1, ma ottiene un'Abilità 3"
+    },
+    {
+      "id": "MRR512",
+      "desc": "Partendo dal #7 Peccatore Schierato, all'inizio dello stesso turno in cui Rinforza, si cura di {0} PS, ottiene {2} {1} per l'Incontro, e ottiene {3} risorsa E.G.Oper ognuna delle sue Abilità 1, 2, e 3"
+    },
+    {
+      "id": "AddSinStockOnKillTargetByUsedSkillAttribute",
+      "desc": "Dopo aver usato un'Abilità Attacco o Contrattacco, se il nemico viene sconfitto, ottiene {0} risorsa E.G.O dell'Affinità Abilità che è stata usata (una volta per Abilità, incluse Abilità E.G.O)"
+    },
+    {
+      "id": "MRR514",
+      "desc": "Quando i nemici di rinforzo entrano in combattimento, infligge 5 Sanguinamento e +3 Sanguinamento su di loro a Inizio Combattimento. Se tra gli alleati si trova un <Sanguimonio>: quando si raggiungono le condizioni suddette: attiva il Sanguinamento su tutti i nemici una volta e riduce il loro Conteggio Sanguinamento di 1"
+    },
+    {
+      "id": "EnemyLevelTextOnly",
+      "desc": "Livello Nemici {0}"
+    },
+    {
+      "id": "MRR501",
+      "desc": "+{0} a Potenza Bruciatura, Sanguinamento, Vibrazione, Lacerazione, e Pianto inflitte ai nemici con gli effetti di Abilità e Monete"
+    },
+    {
+      "id": "TakeBuffTurnAdder",
+      "desc": "{1} a Conteggio {0} ottenuto dagli alleati con gli effetti di Abilità e Monete"
+    },
+    {
+      "id": "MRR503",
+      "desc": "{0} alleati con meno PS si curano di {1} PS a Fine Turno (esclusi: alleati che sono nel Panico o Corrosi)"
+    },
+    {
+      "id": "CriticalDamageBoostWithBuffUse",
+      "desc": "Sul Critico,se con più di {1} Potenza {0}, consuma fino a {1} della Potenza {0} in eccessso per infliggere +(Potenza Respiro consumata x {2})% danni sul Colpo Critico (max {3}%)"
+    },
+    {
+      "id": "GainSinStockOnDieByDefaultSkill",
+      "desc": "Alla sua sconfitta, ottiene Risorse E.G.O in base all'Affinità e Rango di ogni Abilità di Attacco di questa unità"
+    },
+    {
+      "id": "MRR547",
+      "desc": "Inizio Turno: Tutte le Abilità nemiche ottengono Valore Finale +1~3"
+    },
+    {
+      "id": "MRR544",
+      "desc": "Inizio Turno: Tutte le Abilità alleate ottengono Valore Finale +1~3"
+    },
+    {
+      "id": "MRR551",
+      "desc": "Inizio Turno: ai PV max, ottiene {1} Potenza {0} e +{2} Conteggio (una volta per nemico per Parte per Incontro)"
+    },
+    {
+      "id": "MRR552",
+      "desc": "Alla morte, 1 con meno PV attuali ottiene {1} {0} il turno successivo"
+    },
+    {
+      "id": "MRR553",
+      "desc": "Le Abilità E.G.O infliggono +{0}% danni"
+    },
+    {
+      "id": "MRR521",
+      "desc": "Rimuovo la prima Soglia di Vacillamento"
+    },
+    {
+      "id": "MRR557",
+      "desc": "Infligge +(10 + Potenza {0} + {0} Conteggio)% danni sul Colpo Critico (max 50%)"
+    },
+    {
+      "id": "LacerationStackAndTurnAdderIfNotZero",
+      "desc": "+{0} to {1} Potenza e Conteggio inflitti con gli effetti di Abilità e Monete"
+    },
+    {
+      "id": "AttackDmgMultiplierSpecificType",
+      "desc": "{0} Abilità infliggono +30% danni"
+    },
+    {
+      "id": "MRR565MaxSpeedAdder",
+      "desc": "Velocità Max {0}"
+    },
+    {
+      "id": "MRR565MinSpeedAdder",
+      "desc": "Velocità Min {0}"
+    },
+    {
+      "id": "DefaultLevelAdder",
+      "desc": "Livello Offensivo Base {0}, Livello Difensivo Base {0}, Livello Difensivo Base Unità {0}"
+    },
+    {
+      "id": "VibrationIgnition",
+      "desc": "Per {1} turni, allo Scoppio Vibrazione, subisce ({0} + Potenza Bruciatura) / 2 Danni da Ira; infine, riduce Conteggio Vibrazione di 1"
+    },
+    {
+      "id": "Heishou10212",
+      "desc": "Branco Heishou - Eccelsa del Ramo Mao Faust: subisce -5% danni dalle Abilità"
+    },
+    {
+      "id": "Heishou10411",
+      "desc": "Branco Heishou - Ramo Mao Ryōshū: se la Velocità di questa unità è maggiore del bersaglio, infligge +5% danni"
+    },
+    {
+      "id": "Heishou11112",
+      "desc": "Branco Heishou - Ramo Mao Outis: infligge +1 Conteggio Lacerazione Sul Colpo con un'Attacco Incontrastato (una volta per turno)"
+    },
+    {
+      "id": "Heishou10912",
+      "desc": "Branco Heishou - Ramo Si Rodion: infligge 1 Lacerazione Sul Colpo Critico (3 volte per turno)"
+    },
+    {
+      "id": "Heishou11212",
+      "desc": "Branco Heishou - Ramo Si Gregor: quando infligge danni da Lacerazione, ottiene +1 Conteggio Respiro (una volta per turno)"
+    }
+  ]
+}

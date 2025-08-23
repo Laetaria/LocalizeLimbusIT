@@ -1,0 +1,655 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "After some time has passed..."
+        },
+        {
+            "id": 1,
+            "place": "Laboratorio di K Corp.",
+            "content": "With Dongrang's death, our contract with him was rendered null and void."
+        },
+        {
+            "id": 2,
+            "content": "Meaning, the only way for us to be handed the Golden Bough was..."
+        },
+        {
+            "id": 3,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Considerate le circostanze... non è andata così male. Ma non è andata neanche così bene."
+        },
+        {
+            "id": 4,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Poiché il leader dei terroristi—Dongbaek, mi sembra—è morta, la loro organizzazione collasserà in breve tempo. E riguardo i problemi rimanenti..."
+        },
+        {
+            "id": 5,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Ho una proposta su come gestire la situazione."
+        },
+        {
+            "id": 6,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Tutti gli eventi avvenuti oggi a K Corp. sono stati causati da un solo dipendente mentalmente instabile e sovversivo di nome Dongrang..."
+        },
+        {
+            "id": 7,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Allo lo scopo di accapparrarsi ingiustuamente fama e potere all'interno dell'azienda. Potete confermare la cosa?"
+        },
+        {
+            "id": 8,
+            "model": "이스마엘",
+            "content": "...Are you sure you're okay with that cover-up story? He may have opposed us... but he was your employee, wasn't he?"
+        },
+        {
+            "id": 9,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Mhm... per quanto mi riguarda, gli ho già detto addio prima al telefono. Era proprio un tipo sfrontato."
+        },
+        {
+            "id": 10,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "E tu saresti un manager della Limbus Company... Dante, giusto? Considerato il tuo ruolo, non sei stato molto assertivo."
+        },
+        {
+            "id": 11,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Se ambisci ad essere un leader, faresti meglio a ricordare di stroncare ogni problema sul nascere."
+        },
+        {
+            "id": 12,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Più rapidamente ci riuscirai, meglio sarà."
+        },
+        {
+            "id": 13,
+            "model": "단테",
+            "content": "<Screw yourself.>"
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<You also hired Shi Association's assassins to silence Shrenne, didn't you?>"
+        },
+        {
+            "id": 15,
+            "model": "파우스트",
+            "content": "...They are telling you that they got the message."
+        },
+        {
+            "id": 16,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "...Hmph, credevo fossi un fessacchiotto, ma presumo non ti abbiano messo a capo senza un motivo."
+        },
+        {
+            "id": 17,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Ah, un'ultima cosa."
+        },
+        {
+            "id": 18,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Non so come le cose siano precipitate a tal punto da farvi entrare in contatto con la Singolarità della Nostra Ala, ma..."
+        },
+        {
+            "id": 19,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "La creatura piangente..."
+        },
+        {
+            "id": 20,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Era la Singolarità di K Corp., si tratta di un'informazione riservata che non può assolutamente essere nota ad esterni."
+        },
+        {
+            "id": 21,
+            "model": "파우스트",
+            "content": "Limbus Company does not give away confidential information gained during investigation. If you'd like, we could arrange a contract to..."
+        },
+        {
+            "id": 22,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Ha. Ha. Dopo aver visto il contratto che avete firmato trasformarsi in carta straccia, stai davvero proponendo la stessa soluzione?"
+        },
+        {
+            "id": 23,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "No, non mi farò legare le mani da un pezzo di carta."
+        },
+        {
+            "id": 24,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Le vostre memorie saranno cancellate."
+        },
+        {
+            "id": 25,
+            "model": "료슈",
+            "content": "SYNC. Tamper with my memories, and I'll cut you down to bits."
+        },
+        {
+            "id": 26,
+            "model": "베르길리우스",
+            "content": "...We'll follow your method, ma'am."
+        },
+        {
+            "id": 27,
+            "model": "료슈",
+            "content": "You piece of..."
+        },
+        {
+            "id": 28,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Perfetto, e visto che state per dimenticare ogni cosa, potrebbe farvi piacere sapere che..."
+        },
+        {
+            "id": 29,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "La cosa che avete visto non era la vera creatura piangente; bensì un'entità infantile."
+        },
+        {
+            "id": 30,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Non potevamo di certo lasciare una così vitale risorsa nelle mani di uno scienziato senza delle vere credenziali, vi pare?"
+        },
+        {
+            "id": 31,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Mi rattisterebbe farvi pensare che quella cosa insignificante sia l'orgoglio della nostra Ala."
+        },
+        {
+            "id": 32,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "...Ah, non che avrete la possibilità di pensarci su, ovviamente."
+        },
+        {
+            "id": 33,
+            "content": "In spite of Ryōshū's menacing intimidation..."
+        },
+        {
+            "id": 34,
+            "content": "Following the unfriendly instructions of people who appeared to be K Corp's high-rank staff and Fixers, we were put through a memory wipe procedure, erasing every recollection of the tearful thing from the Sinners' heads."
+        },
+        {
+            "id": 35,
+            "content": "As we left, Alfonso told us to look forward to how the tears will be used in the future..."
+        },
+        {
+            "id": 36,
+            "content": "The Sinners had memories of seeing something in the laboratory, but none of them could recall what it was, how the tears were collected, or how HP bullets were made."
+        },
+        {
+            "id": 37
+        },
+        {
+            "id": 38,
+            "place": "Aboard Mephistopheles",
+            "model": "단테",
+            "content": "<By the way, Yi Sang...>"
+        },
+        {
+            "id": 39,
+            "model": "단테",
+            "content": "<Where did you want to fly?>"
+        },
+        {
+            "id": 40,
+            "model": "이상",
+            "content": "I would have been content with the feelings it would give."
+        },
+        {
+            "id": 41,
+            "model": "단테",
+            "content": "<What about now?>"
+        },
+        {
+            "id": 42,
+            "model": "이상",
+            "content": "...Hm. I will leave no comments on that."
+        },
+        {
+            "id": 43,
+            "content": "What they didn't notice, however..."
+        },
+        {
+            "id": 44,
+            "content": "Is that the memory wipe didn't work on me for some mysterious reason."
+        },
+        {
+            "id": 45,
+            "content": "Could I recover the Sinners' wiped memories somehow, like how I rewind their injuries using the clock?"
+        },
+        {
+            "id": 46,
+            "content": "The thought occurred to me, but alas..."
+        },
+        {
+            "id": 47,
+            "content": "I don't know how I would do that, and I'm not sure if it'd be possible at all."
+        },
+        {
+            "id": 48,
+            "content": "I was sure about one thing."
+        },
+        {
+            "id": 49,
+            "content": "The fact that I am retaining the memories they tried to erase must be valuable... So I decided to stay quiet about it."
+        },
+        {
+            "id": 50,
+            "model": "이상",
+            "content": "However, manager, I will say this much."
+        },
+        {
+            "id": 51,
+            "model": "이상",
+            "content": "From now on... I plan to face what I have left."
+        },
+        {
+            "id": 52,
+            "model": "이상",
+            "content": "Those being the mistakes the League of Nine has left, and the tasks left for me."
+        },
+        {
+            "id": 53,
+            "model": "이상",
+            "content": "Thus, I would like to resist as much as I can if needed."
+        },
+        {
+            "id": 54,
+            "model": "이상",
+            "content": "No longer will I bend as the wind blows... I won't let it sway me or strike me down."
+        },
+        {
+            "id": 55,
+            "model": "이상",
+            "content": "Rather than be slantwise and seep..."
+        },
+        {
+            "id": 56,
+            "model": "이상",
+            "content": "I intend to walk where I plan to go."
+        },
+        {
+            "id": 57,
+            "model": "이상",
+            "content": "Will you aid me in my endeavors, Dante?"
+        },
+        {
+            "id": 58,
+            "model": "단테",
+            "content": "<……>"
+        },
+        {
+            "id": 59,
+            "model": "단테",
+            "content": "<Of course.>"
+        },
+        {
+            "id": 60,
+            "content": "That's right. Even if their memories are taken, it won't gnaw away at the determination that has firmly taken root in their hearts."
+        },
+        {
+            "id": 61,
+            "content": "Then, what is the determination that I have left?"
+        },
+        {
+            "id": 62,
+            "content": "How much must I remember and witness?"
+        },
+        {
+            "id": 63,
+            "content": "Thinking such thoughts, I looked at Vergilius who was on the other side."
+        },
+        {
+            "id": 64,
+            "model": "베르길리우스",
+            "content": "...Because it would be one of the manager's duties to remember and witness all this."
+        },
+        {
+            "id": 65,
+            "model": "단테",
+            "content": "<You heard what I said?>"
+        },
+        {
+            "id": 66,
+            "model": "파우스트",
+            "content": "Dante asks if you heard what they said."
+        },
+        {
+            "id": 67,
+            "model": "베르길리우스",
+            "content": "...I couldn't hear the usual ticks, so I have no way to know if you even said something."
+        },
+        {
+            "id": 68,
+            "model": "베르길리우스",
+            "content": "Of course, I can't hear your words, Manager Dante. It was just idle talk. The look on your face seemed to warrant it."
+        },
+        {
+            "id": 69,
+            "content": "Did I have facial expressions...?"
+        },
+        {
+            "id": 70
+        },
+        {
+            "id": 71,
+            "place": "Laboratorio di K Corp.",
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Possano quelle lacrime senza fine rappresentare i nostri infiniti successi."
+        },
+        {
+            "id": 72,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Il tuo desiderio; i nostri desideri..."
+        },
+        {
+            "id": 73,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Si stanno realizzando al meglio delle nostre capacità."
+        },
+        {
+            "id": 74
+        },
+        {
+            "id": 75,
+            "model": "이상",
+            "content": "<color=#d4e1e8>Have you been well?</color>"
+        },
+        {
+            "id": 76,
+            "model": "이상",
+            "content": "<color=#d4e1e8>Whenever I look at a mirror, I find myself greeting it.</color>"
+        },
+        {
+            "id": 77,
+            "model": "이상",
+            "content": "<color=#d4e1e8>It is said that a greeting is only natural when it is mutually exchanged...</color>"
+        },
+        {
+            "id": 78,
+            "model": "이상",
+            "content": "<color=#d4e1e8>But I do not mind the one-sidedness, as I believe it will be conveyed someday.</color>"
+        },
+        {
+            "id": 79,
+            "model": "이상",
+            "content": "<color=#d4e1e8>I have decided that from now on, I will no longer be stopped in place.</color>"
+        },
+        {
+            "id": 80,
+            "model": "이상",
+            "content": "<color=#d4e1e8>Even if all will ultimately remain unchanging...</color>"
+        },
+        {
+            "id": 81,
+            "model": "이상",
+            "content": "<color=#d4e1e8>I, too, shan't change, either.</color>"
+        },
+        {
+            "id": 82,
+            "model": "이상",
+            "content": "<color=#d4e1e8>You have no need to be overly concerned for me. I now have new companions by my side.</color>"
+        },
+        {
+            "id": 83,
+            "model": "이상",
+            "content": "<color=#d4e1e8>Though I cannot be sure what they will think of this... I intend to consider them as such.</color>"
+        },
+        {
+            "id": 84,
+            "model": "이상",
+            "content": "<color=#d4e1e8>To close off...</color>"
+        },
+        {
+            "id": 85,
+            "model": "이상",
+            "content": "<color=#d4e1e8>Allow me one final remark.</color>"
+        },
+        {
+            "id": 86,
+            "model": "이상",
+            "content": "<color=#d4e1e8>May you all keep company with peace throughout your lives.</color>"
+        },
+        {
+            "id": 87,
+            "model": "이상",
+            "content": "<color=#d4e1e8>Yours sincerely, Yi Sang.</color>"
+        },
+        {
+            "id": 88
+        },
+        {
+            "id": 89
+        },
+        {
+            "id": 90,
+            "place": "Nest K’s Alleyways",
+            "model": "단테",
+            "content": "<They sure are serious about eating.>"
+        },
+        {
+            "id": 91,
+            "model": "단테",
+            "content": "<It amazes me how they can look so happy while eating out.>"
+        },
+        {
+            "id": 92,
+            "content": "I stepped out of the restaurant to briefly catch some fresh air."
+        },
+        {
+            "id": 93,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "……"
+        },
+        {
+            "id": 94,
+            "model": "단테",
+            "content": "<You're... I didn't even notice you arrive... How long have you been there?>"
+        },
+        {
+            "id": 95,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "I told you that I would come to see you again."
+        },
+        {
+            "id": 96,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "Why can't people settle for just looking?"
+        },
+        {
+            "id": 97,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "It should be enough to simply admire it, smell the scent, and enjoy the moment; but they nurture greed and obsession as they contain it in their sight, eating themselves away."
+        },
+        {
+            "id": 98,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "The mirror, too—it was first created for simple enjoyment."
+        },
+        {
+            "id": 99,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "You could compare it to a bag of chips with hundreds of flavors, for example."
+        },
+        {
+            "id": 100,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "But then someone came up with an idea."
+        },
+        {
+            "id": 101,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "'What if there was a way to reach into that possibly infinite bag of chips and take what I don't have...? What if all of us could have all the flavors that way...?'"
+        },
+        {
+            "id": 102,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "It wouldn't be considered theft. According to the rules made by adults, anyway."
+        },
+        {
+            "id": 103,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "That, in fact, is stealing from me."
+        },
+        {
+            "id": 104,
+            "model": "단테",
+            "content": "<……>"
+        },
+        {
+            "id": 105,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "Countless stars are in the sky. But they aren't all the same. If someone else saw them, they might have been nothing more than dim lumps of light."
+        },
+        {
+            "id": 106,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "But someone who found the twinkle staggeringly charming took one of the stars..."
+        },
+        {
+            "id": 107,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "And hung it on a high enough place for everyone to see, expelling the dark."
+        },
+        {
+            "id": 108,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "All the people would rejoice."
+        },
+        {
+            "id": 109,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "Now, here's a question."
+        },
+        {
+            "id": 110,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "What will become of me who has been robbed by me, and the star that's now forced to illuminate the dark forevermore?"
+        },
+        {
+            "id": 111,
+            "model": "단테",
+            "content": "<I…>"
+        },
+        {
+            "id": 112,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "The mirror your friends use isn't any different. That is such a cruel piece of technology."
+        },
+        {
+            "id": 113,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "Take your time with the answer. Just draw me a sheep later."
+        },
+        {
+            "id": 114,
+            "model": "데미안",
+            "teller": "Demian",
+            "title": "???",
+            "content": "You may not remember it right now... but you promised to."
+        },
+        {
+            "id": 115,
+            "content": "Just as I tried to say something, he vanished, leaving only a hint of loneliness."
+        },
+        {
+            "id": 116,
+            "content": "He was nowhere to be seen, as if he returned to where he belonged. I couldn't even remember what I was trying to answer."
+        },
+        {
+            "id": 117
+        },
+        {
+            "id": 118
+        }
+    ]
+}

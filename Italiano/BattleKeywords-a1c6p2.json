@@ -1,0 +1,42 @@
+{
+  "dataList": [
+    {
+      "id": "AaCfPbBe",
+      "name": "Preda Marchiata",
+      "desc": "- Con ogni colpo subito da questa unità, subisce danni Taglienti aggiuntivi pari al 10% dei danni ai PV subiti. Si esaurisce il turno successivo.\n- Se questa unità non subisce danni questo turno, infligge 1 Complesso di Inferiorità dopo l'attacco e poi si esaurisce\n- Valore Massimo: 1",
+      "summary": "Subisce danni Taglienti aggiuntivi pari a 10% dei danni ai PV subiti",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBf",
+      "name": "Complesso di Inferiorità",
+      "desc": "- Ogni volta che l'unità viene colpita, subisce ((20% dei danni agli PV subiti) * {0}) danni\n- Valore Massimo: 5",
+      "summary": "Subisce ((20% dei danni agli PV subiti) * {0}) danni",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBa",
+      "name": "Tristezza Esplosiva",
+      "desc": "- Resistenza a Affinità Tristezza +0.3\n- Resistenze a Altre Affinità -0.5\n- Subendo un colpo: infligge 3 danni ai PS all'attaccante, ottiene 1 Conteggio Pianto, e ottiene 1 Aumento Offensivo il turno successivo (9 volte per turno)",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBb",
+      "name": "Invidia Esplosiva",
+      "desc": "- Resistenza a Affinità Invidia +0.3\n- Resistenze a Altre Affinità -0.5\n- Subendo un colpo: applica 1 Aumento Offensivo, infligge 2 Sanguinamento, e 2 Conteggio Sanguinamento all'attaccante, e ottiene 1 Calo Difensivo il turno successivo (9 volte per turno)",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBc",
+      "name": "Ira Esplosiva",
+      "desc": "- Resistenza a Affinità Ira +0.3\n- Resistenze a Altre Affinità -0.5\n- Subendo un colpo: Ottiene 1 Aumento Offensivo e 1 Calo Difensivo il turno successivo (9 volte per turno)",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBd",
+      "name": "Lutto Profondo",
+      "desc": "Inizio Turno: Perde 5 Rapidità e ottiene 5 Calo Difensivo",
+      "undefined": "-"
+    }
+  ]
+}

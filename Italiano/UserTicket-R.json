@@ -1,0 +1,249 @@
+{
+  "dataList": [
+    {
+      "id": -1,
+      "name": "Limbus Company",
+      "desc": "Base"
+    },
+    {
+      "id": 1,
+      "name": "Peccato: Ira",
+      "desc": "Base"
+    },
+    {
+      "id": 2,
+      "name": "Peccato: Lussuria",
+      "desc": "Base"
+    },
+    {
+      "id": 3,
+      "name": "Peccato: Accidia",
+      "desc": "Base"
+    },
+    {
+      "id": 4,
+      "name": "Peccato: Gola",
+      "desc": "Base"
+    },
+    {
+      "id": 5,
+      "name": "Peccato: Tristezza",
+      "desc": "Base"
+    },
+    {
+      "id": 6,
+      "name": "Peccato: Superbia",
+      "desc": "Base"
+    },
+    {
+      "id": 7,
+      "name": "Peccato: Invidia",
+      "desc": "Base"
+    },
+    {
+      "id": 8,
+      "name": "Lacrime di K Corp.",
+      "desc": "Ottenuto con il Pass Stagione 2 Gratuito - Livello 40"
+    },
+    {
+      "id": 9,
+      "name": "Giorno Piovoso",
+      "desc": "Ottenuto con il Limbus Pass Stagione 2 - Livello 45"
+    },
+    {
+      "id": 10,
+      "name": "Dongbaek",
+      "desc": "Ottenuto con il Pass Stagione 2 Gratuito - Livello 55"
+    },
+    {
+      "id": 11,
+      "name": "M.A.R.E.",
+      "desc": "Ottenuto dall'evento M.A.R.E."
+    },
+    {
+      "id": 12,
+      "name": "Tratta 2",
+      "desc": "Ottenuto completando la Tratta 2 con 5 o più Cicli Totali"
+    },
+    {
+      "id": 13,
+      "name": "Tratta 2 : Möbius",
+      "desc": "Ottenuto completando la Tratta 2 con 5 o più Cicli Totali e con 200 o meno Turni Totali prima che la Stagione 2: Reminiscenza termini"
+    },
+    {
+      "id": 14,
+      "name": "Tratta 2 : Möbius II",
+      "desc": "Ottenuto completando la Tratta 2 con 5 o più Cicli Totali e meno di 150 Turni Totali prima che la Stagione 2: Reminiscenza termini (La Tratta dev'essere completata dopo il 15.09.2023 20:15(KST))"
+    },
+    {
+      "id": 15,
+      "name": "Container per Spedizioni",
+      "desc": "Ottenuto con il Pass Stagione 3 Gratuito - Livello 70"
+    },
+    {
+      "id": 16,
+      "name": "Nel Mezzo della Tempesta",
+      "desc": "Ottenuto con il Limbus Pass Stagione 3 - Livello 90"
+    },
+    {
+      "id": 17,
+      "name": "Pequod Town",
+      "desc": "Ottenuto con il Pass Stagione 3 Gratuito - Livello 110"
+    },
+    {
+      "id": 18,
+      "name": "Buon Natale",
+      "desc": "Ottenuto dall'evento Miracle in District 20 event"
+    },
+    {
+      "id": 19,
+      "name": "Buon Natale - Speciale",
+      "desc": "Ottenuto dall'evento Miracolo nel Distretto 20"
+    },
+    {
+      "id": 20,
+      "name": "Team di Controllo di L Corp.",
+      "desc": "Ottenuto dall'evento della 2a Notte di Valpurga"
+    },
+    {
+      "id": 21,
+      "name": "Tratta 3",
+      "desc": "Ottenuto completando il Capolinea della Metro Rifrattiva Tratta 3"
+    },
+    {
+      "id": 22,
+      "name": "Tratta 3 : MirrorClock OrangeRoad",
+      "desc": "Ottenuto completando il Capolinea della Tratta 3 con 100 o meno Turni Totali prima che la Stagione 3: Bon Voyage termini"
+    },
+    {
+      "id": 23,
+      "name": "Cedo la Carne per Strappare le Ossa",
+      "desc": "Ottenuto dall'evento 'Cedo la Carne per Strappare le Ossa'"
+    },
+    {
+      "id": 24,
+      "name": "Cedo la Carne per Strappare le Ossa - Speciale",
+      "desc": "Ottenuto dall'evento 'Cedo la Carne per Strappare le Ossa'"
+    },
+    {
+      "id": 25,
+      "name": "1o Compleanno",
+      "desc": "Ottenuto dall'evento per il 1o Anniversario"
+    },
+    {
+      "id": 26,
+      "name": "Cime Tempestose",
+      "desc": "Ottenuto con il Pass Stagione 4 Gratuito - Livello 70"
+    },
+    {
+      "id": 27,
+      "name": "Laboratorio Sotterraneo",
+      "desc": "Ottenuto con il Limbus Pass Stagione 4 - Livello 90"
+    },
+    {
+      "id": 28,
+      "name": "Bussando alla Finestra",
+      "desc": "Ottenuto con il Pass Stagione 4 Gratuito - Livello 110"
+    },
+    {
+      "id": 29,
+      "name": "Library of Ruina",
+      "desc": "Ottenuto tramite il codice coupon speciale di Library of Ruina"
+    },
+    {
+      "id": 30,
+      "name": "Ufficio Dawn",
+      "desc": "Ottenuto dall'evento della 3a Notte di Valpurga"
+    },
+    {
+      "id": 31,
+      "name": "Tempo Ammazzatempo",
+      "desc": "Ottenuto dall'evento Tempo Ammazzatempo"
+    },
+    {
+      "id": 32,
+      "name": "Tempo Ammazzatempo - Speciale",
+      "desc": "Ottenuto dall'evento Tempo Ammazzatempo"
+    },
+    {
+      "id": 33,
+      "name": "Tratta 4",
+      "desc": "Ottenuto completando la Metro Rifrattiva Tratta 4"
+    },
+    {
+      "id": 34,
+      "name": "Tratta 4 : Masquerade",
+      "desc": "Ottenuto completando la Sezione #4 della Tratta 4 con 100 o meno Turni Totali prima che la Stagione 4: Clear All Cathy termini"
+    },
+    {
+      "id": 35,
+      "name": "Assassinio sul WARP Express",
+      "desc": "Ottenuto dall'evento Assassinio sul WARP Express"
+    },
+    {
+      "id": 36,
+      "name": "Assassinio sul WARP Express - Speciale",
+      "desc": "Ottenuto dall'evento Assassinio sul WARP Express"
+    },
+    {
+      "id": 37,
+      "name": "Team di Addestramento di L Corp.",
+      "desc": "Ottenuto dall'evento della 4a Notte di Valpurga"
+    },
+    {
+      "id": 41,
+      "name": "Ufficio Full-Stop",
+      "desc": "Ottenuto dall'evento della 5a Notte di Valpurga"
+    },
+    {
+      "id": 42,
+      "name": "Controllo di Routine LCB",
+      "desc": "Ottenuto dall'evento Controllo di Routine LCB"
+    },
+    {
+      "id": 43,
+      "name": "Controllo di Routine LCB - Speciale",
+      "desc": "Ottenuto dall'evento Controllo di Routine LCB"
+    },
+    {
+      "id": 44,
+      "name": "Tratta 5",
+      "desc": "Ottenuto completando la Metro Rifrattiva Tratta 5"
+    },
+    {
+      "id": 45,
+      "name": "Tratta 5: Merry Go Round",
+      "desc": "Ottenuto completando la Tratta 5 con 100 o meno Turni Totali prima che la Stagione 5: Oblio termini."
+    },
+    {
+      "id": 48,
+      "name": "2o Anniversario",
+      "desc": "Ottenuto dall'evento per il 2o Anniversario"
+    },
+    {
+      "id": 49,
+      "name": "2o Anniversario (Speciale)",
+      "desc": "Ottenuto dall'evento per il 2o Anniversario"
+    },
+    {
+      "id": 46,
+      "name": "Specchio della Sognatrice",
+      "desc": "Ottenuto come Ricompensa per gli Achievement dello Specchio della Sognatrice"
+    },
+    {
+      "id": 47,
+      "name": "Specchio della Sognatrice - Speciale",
+      "desc": "Ottenuto come Ricompensa per gli Achievement dello Specchio della Sognatrice"
+    },
+    {
+      "id": 50,
+      "name": "Spazzare Notturno",
+      "desc": "Ottenuto dall'evento 'Spazzare Notturno'"
+    },
+    {
+      "id": 51,
+      "name": "Spazzare Notturno - Speciale",
+      "desc": "Ottenuto dall'evento 'Spazzare Notturno'"
+    }
+  ]
+}

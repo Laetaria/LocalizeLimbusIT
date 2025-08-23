@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": 90178,
+      "name": "Threatening Gear Worshipper",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90179,
+      "name": "Nimble Gear Worshipper",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90180,
+      "name": "Aggressive Gear Fanatic",
+      "desc": "Unità Nemica"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Nido K - Interno della Filiale LC",
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah, deve trattarsi dell'ultimo corridoio. Una volta superato, raggiungeremo il lato estremo della struttura."
+        },
+        {
+            "id": 1,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Dopo aver recuperato le cose che mi stanno a cuore, come pattuito, vi cederò la proprietà del Ramo Dorato."
+        },
+        {
+            "id": 2,
+            "model": "로쟈",
+            "content": "Feels like this is gonna end on a rotten note, you gonna be okay with that? Those terrorists really must've run off, seeing how none of 'em showed up..."
+        },
+        {
+            "id": 3,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Riprendere il controllo del laboratorio era parte del contratto."
+        },
+        {
+            "id": 4,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "È per cose del genere che insisto sempre sull'argomento, Mr. Dongrang. Quando si stende un contratto bisogna essere meticolosi e lungimiranti, scrivendolo in modo da beneficiarne."
+        },
+        {
+            "id": 5,
+            "model": "단테",
+            "content": "<...Let's get going.>"
+        },
+        {
+            "id": 6,
+            "content": "Fortunately, I didn't see any killing machines here."
+        },
+        {
+            "id": 7,
+            "content": "However, a couple of unwelcome figures appeared in front of us."
+        },
+        {
+            "id": 8,
+            "model": "오티스",
+            "content": "Be on guard, Executive Manager! Someone is ahead of us."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<Yeah, but they aren't holding any weapons...>"
+        },
+        {
+            "id": 10,
+            "model": "오티스",
+            "content": "They may be unarmed, but you are an incredibly weak and fragile civilian, Executive Manager!"
+        },
+        {
+            "id": 11,
+            "model": "단테",
+            "content": "<...Um, thanks? Outis?>"
+        },
+        {
+            "id": 12,
+            "model": "란",
+            "teller": "???",
+            "title": "Technology Liberation Alliance",
+            "content": "Ma sapete contare? Siete in schiacciante superiorità numerica. Non piangete a vuoto..."
+        },
+        {
+            "id": 13,
+            "model": "란",
+            "teller": "???",
+            "title": "Technology Liberation Alliance",
+            "content": "Finalmente i vermi sono arrivati"
+        },
+        {
+            "id": 14,
+            "model": "싱클레어",
+            "content": "It's the same voice that played from the machines. And... it's the same face we saw earlier."
+        },
+        {
+            "id": 15,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Dove sono il resto dei tuoi collaboratori, Ricercatrice Superiore Ran?"
+        },
+        {
+            "id": 16,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "...Vedo che sei riuscito a procurarti dei rinforzi per questo casino."
+        },
+        {
+            "id": 17,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "E piantala con stronzate come darmi della \"Superiore\", ci siamo conosciuti per pochissimo. Non capisci quello che sta succedendo?"
+        },
+        {
+            "id": 18,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "Hanno già evacuato la struttura. Sono rimasta... per fargli guadagnare tempo."
+        },
+        {
+            "id": 19,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Molto interessante... Credavamo di aver fatto irruzione senza preavviso, ma sembra lo sapeste e siete fuggiti?"
+        },
+        {
+            "id": 20,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "È perché siete dei vermi. Ma guardati, tronfio come un pavone solo per aver ricevuto il premio come miglior impiegato..."
+        },
+        {
+            "id": 21,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "Ci attaccate qui, sperando di beccarci a braghe calate."
+        },
+        {
+            "id": 22,
+            "model": "히스클리프",
+            "content": "You've got a big mouth. You think you're better than us?"
+        },
+        {
+            "id": 23,
+            "model": "히스클리프",
+            "content": "You're outnumbered like you said. That noggin of yours probably knows you'd better surrender, eh?"
+        },
+        {
+            "id": 24,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "...Facciamo finta che tu abbia ragione. So bene cosa mi farete."
+        },
+        {
+            "id": 25,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "Dopo avermi neutralizzato mi lascereste a malapena in vita..."
+        },
+        {
+            "id": 26,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "\"Curandomi\" con le vostre beneamate fiale rigenerative..."
+        },
+        {
+            "id": 27,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "E via così; fino a quando non avrete le risposte che cercate."
+        },
+        {
+            "id": 28,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Un'problema facilmente evitabile fornendoci direttamente le risposte. Sto forse chiedendo troppo?"
+        },
+        {
+            "id": 29,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "'Ovviamente. A differenza tua..."
+        },
+        {
+            "id": 30,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "Non vogliamo vivere come scarafaggi, nutrendoci di quello che cade dall'alto."
+        },
+        {
+            "id": 31,
+            "model": "그레고르",
+            "content": "...This is really getting on my nerves."
+        },
+        {
+            "id": 32,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "Ah, non importa~ Sono stufa di giocherellare con voi."
+        },
+        {
+            "id": 33,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Che cosa stai cercando di..."
+        },
+        {
+            "id": 34,
+            "model": "란",
+            "teller": "Ran",
+            "title": "Technology Liberation Alliance",
+            "content": "Massì, mostrate interesse solo per quello che avete davanti agli occhi. È così che si comporta un vero ricercatore."
+        },
+        {
+            "id": 35,
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "Laboratorio di K Corp.",
+            "content": "Ran..."
+        },
+        {
+            "id": 36,
+            "content": "With an ear-piercing noise, the building was engulfed in an explosion."
+        },
+        {
+            "id": 37,
+            "content": "All that remains is a charred stain."
+        },
+        {
+            "id": 38,
+            "model": "단테",
+            "content": "<Ngh... That hurt a lot.>"
+        },
+        {
+            "id": 39,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Sta bene, Mr. Dongrang?"
+        },
+        {
+            "id": 40,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Sono a posto... Qualcuno del gruppo di Dante mi ha spinto via durante l'espolsione. Era il tipo silenzioso con lo sguardo torvo."
+        },
+        {
+            "id": 41,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Avrei fatto la stessa cosa, ma ero troppo distante."
+        },
+        {
+            "id": 42,
+            "model": "니코",
+            "teller": "Niko",
+            "title": "Officina Rosespanner",
+            "content": "Fiuuu, ce mancato poco."
+        },
+        {
+            "id": 43,
+            "content": "After taking the impact for others, Don Quixote and Meursault had been flung all the way to columns supporting the building, their backbones fully exposed."
+        },
+        {
+            "id": 44,
+            "content": "...Don Quixote in particular was impaled on a pillar."
+        },
+        {
+            "id": 45,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Deve essere la fede che hanno nel sapere che li riporterai in vita a farli lanciare nel pericolo senza esitazione."
+        },
+        {
+            "id": 46,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non si tratta di amicizia o lealtà... Non è così?"
+        },
+        {
+            "id": 47,
+            "content": "Don Quixote couldn't give any answers, whether due to death or the pointed edge stabbing through her mouth."
+        },
+        {
+            "id": 48,
+            "model": "뫼르소",
+            "content": "...Cough."
+        },
+        {
+            "id": 49,
+            "model": "단테",
+            "content": "<Meursault? You were alive...?>"
+        },
+        {
+            "id": 50,
+            "model": "뫼르소",
+            "content": "...It was my directive to protect the manager and see that the company's mission is accomplished."
+        },
+        {
+            "id": 51,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Sì... direi proprio di sì."
+        },
+        {
+            "id": 52,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Davvero comodo. Potete rigenerare il vostro corpo senza utilizzare fiale rigenerative."
+        },
+        {
+            "id": 53,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 54,
+            "model": "단테",
+            "content": "<I dunno, the ampule looks handier...>"
+        },
+        {
+            "id": 55,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Quasi dimenticavo, Ms. Shrenne è al sicuro? E i Fixer?"
+        },
+        {
+            "id": 56,
+            "model": "니코",
+            "teller": "Niko",
+            "title": "Officina Rosespanner",
+            "content": "Siamo vivi e vegeti."
+        },
+        {
+            "id": 57,
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "Laboratorio di K Corp.",
+            "content": "Il tuo gruppo ha assorbito l'espolsione per noi, quindi l'abbiamo scampata."
+        },
+        {
+            "id": 58,
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "Laboratorio di K Corp.",
+            "content": "Allora... è quella la ragione per cui non avete preso delle fiale. Quell'orologio ha dei poteri speciali."
+        },
+        {
+            "id": 59,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Proprio così. Dopotutto, li ho reclutati in seguito a valutazioni e analisi approfondite."
+        },
+        {
+            "id": 60,
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "Laboratorio di K Corp.",
+            "content": "Capisco... Beh, cavolo... Tutte le fiale che ho portato... sono inutili."
+        },
+        {
+            "id": 61,
+            "content": "For some reason, Shrenne lets out a defeated laugh and drops the ampules in her bag to the floor."
+        },
+        {
+            "id": 62,
+            "content": "It's true... For them—looking at it from a perspective that excludes me—this is certainly a convenient power."
+        },
+        {
+            "id": 63,
+            "content": "Fatal consequences can be reversed, and the only price is me having to bear the pain."
+        },
+        {
+            "id": 64,
+            "content": "No, wait."
+        },
+        {
+            "id": 65,
+            "content": "Is this really fine?"
+        },
+        {
+            "id": 66,
+            "content": "And where does all this time to rewind come from?"
+        },
+        {
+            "id": 67,
+            "model": "히스클리프",
+            "content": "Clock...face... Stop...dawdling about... That yellow-haired lass is dying..."
+        },
+        {
+            "id": 68,
+            "content": "Thoroughly ravaged by the blast, Heathcliff pointed at Don Quixote."
+        },
+        {
+            "id": 69,
+            "model": "히스클리프",
+            "content": "Hurry up and turn it... This... hurts an awful lot..."
+        },
+        {
+            "id": 70,
+            "model": "단테",
+            "content": "<...On it.>"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "dataList": [
+    {
+      "id": 1,
+      "name": "Tratta 1"
+    },
+    {
+      "id": 2,
+      "name": "Tratta 2"
+    },
+    {
+      "id": 3,
+      "name": "Tratta 3"
+    },
+    {
+      "id": 4,
+      "name": "Tratta 4",
+      "longName": "Tratta 4"
+    },
+    {
+      "id": 5,
+      "name": "Tratta 5",
+      "longName": "Tratta 5"
+    }
+  ]
+}

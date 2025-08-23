@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "CHAPTER_100",
+      "title": "Selva Oscura",
+      "desc": "Mi trovavo nel mezzo di una selva oscura,\ni motivi e il mio passato smarriti.\nTutto ciò che avevo era un orologio a rimpiazzarmi la testa,\ne un autobus che spuntava dalla foresta."
+    },
+    {
+      "id": "CHAPTER_101",
+      "title": "Il Reietto",
+      "desc": "Mi fu assegnato il ruolo di Manager.\nLa mia Guida mi disse di trovare un ramo d'oro, al cui la mia testa annuì.\nSenza saperlo,\nho preso una strada che finiva in un'incubo."
+    },
+    {
+      "id": "CHAPTER_102",
+      "title": "L'Indifferente",
+      "desc": "Degli intrusi hano preso il Ramo Dorato.\nCon un sospiro, la Guida ci offrì un'altra possibilità.\nDeterminati a riuscire questa volta,\nmarciammo dentro un mondo\ndi piacere e ghiaccio."
+    },
+    {
+      "id": "CHAPTER_103",
+      "title": "Lo Schivo",
+      "desc": "Il sipario si chiuse su un'allegra ma agghiacciante commedia.\nIn seguito, sentii vagamente\nche una tragedia fosse in agguato.\nIl bus traballò avanti.\nDalla finestra, vidi giungere una notte silenziosa."
+    },
+    {
+      "id": "CHAPTER_104",
+      "title": "L'Immutabile",
+      "desc": "Ricevemmo la nostra prima richiesta.\nL'eccitazione fu di breve durata quando vedemmo il caos scatenarsi nel mezzo del Nido della K Corp.\nRiavvolto nuovamente il tempo, un paio di occhi abbassati richiamano la mia attenzione."
+    },
+    {
+      "id": "STORY_10111",
+      "title": "Stabilimento Succursale del Distretto 4",
+      "desc": ""
+    },
+    {
+      "id": "STORY_10219",
+      "title": "Stabilimento Succursale del Distretto 10",
+      "desc": ""
+    },
+    {
+      "id": "STORY_10322",
+      "title": "Stabilimento Succursale del Distretto 11",
+      "desc": ""
+    },
+    {
+      "id": "STORY_10454",
+      "title": "Profondità Rammentate dell'Ego",
+      "desc": ""
+    },
+    {
+      "id": "CHAPTER_105",
+      "title": "Il Male Incarnato",
+      "desc": "Nel mezzo di un conflitto senza fine,\nsalpammo per il Grande Lago.\nNelle sue Onde indicibili,\nnelle fiamme di una inevitabile collera."
+    },
+    {
+      "id": "STORY_10539",
+      "title": "Nell'Oscurità",
+      "desc": ""
+    },
+    {
+      "id": "CHAPTER_106",
+      "title": "Lo Spezzacuori",
+      "desc": "I colori sbiadirono,\ne si avvicinò una bufera.\nDalle finestre,\nvedemmo le cime tempestose."
+    },
+    {
+      "id": "STORY_10736",
+      "title": "La Storia di una Grande Fixer Che Inseguiva il Sogno",
+      "desc": ""
+    },
+    {
+      "id": "CHAPTER_107",
+      "title": "La Fine Del Sogno",
+      "desc": "Con i cuori pesanti,\nscendemmo dal treno.\nNascondevo una certa verità,\ndimenticata persino dall'interessata."
+    },
+    {
+      "id": "CHAPTER_108",
+      "title": "L'Osservatore Arrendevole",
+      "desc": "Il suo occhio di Giada\nosserva la strada oltre i nostri sguardi.\nNon sapendo ancora fin dove si è spinto,\ncammino nel luogo le cui case formano un labirinto."
+    },
+    {
+      "id": "STORY_10820",
+      "title": "Secondo Round della Valutazione del Nuovo Gerarca",
+      "desc": ""
+    }
+  ]
+}

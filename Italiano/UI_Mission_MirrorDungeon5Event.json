@@ -1,0 +1,272 @@
+{
+  "dataList": [
+    {
+      "id": "mission_ui_condition_tags_201001001",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0}+ Doni E.G.O"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001002",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0}+ Doni E.G.O Bruciatura"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001003",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0}+ Doni E.G.O Sanguinamento"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001004",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0}+ Doni E.G.O Vibrazione"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001005",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0}+ Doni E.G.O Lacerazione"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001006",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0}+ Doni E.G.O Pianto"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001007",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0}+ Doni E.G.O Respiro"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001008",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0}+ Doni E.G.O Respiro"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001009",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0}+ Doni E.G.O Tagliente"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001010",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0}+ Doni E.G.O Perforante"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001011",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0}+ Doni E.G.O Contundente"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001012",
+      "content": "Completa il Dungeon Specchio al Piano {2} o superiore con {1}+ Doni E.G.O di Grado {0}"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001013",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} Dono(i) E.G.O"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001014",
+      "content": "Completa il Dungeon Specchio al Piano {2} o superiore con {1}+ Doni E.G.O Fusione di Grado {0}"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001015",
+      "content": "Sblocca {0} Doni E.G.O Bruciatura nell'Enciclopedia Doni E.G.O"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001016",
+      "content": "Sblocca {0} Doni E.G.O Sanguinamento nell'Enciclopedia Doni E.G.O"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001017",
+      "content": "Sblocca {0} Doni E.G.O Vibrazione nell'Enciclopedia Doni E.G.O"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001018",
+      "content": "Sblocca {0} Doni E.G.O Lacerazione nell'Enciclopedia Doni E.G.O"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001019",
+      "content": "Sblocca {0} Doni E.G.O Pianto nell'Enciclopedia Doni E.G.O"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001020",
+      "content": "Sblocca {0} Doni E.G.O Respiro nell'Enciclopedia Doni E.G.O"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001021",
+      "content": "Sblocca {0} Doni E.G.O Carica nell'Enciclopedia Doni E.G.O"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001022",
+      "content": "Sblocca {0} Doni E.G.O nell'Enciclopedia Doni E.G.O"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001023",
+      "content": "Sblocca {0} o più Pacchetti a Tema di Difficoltà Normale"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001024",
+      "content": "Sblocca {0} o più Pacchetti a Tema di Difficoltà Difficile"
+    },
+    {
+      "id": "mission_ui_condition_tags_201002001",
+      "content": "Completa il Dungeon Specchio al Piano {0} o superiore {1} volta(e)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201002002",
+      "content": "Completa il Dungeon Specchio al Piano {0} o superiore {1} volta(e) - ogni Piano deve essere completato in Modalità Difficile"
+    },
+    {
+      "id": "mission_ui_condition_tags_201002003",
+      "content": "Completa il Dungeon Specchio fino al Piano {0} una volta"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003001",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità del Tratto Bruciatura nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003002",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità del Tratto Sanguinamento nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003003",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità del Tratto Vibrazione nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003004",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità del Tratto Lacerazione nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003005",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità del Tratto Pianto nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003006",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità del Tratto Respiro nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003007",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità del Tratto Carica nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003008",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità dei Discendenti della Spada nella tua Squadra al momento del completamento"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003009",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità dell'Associazione Liu nella tua Squadra al momento del completamento"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003010",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità dell'Associazione Seven nella tua Squadra al momento del completamento"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003011",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità della K Corp. nella tua Squadra al momento del completamento"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003012",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità della N Corp. nella tua Squadra al momento del completamento"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003013",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità di Wuthering Heights e della Famiglia Edgar nella tua Squadra al momento del completamento"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003014",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità dell'Associazione Dieci nella tua Squadra al momento del completamento"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003015",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità della Pequod nella tua Squadra al momento del completamento"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003016",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità di La Manchaland nella tua Squadra al momento del completamento"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003017",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità del Clan Kurokumo nella tua Squadra al momento del completamento"
+    },
+    {
+      "id": "mission_ui_condition_tags_201003018",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Identità dell'Alleanza per la Liberazione Tecnologica nella tua Squadra al momento del completamento"
+    },
+    {
+      "id": "mission_ui_condition_tags_201004001",
+      "content": "In un singolo Dungeon Specchio, usa la funzione di Rifornimento del Negozio (compreso il Rifornimento dei Tratti) {0} o più volte, e completa il Dungeon Specchio al Piano {1} o superiore"
+    },
+    {
+      "id": "mission_ui_condition_tags_201004002",
+      "content": "In un singolo Dungeon Specchio, compra {0} o più Doni E.G.O nei Negozi, e completa il Dungeon Specchio al Piano {1} o superiore"
+    },
+    {
+      "id": "mission_ui_condition_tags_201004003",
+      "content": "In un singolo Dungeon Specchio, completa il Piano {1} o superiore mentre possiedi {0} o più Doni E.G.O Migliorati (non importa il grado di Miglioramento)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201004004",
+      "content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} o più Costo"
+    },
+    {
+      "id": "mission_ui_condition_tags_201004005",
+      "content": "Migliora 1 Dono E.G.O di Grado {0} o superiore allo Stadio di Miglioramento ++; poi completa il Dungeon Specchio al Piano {1} o superiore"
+    },
+    {
+      "id": "mission_ui_condition_tags_201004006",
+      "content": "Sostituisci tutte le copie dell'Abilità 1 di un'alleato con la sua Abilità 3 in un Negozio; poi completa il Dungeon Specchio al Piano {1} o superiore"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005001",
+      "content": "Infliggi {0}+ danni con l'uso di una sola Abilità contro un nemico (il danno allo Scudo PV & il danno inflitto Sul Colpo come Pianto Incessante o Tempus Moratorium contano; viene escluso il danno dai Tratti e da altre fonti)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005002",
+      "content": "Infliggi {0}+ danni con l'uso di una sola Abilità contro un nemico (il danno allo Scudo PV & il danno inflitto Sul Colpo come Pianto Incessante o Tempus Moratorium contano; viene escluso il danno dai Tratti e da altre fonti)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005003",
+      "content": "Infliggi {0}+ danni con l'uso di una sola Abilità contro un nemico (il danno allo Scudo PV & il danno inflitto Sul Colpo come Pianto Incessante o Tempus Moratorium contano; viene escluso il danno dai Tratti e da altre fonti)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005004",
+      "content": "Infliggi {0}+ danni con l'uso di una sola Abilità contro un nemico (il danno allo Scudo PV & il danno inflitto Sul Colpo come Pianto Incessante o Tempus Moratorium contano; viene escluso il danno dai Tratti e da altre fonti)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005005",
+      "content": "Aumenta la Potenza Bruciatura di un nemico a 99\n(negli Incontri Mirati, una Parte)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005006",
+      "content": "Aumenta la Potenza Sanguinamento di un nemico a 99\n(negli Incontri Mirati, una Parte)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005007",
+      "content": "Aumenta la Potenza Vibrazione di un nemico a 99\n(negli Incontri Mirati, una Parte)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005008",
+      "content": "Aumenta la Potenza Lacerazione di un nemico a 99\n(negli Incontri Mirati, una Parte)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005009",
+      "content": "Aumenta la Potenza Pianto di un nemico a 99\n(negli Incontri Mirati, una Parte)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005010",
+      "content": "Aumenta la Potenza Respiro di un alleato a 99"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005011",
+      "content": "Aumenta la Potenza Carica di un alleato a 10"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005012",
+      "content": "Uccidi 6+ nemici con un singolo attacco di un'Abilità in un Incontro (I nemici devono essere vivi all'inizio dell'attacco;si possono usare le Abilità E.G.O)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005013",
+      "content": "In un singolo Incontro, sconfiggi un nemico con 3000+ PV Max prima che il primo turno termini"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005014",
+      "content": "In un singolo turno, infliggi 10+ effetti negativi ad 1 nemico\n(negli Incontri Mirati, ad una Parte)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005015",
+      "content": "Vinci un Incontro dopo che tutti gli alleati (Riserve/Supporti inclusi) tranne uno, sono morti al Piano 6 o superiore"
+    },
+    {
+      "id": "mission_ui_condition_tags_201006001",
+      "content": "Completa tutti gli Achievement"
+    }
+  ]
+}

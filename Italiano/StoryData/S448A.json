@@ -1,0 +1,275 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Sala Proiezioni",
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Mettiamola in un altro modo."
+        },
+        {
+            "id": 1,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Lo sapevi che a N Corp si è foramta un altra Lega dei Nove?"
+        },
+        {
+            "id": 2,
+            "model": "동백에고각성중_다침",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "……"
+        },
+        {
+            "id": 3,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Sembra stiano reclutando i vecchi membri e le loro tecnologie, in maniera simile a quello che hai tentato di fare tu."
+        },
+        {
+            "id": 4,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Certo, parrebbe che stiano cercando di cancellare il passato."
+        },
+        {
+            "id": 5,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Si tratta di pure speculazioni, ma temo che siamo condannati a morire per mano del nostro carissimo Gubo ed essere imbalsamati, uno dopo l'altro."
+        },
+        {
+            "id": 6,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "L'unica cosa che ho fatto è aver leggermente anticipato quella morte fatidica."
+        },
+        {
+            "id": 7,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Inoltre... Ti sei spinta troppo in là per poter essere perdonata, persino considerando la nostra antica amicizia."
+        },
+        {
+            "id": 8,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ahh~ Ero proprio interessato alla cena del personale di domani, dico davvero."
+        },
+        {
+            "id": 9,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ma finisce qui... È ora di smettere di sbocciare, Dongbaek."
+        },
+        {
+            "id": 10,
+            "content": "With the Golden Bough in hand, Dongrang stabs Dongbaek without hesitation."
+        },
+        {
+            "id": 11,
+            "model": "이상",
+            "content": "But why…"
+        },
+        {
+            "id": 12,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "… … …"
+        },
+        {
+            "id": 13,
+            "model": "동백에고각성중_찔림",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "……"
+        },
+        {
+            "id": 14,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Potrei elencare diversi motivi, ma... in questo momento, consideratelo un atto di compassione da parte mia."
+        },
+        {
+            "id": 15,
+            "model": "동백에고각성중_찔림",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "...I knew I'd have to wilt when the time came, but..."
+        },
+        {
+            "id": 16,
+            "model": "동백에고각성중_찔림",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "I... always..."
+        },
+        {
+            "id": 17,
+            "model": "동백에고각성중_찔림",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Wished to be a bud... soon to bloom, bearing the scent within..."
+        },
+        {
+            "id": 18,
+            "model": "동백에고각성중_찔림",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Like you, Yi Sang... How you dreamed... of flying..."
+        },
+        {
+            "id": 19,
+            "model": "동백에고각성중_찔림",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Like that... I just... wanted to be buried... under a piquant scent of flowers... with you all..."
+        },
+        {
+            "id": 20,
+            "model": "K사안내방송",
+            "teller": "Avviso",
+            "title": "K Corp.",
+            "content": "Sono state aggiunte nuove riprese."
+        },
+        {
+            "id": 21,
+            "content": "Soon, the screen is filled with yellow petals."
+        },
+        {
+            "id": 22,
+            "model": "이상",
+            "content": "……"
+        },
+        {
+            "id": 23,
+            "model": "과거동백",
+            "teller": "Dongbaek",
+            "title": "Lega dei Nove Letterati",
+            "content": "Thank you, Yi Sang. For showing me such a moment."
+        },
+        {
+            "id": 24,
+            "model": "과거동백",
+            "teller": "Dongbaek",
+            "title": "Lega dei Nove Letterati",
+            "content": "I would dedicate my entire life to repay you for this favor..."
+        },
+        {
+            "id": 25,
+            "model": "과거동랑",
+            "teller": "Dongrang",
+            "title": "Lega dei Nove Letterati",
+            "content": "Ehi, Yi Sang, che ne pensi di allestire un laboratorio col sottoscritto? Ho l'impressione che ogni giorno con te sarebbe un giorno divertente."
+        },
+        {
+            "id": 26,
+            "model": "영지",
+            "teller": "Young-ji",
+            "title": "Lega dei Nove Letterati",
+            "content": "Pazzesco, Yi Sang. A differenza mia, hai cercato di riflettere la pura verità."
+        },
+        {
+            "id": 27,
+            "model": "영지",
+            "teller": "Young-ji",
+            "title": "Lega dei Nove Letterati",
+            "content": "Le immagini non si sovrappongono... Non sono mosse o sfocate."
+        },
+        {
+            "id": 28,
+            "model": "과거구보",
+            "teller": "Gubo",
+            "title": "Lega dei Nove Letterati",
+            "content": "Yi Sang, sei favvero negligente."
+        },
+        {
+            "id": 29,
+            "model": "과거구보",
+            "teller": "Gubo",
+            "title": "Lega dei Nove Letterati",
+            "content": "Perché limitarsi ad usarlo come un giocattolo quando potrebbe essere molto di più?"
+        },
+        {
+            "id": 30,
+            "model": "상이",
+            "teller": "???",
+            "title": "???",
+            "content": "Be still."
+        },
+        {
+            "id": 31,
+            "model": "상이",
+            "teller": "???",
+            "title": "???",
+            "content": "Just be still, and do nothing more than breathe."
+        },
+        {
+            "id": 32,
+            "model": "상이",
+            "teller": "???",
+            "title": "???",
+            "content": "For now, that's how you must live."
+        },
+        {
+            "id": 33,
+            "model": "상이",
+            "teller": "???",
+            "title": "???",
+            "content": "You cannot fly."
+        },
+        {
+            "id": 34,
+            "model": "과거구보",
+            "teller": "Gubo",
+            "title": "???",
+            "content": "La Lega è caduta a pezzi! Dobbiamo abbandonare questo luogo."
+        },
+        {
+            "id": 35,
+            "model": "과거구보",
+            "teller": "Gubo",
+            "title": "???",
+            "content": "Yi Sang, tu verrai con me."
+        },
+        {
+            "id": 36,
+            "model": "과거구보",
+            "teller": "Gubo",
+            "title": "???",
+            "content": "Se lo desideri, puoi sempre chiudere gli occhi. Poiché hai un cuore debole, osserverò quello che ci aspetta acnhe per conto tuo."
+        },
+        {
+            "id": 37,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "A cosa stai pensando?"
+        },
+        {
+            "id": 38,
+            "model": "이상",
+            "content": "……"
+        },
+        {
+            "id": 39,
+            "model": "이상",
+            "content": "Nothing."
+        },
+        {
+            "id": 40,
+            "content": "<color=#d4e1e8>And the scent of the grave was in full bloom.</color>"
+        }
+    ]
+}

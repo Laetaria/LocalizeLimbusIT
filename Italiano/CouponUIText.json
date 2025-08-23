@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "coupon_InputField_block",
+      "content": "Impossibile Inserire Codici Coupon"
+    },
+    {
+      "id": "coupon_InputField",
+      "content": "Inserisci i codici coupon qui"
+    },
+    {
+      "id": "coupon_popup_title",
+      "content": "Inserisci Codice Coupon"
+    },
+    {
+      "id": "coupon_popup_desc",
+      "content": "- I coupon sono sembra combinazioni di lettere maiuscole dell'alfabeto inglese e numeri.\n- Non si può registrare lo stesso coupon più volte per lo stesso account.\n- Non si può registrare un coupon che ha superato la sua data di scadenza.\n- Fallire più volte nell'inserire un codice coupon in un breve lasso di tempo potrebbe vietare l'inserimento del codice per un certo periodo di tempo."
+    },
+    {
+      "id": "coupon_use_failed_2",
+      "content": "Questo coupon non è valido."
+    },
+    {
+      "id": "coupon_use_failed_3",
+      "content": "Questo coupon non è valido."
+    },
+    {
+      "id": "coupon_use_failed_4",
+      "content": "Questo coupon è scaduto."
+    },
+    {
+      "id": "coupon_use_failed_5",
+      "content": "Questo coupon è già stato riscattato."
+    },
+    {
+      "id": "coupon_use_failed_6",
+      "content": "Questo coupon è già stato riscattato."
+    },
+    {
+      "id": "coupon_use_failed_7",
+      "content": "Fallimento ripetuto di inserire un codice coupon. Inserimento codice coupon vietato fino a {0}."
+    },
+    {
+      "id": "coupon_InputField_block_desc",
+      "content": "Inserimento del codice coupon vietato fino a {0}"
+    },
+    {
+      "id": "coupon_use_failed_unknown",
+      "content": "Si è verificato un'errore sconosciuto."
+    }
+  ]
+}

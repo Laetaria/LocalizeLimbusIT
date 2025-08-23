@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10804_1",
+      "desc": "Identità Ottenuta",
+      "dlg": "Ishmael speaking. Is there anything I can help you with?"
+    },
+    {
+      "id": "lobby_morning_10804_1",
+      "desc": "Saluto Mattutino",
+      "dlg": "Ah, I was… doing my morning routine. I need to warm up my body for what's to come."
+    },
+    {
+      "id": "lobby_noon_10804_1",
+      "desc": "Saluto Pomeridiano",
+      "dlg": "I make sure to have a balanced diet at all times. True professionals are not picky eaters."
+    },
+    {
+      "id": "lobby_night_10804_1",
+      "desc": "Saluto Serale",
+      "dlg": "Did you have an untroubled day, Manager? It looks like I can finally rest."
+    },
+    {
+      "id": "smalltalk_10804_1",
+      "desc": "Chiacchere #1",
+      "dlg": "I know better than anyone about efficient mission planning and reconnaissance."
+    },
+    {
+      "id": "smalltalk_10804_2",
+      "desc": "Chiacchere #2",
+      "dlg": "One of the key qualities a manager must possess is the ability to utilize the ace members of their team."
+    },
+    {
+      "id": "smalltalk_10804_3",
+      "desc": "Chiacchere #3",
+      "dlg": "When carrying out missions, there's nothing worse than charging in without a thought—like a certain someone. You need to anticipate every variable."
+    },
+    {
+      "id": "smalltalk_10804_4",
+      "desc": "Chiacchiere Livello Legame 1",
+      "dlg": "I know—I know I can be obsessive about preplanning at times.\nIn my defense, however, you should be well aware that even a small mistake can lead to discordance and consequently a total wipeout."
+    },
+    {
+      "id": "smalltalk_10804_5",
+      "desc": "Chiacchiere Livello Legame 2",
+      "dlg": "Occasionally… your capabilities reassure me, Manager. But at the same time, it leaves me with this empty feeling.\nThinking about my old teammates—they couldn't even be given a proper burial…"
+    },
+    {
+      "id": "gacksung_10804_1",
+      "desc": "Aumento Legame Liv. 3",
+      "dlg": "A promotion? Yes, I was aware of it. …I do suppose I owe you some thanks."
+    },
+    {
+      "id": "neglect_10804_1",
+      "desc": "Inattività",
+      "dlg": "Sigh… Have you gone off to clean up after the others again?"
+    },
+    {
+      "id": "formation_10804_1",
+      "desc": "Schieramento in Team",
+      "dlg": "Mission confirmed, now on stand-by."
+    },
+    {
+      "id": "battleentry_10804_1",
+      "desc": "Entrata nella Sezione",
+      "dlg": "Preparations are complete. Awaiting orders."
+    },
+    {
+      "id": "battle_select_10804_1",
+      "desc": "Selezione in Battaglia",
+      "dlg": "…Wilco."
+    },
+    {
+      "id": "battle_endcommand_10804_1",
+      "desc": "Inizio Attacco",
+      "dlg": "Engaging the target."
+    },
+    {
+      "id": "battle_enemy_break_10804_1",
+      "desc": "Nemico Vacillante",
+      "dlg": "Target incapacitated."
+    },
+    {
+      "id": "battle_break_10804_1",
+      "desc": "Vacilla",
+      "dlg": "Ah!"
+    },
+    {
+      "id": "battle_kill_10804_1",
+      "desc": "Nemico Ucciso",
+      "dlg": "Target neutralization confirmed."
+    },
+    {
+      "id": "battle_allydead_10804_1",
+      "desc": "Morte Alleato",
+      "dlg": "…Medic, don't we have a medical team?"
+    },
+    {
+      "id": "choice_success_p_10804_1",
+      "desc": "Prova Superata",
+      "dlg": "Ahem, reporting in that we're all clear."
+    },
+    {
+      "id": "choice_fail_n_10804_1",
+      "desc": "Prova Non Superata",
+      "dlg": "Mission status… failure."
+    },
+    {
+      "id": "battle_clear_10804_1",
+      "desc": "Vittoria",
+      "dlg": "Mission complete. Returning to base per procedure. Out."
+    },
+    {
+      "id": "battle_clear_ex_10804_1",
+      "desc": "Condizioni Extra Soddisfatte",
+      "dlg": "This could earn me a medal… Ah, disregard this transmission! Mission complete. I-Ishmael, out!"
+    },
+    {
+      "id": "battle_defeat_10804_1",
+      "desc": "Sconfitta",
+      "dlg": "My methodology was flawless. If you're looking for a reason we failed, kindly search elsewhere."
+    }
+  ]
+}

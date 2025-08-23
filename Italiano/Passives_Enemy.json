@@ -1,0 +1,244 @@
+{
+  "dataList": [
+    {
+      "id": 90001,
+      "name": "Verminous Body",
+      "desc": "A fine turno, si cura di 5 PV."
+    },
+    {
+      "id": 90002,
+      "name": "Nutritive Reinforcements",
+      "desc": "Dopo aver sconfitto un nemico, si cura di 20 PV, e ottiene 5 [Endurance] il turno successivo."
+    },
+    {
+      "id": 90003,
+      "name": "Sharp Edge",
+      "desc": "Sul colpo, infligge 1-2 [Laceration].\nSe un'unità è [target], l'attacca per prima."
+    },
+    {
+      "id": 90004,
+      "name": "Weak Morale",
+      "desc": "Pgni volta che un'alleato muore, ottiene permanentemente 1 [Vulnerable]."
+    },
+    {
+      "id": 90005,
+      "name": "Retribution",
+      "desc": "Quando i PV scendono sotto il 50%, ottiene 5 [Enhancement] il turno successivo."
+    },
+    {
+      "id": 90006,
+      "name": "Mind Wave",
+      "desc": "Sul colpo, il bersaglio perde 10 PS."
+    },
+    {
+      "id": 9000101,
+      "name": "Injured Augmentation",
+      "desc": "All'inizio del turno, she ha meno del 50% di PV, si cura di 1 PV."
+    },
+    {
+      "id": 9000102,
+      "name": "Augmented Body",
+      "desc": "All'inizio del turno, she ha meno del 50% di PV, si cura di 2 PV."
+    },
+    {
+      "id": 9000103,
+      "name": "Corroded Augmentation",
+      "desc": "All'inizio del turno, she ha meno del 50% di PV, si cura di 4 PV."
+    },
+    {
+      "id": 9100301,
+      "name": "Big Boss",
+      "desc": "Quando questa unità viene sconfitta, tutti i suoi alleati perdono 45 PS."
+    },
+    {
+      "id": 9100302,
+      "name": "Not Me Boys!",
+      "desc": "Questa unità perde 15 PS ogni volta che un'alleato viene sconfitto."
+    },
+    {
+      "id": 9100401,
+      "name": "Hora de Fiesta",
+      "desc": "All'inizio del turno, tutti gli alleati si curano di 10 PS.\nA 20+ PS, ottiene 1 [Enhancement] e 1 [Endurance] a inizio turno."
+    },
+    {
+      "id": 9100402,
+      "name": "Se Acabó la Fiesta",
+      "desc": "Quando questa unità viene sconfitta, tutti i suoi alleati perdono 45 PS."
+    },
+    {
+      "id": 9002801,
+      "name": "PV Bullets",
+      "desc": "All'inizio del turno, si cura di 15 PV.\nQuando è sotto il 50% di PV, si cura di altri 15 PV."
+    },
+    {
+      "id": 9003201,
+      "name": "Noble be Thy Sacrifice",
+      "desc": "Quando un'alleato viene sconfitto, ottiene 1 [Enhancement] il turno successivo."
+    },
+    {
+      "id": 9003801,
+      "name": "Joy of Execution",
+      "desc": "Dopo aver sconfitto un nemico, ottiene 2 [AttackDmgUp] il turno successivo."
+    },
+    {
+      "id": 9100501,
+      "name": "Hammer of the One Who Grips",
+      "desc": "All'inizio del turno, tutti gli alleati si curano di 10 PS.\nQuando questa unità viene sconfitta, tutti i suoi alleati perdono 45 PS."
+    },
+    {
+      "id": 9100601,
+      "name": "Persistence",
+      "desc": "Quando i PV scendono sotto il 50%, rimuove tutti gli effetti di stato negativi il turno successivo, e ottiene 4 [Assemble], 1 [Enhancement], e 1 [Endurance] ogni turno."
+    },
+    {
+      "id": 9100502,
+      "name": "Thou Shalt Hammer",
+      "desc": "Se questa unità ha [Assemble], infligge +50% danni."
+    },
+    {
+      "id": 9004601,
+      "name": "Mechanical Mentality",
+      "desc": "La Sanità è fissata a 0."
+    },
+    {
+      "id": 9004602,
+      "name": "Solid Exterior",
+      "desc": "Subisce la metà dei danni da <sprite name=\"Laceration\"><color=#f8c200><u><link=\"Laceration\">[Laceration]</color></link></u> e <sprite name=\"Combustion\"><color=#f8c200><u><link=\"Combustion\">[Combustion]</color></link></u>."
+    },
+    {
+      "id": 9004603,
+      "name": "Caution: Unsteady",
+      "desc": "La Soglia di Vacillamento di questa unità aumenta del 50% in più ogni volta che subisce [VibrationExplosion]"
+    },
+    {
+      "id": 9004604,
+      "name": "Caution: Delicate",
+      "desc": "Subisce +30% danni da <sprite name=\"Burst\"><color=#f8c200><u><link=\"Burst\">[Burst]</color></link></u> (Arrotondato in difetto)"
+    },
+    {
+      "id": 9004901,
+      "name": "Damageable Disuniter",
+      "desc": "Dopo aver Vacillato, infligge 1 Conteggio [Burst] e [Burst] in meno"
+    },
+    {
+      "id": 9005001,
+      "name": "Damageable Thumper",
+      "desc": "Dopo aver Vacillato, infligge 1 Conteggio [Vibration] e [Vibration] in meno"
+    },
+    {
+      "id": 9100701,
+      "name": "Overheating Attack Function",
+      "desc": "Quando fa Vacillare un'unità con un'attacco, ottiene 3 [AttackDmgUp] il turno successivo."
+    },
+    {
+      "id": 9100702,
+      "name": "Breakable Disuniter",
+      "desc": "Dopo aver Vacillato, infligge 3 Conteggio [Burst] e [Burst] in meno"
+    },
+    {
+      "id": 9100703,
+      "name": "Breakable Thumper",
+      "desc": "Dopo aver Vacillato, infligge 3 Conteggio [Vibration] e [Vibration] in meno"
+    },
+    {
+      "id": 9100801,
+      "name": "Spanner Up",
+      "desc": "Ottiene [Resonate] pari al numero di Monete che hanno tirato Testa e colpito durante il turno. (Max 10)"
+    },
+    {
+      "id": 9100802,
+      "name": "Rosespanner Workshop Rep",
+      "desc": "Infligge più [Vibration] pari al numero di alleati morti durante questa ondata"
+    },
+    {
+      "id": 9100803,
+      "name": "Guess I'm the Last",
+      "desc": "Quando è solo, ottiene 1 [Resonate] e 1 [VibrationAssimilation] ogni turno."
+    },
+    {
+      "id": 9100804,
+      "name": "I've Got No Choice",
+      "desc": "Quando è solo, il turno successivo marchia come bersaglio l'ultima unità che l'ha attaccato."
+    },
+    {
+      "id": 9100901,
+      "name": "Entangling Curse Talisman",
+      "desc": "Ottiene [WrappedCurseTag] pari al Numero di Scontri affrontati dall'unità durante un turno."
+    },
+    {
+      "id": 9100902,
+      "name": "Strangling Curse Talisman",
+      "desc": "A 10 [WrappedCurseTag], alza la Soglia di Vacillamento di 10, poi rimuove lo stato."
+    },
+    {
+      "id": 9100903,
+      "name": "Multiplying Curse Talisman",
+      "desc": "A 30% o meno PV, infligge +1 [ReattachedCurseTag]"
+    },
+    {
+      "id": 9100904,
+      "name": "Encroaching Curse Talisman",
+      "desc": "A 30% o meno PV, se il bersaglio ha 5+ [ReattachedCurseTag] una volta finito un'attacco, infligge 2 [Paralysis] il turno successivo."
+    },
+    {
+      "id": 9006201,
+      "name": "Floods of Sorrow",
+      "desc": "Le Monete che lanciano Croce infliggono 2 [Sinking]"
+    },
+    {
+      "id": 9006202,
+      "name": "Overflowing Sorrow",
+      "desc": "Alla fine del turno, perde 5 PS"
+    },
+    {
+      "id": 9006101,
+      "name": "Intoxication",
+      "desc": "A 5 [Exalted], ottiene 5 [Tipsiness]."
+    },
+    {
+      "id": 9006102,
+      "name": "Hangover Cure",
+      "desc": "A 5 [Tipsiness], usa un'abilità difensiva."
+    },
+    {
+      "id": 9006801,
+      "name": "Healing Ampule Injection",
+      "desc": "All'inizio del turno, si cura di 20 PV."
+    },
+    {
+      "id": 9006802,
+      "name": "Emergency Ampule Administration",
+      "desc": "Quando è sotto il 25% di PV, si cura fino al 40% dei PV Max (Solo una volta)"
+    },
+    {
+      "id": 9007001,
+      "name": "Tempo D'Oro",
+      "desc": "Alla fine del turno, se i PV sono tra il 12% e 24%, si cura immediatamente fino al 65% dei PV Max, e si riprende dal Vacillamento. (Solo una volta)"
+    },
+    {
+      "id": 9007002,
+      "name": "Contraccolpo Dell'Inversione Del Tempo",
+      "desc": "Dopo aver attivato Tempo D'Oro, ottiene 3 [Vulnerable] a fine turno."
+    },
+    {
+      "id": 9005401,
+      "name": "Terror Device",
+      "desc": "Quando un'alleato attacca un'altro alleato, infligge 3 danni ai PS"
+    },
+    {
+      "id": 9006901,
+      "name": "Healing Ampule Injection",
+      "desc": "All'inizio del turno, si cura di 20 PV."
+    },
+    {
+      "id": 9006902,
+      "name": "Emergency Ampule Administration",
+      "desc": "Quando è sotto il 25% di PV, si cura fino al 40% dei PV Max (Solo una volta)"
+    },
+    {
+      "id": 9006803,
+      "name": "Emergency Ampule Overdose",
+      "desc": "I PV non scendono sotto a 1;\nSe a 60- PV all'inizio del turno, và in uno stato potenziato."
+    }
+  ]
+}

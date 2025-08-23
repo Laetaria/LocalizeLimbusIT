@@ -1,0 +1,272 @@
+{
+  "dataList": [
+    {
+      "id": "mainui_settings_game",
+      "content": "Generali"
+    },
+    {
+      "id": "mainui_settings_graphic",
+      "content": "Grafica"
+    },
+    {
+      "id": "mainui_settings_sound",
+      "content": "Audio"
+    },
+    {
+      "id": "mainui_settings_notice",
+      "content": "Notifiche"
+    },
+    {
+      "id": "mainui_settings_etc",
+      "content": "Varie"
+    },
+    {
+      "id": "mainui_settings_download",
+      "content": "Download"
+    },
+    {
+      "id": "mainui_settings_download_complete",
+      "content": "Download Completato"
+    },
+    {
+      "id": "mainui_settings_video_resource",
+      "content": "Risorse Video"
+    },
+    {
+      "id": "mainui_settings_audio_resource",
+      "content": "Risorse Audio"
+    },
+    {
+      "id": "mainui_settings_animation_resource",
+      "content": "Risorse Animazione"
+    },
+    {
+      "id": "mainui_settings_ego_presentation",
+      "content": "Risorse E.G.O"
+    },
+    {
+      "id": "mainui_settings_on",
+      "content": "On"
+    },
+    {
+      "id": "mainui_settings_off",
+      "content": "Off"
+    },
+    {
+      "id": "mainui_settings_play_once_per_day",
+      "content": "Una Volta al Giorno"
+    },
+    {
+      "id": "mainui_settings_resolution",
+      "content": "Risoluzione"
+    },
+    {
+      "id": "mainui_settings_resolution_windowded",
+      "content": "Finestra"
+    },
+    {
+      "id": "mainui_settings_resolution_fullscreen",
+      "content": "Schermo Intero"
+    },
+    {
+      "id": "mainui_settings_texquality",
+      "content": "Qualità Texture"
+    },
+    {
+      "id": "mainui_settings_resolution_warning",
+      "content": "Una risoluzione più alta può surriscaldare il dispositivo ed usare più batteria."
+    },
+    {
+      "id": "mainui_settings_fps_warning",
+      "content": "Un framerate più alto può surriscaldare il dispositivo ed usare più batteria."
+    },
+    {
+      "id": "mainui_settings_low",
+      "content": "Bassa"
+    },
+    {
+      "id": "mainui_settings_middle",
+      "content": "Media"
+    },
+    {
+      "id": "mainui_settings_high",
+      "content": "Alta"
+    },
+    {
+      "id": "mainui_settings_postprocessing",
+      "content": "Post-processing"
+    },
+    {
+      "id": "mainui_settings_ppon",
+      "content": "On"
+    },
+    {
+      "id": "mainui_settings_ppoff",
+      "content": "Off"
+    },
+    {
+      "id": "mainui_settings_ppdesc",
+      "content": "Controls camera effects in battle. Affects game performance."
+    },
+    {
+      "id": "mainui_settings_antialiasing",
+      "content": "Anti-aliasing"
+    },
+    {
+      "id": "mainui_settings_clear",
+      "content": "Ripristina"
+    },
+    {
+      "id": "mainui_settings_clear_ask",
+      "content": "Ripristinare le opzioni di default?"
+    },
+    {
+      "id": "mainui_settings_render_acceleration",
+      "content": "Rendering Accelerato"
+    },
+    {
+      "id": "mainui_settings_sound_master",
+      "content": "Volume Principale"
+    },
+    {
+      "id": "mainui_settings_sound_sfx",
+      "content": "Effetti Sonori"
+    },
+    {
+      "id": "mainui_settings_sound_voice",
+      "content": "Voci"
+    },
+    {
+      "id": "mainui_settings_sound_battle_announcer",
+      "content": "Annunciatore"
+    },
+    {
+      "id": "mainui_settings_notice_enkephalin_full",
+      "content": "Ripristino Encefalina"
+    },
+    {
+      "id": "mainui_settings_notice_ads",
+      "content": "Notifiche Promozionali"
+    },
+    {
+      "id": "mainui_settings_notice_ads_night",
+      "content": "Notifiche Promozionali (Notte)"
+    },
+    {
+      "id": "mainui_settings_change_launguage",
+      "content": "Lingua"
+    },
+    {
+      "id": "mainui_settings_change_launguage_ask",
+      "content": "Si applica dopo aver riavviato il gioco. (SOLO LINGUE UFFICIALI: KR, EN, JP. Influenza la lingua in cui vengono mostrati gli asset di gioco.)"
+    },
+    {
+      "id": "mainui_settings_faq_btn",
+      "content": "Servizio Clienti"
+    },
+    {
+      "id": "connect_to_google_account",
+      "content": "Collega con Google"
+    },
+    {
+      "id": "connect_to_apple_account",
+      "content": "Collega con Apple"
+    },
+    {
+      "id": "explain_sucession",
+      "content": "If you close the account, all gameplay and purchase data will be deleted."
+    },
+    {
+      "id": "explain_sucession_remain_days",
+      "content": "You will be given a 7-day grace period. You can restore the account if you sign in before the end of the period."
+    },
+    {
+      "id": "explain_writing_code_for_sucession",
+      "content": "※ If you agree to the terms above,\nplease enter the letters you see in the box."
+    },
+    {
+      "id": "explain_secession_status",
+      "content": "The account is currently under a closure period.\nTime Remaining: {0}D {1}H {2}M\nYou can recover the account if you sign in now.\nRecover the account?"
+    },
+    {
+      "id": "recover",
+      "content": "Recover"
+    },
+    {
+      "id": "request_sucession",
+      "content": "Request Closure"
+    },
+    {
+      "id": "request_sucession_success",
+      "content": "Closure successfully requested."
+    },
+    {
+      "id": "mainui_settings_account",
+      "content": "Account"
+    },
+    {
+      "id": "account_secede",
+      "content": "Chiudi Account"
+    },
+    {
+      "id": "connected_accounts",
+      "content": "Account Collegati"
+    },
+    {
+      "id": "mainui_settings_bloom",
+      "content": "Bloom"
+    },
+    {
+      "id": "mainui_settings_blur",
+      "content": "Blur"
+    },
+    {
+      "id": "mainui_settings_bloomdesc",
+      "content": "Controls spread of light effects. Affects game performance."
+    },
+    {
+      "id": "mainui_settings_blurdesc",
+      "content": "Controls blur effects. Affects game performance."
+    },
+    {
+      "id": "mainui_settings_fps_common",
+      "content": "FPS Menù"
+    },
+    {
+      "id": "mainui_settings_fps_battle",
+      "content": "FPS in Combattimento"
+    },
+    {
+      "id": "mainui_settings_renderingscale",
+      "content": "Render Scaling"
+    },
+    {
+      "id": "mainui_settings_renderingscale_warning",
+      "content": "We recommend that you set it to 「High」 on PC. On mobile, 「Medium」 or lower is recommended.\nHigher rendering scale value may lead to increased power drainage and heat."
+    },
+    {
+      "id": "mainui_settings_colorfilter",
+      "content": "(더미)색상필터"
+    },
+    {
+      "id": "mainui_settings_deuteranomaly_green-weak",
+      "content": "(더미)녹색약"
+    },
+    {
+      "id": "mainui_settings_protanomaly_red-weak",
+      "content": "(더미)적색약"
+    },
+    {
+      "id": "mainui_settings_tritanomaly_blue-weak",
+      "content": "(더미)청색약"
+    },
+    {
+      "id": "mainui_settings_colorfilter_power",
+      "content": "(더미)색상필터 강도"
+    },
+    {
+      "id": "mainui_settings_colorfilter_test",
+      "content": "(더미)적용 확인 이미지"
+    }
+  ]
+}

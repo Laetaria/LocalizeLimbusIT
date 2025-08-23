@@ -1,0 +1,868 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ufficio Riscossione Tempo Locale",
+      "model": "단테",
+      "content": "<Okay... Ho capito che mi state accusando di aver, di nuovo, lasciato i Peccatori liberi di fare come vogliono, ma avevamo le nostre ragioni—>"
+    },
+    {
+      "id": 1,
+      "model": "베르길리우스",
+      "content": "... Abbiamo trovato un'accordo."
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "E? Gli avete spiegato la situazione, vero? Vi prego, ditemi che l'accordo non include farci pendere tutti e dodici da quella stupida forca."
+    },
+    {
+      "id": 3,
+      "model": "베르길리우스",
+      "content": "Dieci bilioni di Ahn... Una cifra assurda, ma questo non cambia che dobbiamo pagare. Abbiamo beneficiato del tempo in più che ci è stato dato, e il suo uso non era stato stabilito in precedenza da entrambe le parti, prima che lo attivassimo senza il loro aiuto."
+    },
+    {
+      "id": 4,
+      "model": "파우스트",
+      "content": "Ed essendo stato un'evento inaspettato, non potevano preparare contromisure."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Capisco, ma non avevamo esattamente il tempo per discutere se avessi il permesso o meno di rallentare il tempo.>"
+    },
+    {
+      "id": 6,
+      "content": "C'era da prendere una decisione in fretta in quel momento. Mi dà un po fastidio come mi trattino come se questa situazione sia colpa mia."
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "Se pensate di sacrificare uno di noi per saldare il debito, vi chiedo di valutare la nostra utilità in base ai nostri meriti."
+    },
+    {
+      "id": 8,
+      "model": "오티스",
+      "content": "Ho preparato delle schede di valutazione delle prestazioni per ogni Peccatore proprio per una simile evenienza. Sull'ultima pagina di queste valutazioni sono incluse altre opinioni, che—"
+    },
+    {
+      "id": 9,
+      "model": "베르길리우스",
+      "content": "... Non ho in mente di abbandonare chiunque di voi a prendersi tutta la colpa del gruppo. E comunque, dieci milioni di Ahn non è una cifra che si può saldare sacrificando una persona."
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 11,
+      "model": "베르길리우스",
+      "content": "Ma alla fine abbiamo trovato un compromesso ragionevole mentre perdevate tempo bighellonando intorno al patibolo."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<E quel compromesso sarebbe...?>"
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "Ci hanno contattati per gestire una Distorsione."
+    },
+    {
+      "id": 14,
+      "model": "그레고르",
+      "content": "Huh... Direi che si stia spargendo la voce se ci hanno richiesti per gestire questa Distorsione."
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "Prima hanno contattato altri Fixer e compagnie per risolvere il problema. Siamo la loro sesta scelta dopo che le prime cinque non sono riuscite a ottenere dei risultati soddisfacenti."
+    },
+    {
+      "id": 16,
+      "model": "그레고르",
+      "content": "Ahm, hm... capito..."
+    },
+    {
+      "id": 17,
+      "model": "베르길리우스",
+      "content": "Certo, le voci si stanno spargendo su alcune storie. Non posso negarlo."
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<Quindi di che tipo di Distorsione ci occuperemo stavolta?>"
+    },
+    {
+      "id": 19,
+      "model": "파우스트",
+      "content": "Questa richiesta riguarda una serie di casi simili e irrisolti nei confini di T Corp. Alcuni lo chiamano..."
+    },
+    {
+      "id": 20,
+      "model": "파우스트",
+      "content": "... 'Il Caso del Tempo Ammazzatempo'. Più persone sono già cadute vittima del responsabile."
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Il Caso del Tempo Ammazzatempo...>"
+    },
+    {
+      "id": 22,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "È esattamente quello che dice il nome."
+    },
+    {
+      "id": 23,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "Una Distorsione se ne va in giro, uccidendo il nostro tempo."
+    },
+    {
+      "id": 24,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "Il 'Tempo' è una risorsa qui alla T Corp. Non è difficile per noi risolvere i rari furti di tempo rintracciandolo, ma nel Caso del Tempo Ammazzatempo, l'assassino non lascia nessuna traccia. È veramente sparito, completamente rimosso, e impossibile da rintracciare. Qui non è mai accaduto qualcosa di simile; da cui l'importanza di questo caso è troppo enorme da descrivere."
+    },
+    {
+      "id": 25,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "Per questo vi chiediamo ufficialmente di risolvere questo caso al nostro posto. In cambio, vi esoneremo dal vostro debito di Tasse Temporali."
+    },
+    {
+      "id": 26,
+      "model": "돈키호테",
+      "content": "Oooh... così giunge ancora la mia occasione per distinguermi."
+    },
+    {
+      "id": 27,
+      "model": "돈키호테",
+      "content": "Secondo un libro che avevo letto negli scorsi giorni, a tutti i detective che indagano su un caso di grado Incubo Urbano o superiore viene conferito un 'Distintivo da Detective Speciale' per la durata dell'ingaggio! Tale distintivo si potrebbe paragonare ad un permesso universale a richiedere ogni tipo di assistenza inerente all'investi—"
+    },
+    {
+      "id": 28,
+      "model": "로쟈",
+      "content": "Detective?"
+    },
+    {
+      "id": 29,
+      "model": "돈키호테",
+      "content": "FIXER!!"
+    },
+    {
+      "id": 30,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "... Già, vi daremo i distintivi."
+    },
+    {
+      "id": 31,
+      "model": "돈키호테",
+      "content": "EVVIVAAAA! Quanto ho agognato di inserire un tale distintivo nella mia collezione! Potreste gentilmente permetterci di tenere i distintivi una volta che il caso si è concluso? Anzi, richiedo che mi siano lasciati almeno tre distintivi; una per la mia collezione privata, una da mettere in mostra, e una per l'utilizzo, così da"
+    },
+    {
+      "id": 32,
+      "model": "히스클리프2",
+      "content": "Zitta, ragazza! Allora, che stiamo aspettando? Partiamo, stendiamo questa Distorsione, e ce ne andiamo da qui. Odio risolvere problemi di soldi."
+    },
+    {
+      "id": 33,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "……."
+    },
+    {
+      "id": 34,
+      "model": "베르길리우스",
+      "content": "Apprezzo l'entusiasmo. Ma apprezzerei ancora di più se lasciaste finire gli altri prima di interrompere e partire con chiacchere infinite."
+    },
+    {
+      "id": 35,
+      "model": "베르길리우스",
+      "content": "Il problema è... che non vogliono che tutti e tredici di voi corrano ovunque cercando di risolvere il caso."
+    },
+    {
+      "id": 36,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "Esattamente. Non posso lasciare che l'intero gruppo corra liberamente per le strade e faccia perdere il loro prezioso tempo ai nostri cittadini."
+    },
+    {
+      "id": 37,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "Inoltre, il 'Distintivo da Detective Speciale' non è qualcosa che T Corp. darebbe a chiunque. Non possiamo affidare un'intera scatola di distintivi a tutti e tredici di voi."
+    },
+    {
+      "id": 38,
+      "model": "오티스",
+      "content": "Mm, sono d'accordo. In parte."
+    },
+    {
+      "id": 39,
+      "content": "Outis, che aveva sempre costantemente suggerito di ridurre il numero di Peccatori, è stata la prima ad accogliere la proposta."
+    },
+    {
+      "id": 40,
+      "model": "오티스",
+      "content": "Lo avremmo dovuto fare da molto tempo. Che senso ha trascinarsi dietro certe palle al piede?"
+    },
+    {
+      "id": 41,
+      "model": "오티스",
+      "content": "Lasceremo le inutili pedine ad aspettare sull'autobus mentre una squadra scelta di individui dalle migliori prestazioni finiscono il lavoro."
+    },
+    {
+      "id": 42,
+      "model": "베르길리우스",
+      "content": "Mi sembri molto sicura di poter essere parte di questa 'squadra scelta', Outis."
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "Sarebbe ridicolo dire altrimenti—"
+    },
+    {
+      "id": 44,
+      "model": "이스마엘",
+      "content": "Insomma, basta con queste stupidaggini. Allora... quanti di noi possono lavorare al caso?"
+    },
+    {
+      "id": 45,
+      "model": "베르길리우스",
+      "content": "Hm..."
+    },
+    {
+      "id": 46,
+      "content": "Vergilius si era fermato, chiaramente insoddisfatto della decisione."
+    },
+    {
+      "id": 47,
+      "model": "베르길리우스",
+      "content": "Hanno deciso che tre... no, quattro persone, includendo il Manager, è il giusto numero di persone permesse di partecipare a quest'indagine."
+    },
+    {
+      "id": 48,
+      "model": "이스마엘",
+      "content": "Non è tanto..."
+    },
+    {
+      "id": 49,
+      "model": "베르길리우스",
+      "content": "Lo dovrai accettare. Siamo a malapena riusciti ad ottenere l'autorizzazione per quattro dopo molta discussione."
+    },
+    {
+      "id": 50,
+      "model": "오티스",
+      "content": "Hmph. Allora avete sprecato il vostro fiato. Una coppia coordinata come me e il Manager sarà più che sufficente a completare agevolmente la missione."
+    },
+    {
+      "id": 51,
+      "model": "단테",
+      "content": "<Ecco... così spetta a me scegliere, huh. Tre Peccatori...>"
+    },
+    {
+      "id": 52,
+      "content": "Tanti, tanti occhi si fissano su di me. Non che sia la prima volta che mi guardino tutti insieme, ma... la pressione è tutta di un'altro genere quando si devono fare certe scelte."
+    },
+    {
+      "id": 53,
+      "model": "베르길리우스",
+      "content": "Sembra che il manager ci stia pensando seriamente. ... Ma preoccuparsi inutilmente così è una perdita di tempo."
+    },
+    {
+      "id": 54,
+      "model": "베르길리우스",
+      "content": "Prima vorrei vedere i volontari, quindi su le mani. Veloci."
+    },
+    {
+      "id": 55,
+      "model": "돈키호테",
+      "content": "INDUBBIAMENTE, NON ESITERÒ DINANZI A COTANTA MAGNIFICA OPPORTUNITÀ!"
+    },
+    {
+      "id": 56,
+      "model": "로쟈",
+      "content": "Hm, forse è finalmente il mio momento?"
+    },
+    {
+      "id": 57,
+      "model": "히스클리프2",
+      "content": "Oi, non serve chiedere, no? Andiamo e basta!"
+    },
+    {
+      "id": 58,
+      "model": "뫼르소",
+      "content": "Mm..."
+    },
+    {
+      "id": 59,
+      "model": "그레고르",
+      "content": "Oh, nah. Non stavo... non ho alzato la mano. Stavo pulendo i miei occhiali."
+    },
+    {
+      "id": 60,
+      "content": "Non è un compito semplice. Non ho mai lavorato con così pochi Peccatori—tranne quella volta che siamo finiti per sbaglio nella Periferia passando dalla Porta sul Retro—quindi dovrò pensarci con calma ed esaminarla sotto ogni aspetto."
+    },
+    {
+      "id": 61,
+      "model": "베르길리우스",
+      "content": "Che rottura... haah."
+    },
+    {
+      "id": 62,
+      "model": "베르길리우스",
+      "content": "Ci metteremmo troppo a discutere su ogni arbitraria limitazione che ci è stata imposta, quindi lascia che scelga per te stavolta, Dante."
+    },
+    {
+      "id": 63,
+      "content": "Beh, non penso che tra loro ci sia una grande differenza di capacità. Ma sono tutti ottimi nel gestire situazioni diverse."
+    },
+    {
+      "id": 64,
+      "model": "베르길리우스",
+      "content": "Dante? Mi stai ascoltando? Ho appena detto che sceglierò io i tuoi compagni."
+    },
+    {
+      "id": 65,
+      "content": "No, non devo pensare solo alle loro capacità individuali. Alcuni lavorano meglio in coppia, ma è anche vero che raggrupparli senza pensare può creare una squadra che funziona peggio dei singoli membri. Sta tutto nel creare una squadra coordinata. Aspetta, Rodya non aveva detto qualcosa sul fatto che chi nasce a Dicembre e chi ad Agosto non va d'accordo? E, e..."
+    },
+    {
+      "id": 66,
+      "model": "베르길리우스",
+      "content": "I Peccatori che accompagneranno Dante per risolvere il caso sono..."
+    },
+    {
+      "id": 67,
+      "content": "Devo scegliere qualcuno che  mi può sostenere, analizzare la situazione a mente calma, e dare giudizi imparziali prendendo decisioni intelligenti e razionali sul momento. I Peccatori che corrispondono alla descrizione sono..."
+    },
+    {
+      "id": 68,
+      "content": "Sono..."
+    },
+    {
+      "id": 69,
+      "content": "... Ma lo avremo qualcuno così?"
+    },
+    {
+      "id": 70,
+      "content": "Devo comunque scegliere <i>qualcuno</i>, però..."
+    },
+    {
+      "id": 71,
+      "content": "Agh, aaaagggh..."
+    },
+    {
+      "id": 72,
+      "model": "단테",
+      "content": "<Accidenti, ho deciso! Scelgo Faust, Meursault, e Yi Sang!>"
+    },
+    {
+      "id": 73,
+      "model": "베르길리우스",
+      "content": "... Rodion, Ryōshū, e Hong Lu."
+    },
+    {
+      "id": 74,
+      "model": "단테",
+      "content": "<…?>"
+    },
+    {
+      "id": 75,
+      "content": "Huh? Un'attimo. Huh?"
+    },
+    {
+      "id": 76,
+      "model": "파우스트",
+      "content": "Dante ha scelto me, Meursault, e Yi Sang."
+    },
+    {
+      "id": 77,
+      "model": "베르길리우스",
+      "content": "Non mi stavi ascoltando, Dante?"
+    },
+    {
+      "id": 78,
+      "model": "베르길리우스",
+      "content": "Devo discutere alcune cose con la signorina Faust riguardo al resto del viaggio, quindi non è un'opzione. Yi Sang è stato immediatamente escluso prima ancora di sospendere la riunione a causa dei suoi precedenti di sviluppo di invenzioni non autorizzate in T Corp."
+    },
+    {
+      "id": 79,
+      "model": "베르길리우스",
+      "content": "Meursault non si è offerto."
+    },
+    {
+      "id": 80,
+      "model": "뫼르소",
+      "content": "Non c'era motivo di farmi volontario."
+    },
+    {
+      "id": 81,
+      "model": "이상",
+      "content": "Anche se mi è stato vietato di partecipare a questa indagine, sono incredibilmente grato del tuo riguardo, Dante. Non lo dimenticherò facilmente."
+    },
+    {
+      "id": 82,
+      "model": "단테",
+      "content": "<E-ecco. Molto, uh...>"
+    },
+    {
+      "id": 83,
+      "model": "오티스",
+      "content": "……."
+    },
+    {
+      "id": 84,
+      "model": "단테",
+      "content": "<E-ehi, Outis... lo sai che non era mia intenzione. Ho solo pensato che forse ci serviva qualcuno abile e esperto come te per gestire i Peccatori rimanenti mentre siamo—>"
+    },
+    {
+      "id": 85,
+      "model": "오티스",
+      "content": "Uh, um. Okay."
+    },
+    {
+      "id": 86,
+      "content": "Ho proprio rovinato l'atmosfera, mi sa."
+    },
+    {
+      "id": 87,
+      "content": "Quei tre, che non avrei mai e poi mai immaginato potessero stare insieme, si sono girati verso di me."
+    },
+    {
+      "id": 88,
+      "model": "로쟈",
+      "content": "Woah, solo noi tre, eh? Un trio è proprio bel numero, vero~?"
+    },
+    {
+      "id": 89,
+      "model": "단테",
+      "content": "<Capisco Rodya, ma... perché vi siete offerti, voi due...?>"
+    },
+    {
+      "id": 90,
+      "model": "료슈",
+      "content": "Pensavo suonasse D.D.M."
+    },
+    {
+      "id": 91,
+      "model": "홍루",
+      "content": "Più grande è la quantità e varietà di esperienza, meglio è."
+    },
+    {
+      "id": 92,
+      "model": "돈키호테",
+      "content": "Haa!"
+    },
+    {
+      "id": 93,
+      "content": "Don Quixote abbassa la testa, distrutta."
+    },
+    {
+      "id": 94,
+      "model": "돈키호테",
+      "content": "Non posso incolpare altro che la mia leggermente ridotta copertura verticale... Indubbiamente, dev'essere per questo che Ser Vergilius ha mancato di accogliere la mia ardente richiesta..."
+    },
+    {
+      "id": 95,
+      "content": "Don Quixote piangeva, lamentandosi drammaticamente di come Vergilius non si fosse nemmeno voltato in sua direzione nonostante fosse stata la prima ad alzare la mano."
+    },
+    {
+      "id": 96,
+      "content": "Ma so quasi per certo che non fosse l'unico motivo per cui non l'aveva scelta..."
+    },
+    {
+      "id": 97,
+      "model": "돈키호테",
+      "content": "Oop... Darò a voi il mio ultimo lascito..."
+    },
+    {
+      "id": 98,
+      "model": "로쟈",
+      "content": "Che sarebbe? Un libro, una lente d'ingrandimento, e... questi sono vestiti?"
+    },
+    {
+      "id": 99,
+      "model": "돈키호테",
+      "content": "È il mio tesoro, la mia colección... Vi prego, trattateli delicatamente..."
+    },
+    {
+      "id": 100,
+      "model": "홍루",
+      "content": "Ooh~ Ma perché hai tre paia di vestiti?"
+    },
+    {
+      "id": 101,
+      "model": "돈키호테",
+      "content": "Uno per la mia collezione privata, uno da mettere in mostra, e uno per l'utilizzo, precisamente. Non vi sembra ovvio...?"
+    },
+    {
+      "id": 102,
+      "model": "로쟈",
+      "content": "'Resoconti d'Indagine: Le Soluzioni dei Tredici Problemi' di Agatha... Huh, c'è un'autografo."
+    },
+    {
+      "id": 103,
+      "model": "로쟈",
+      "content": "Chi sarebbe questa Agatha?"
+    },
+    {
+      "id": 104,
+      "model": "돈키호테",
+      "content": "Incredibile! Come potete essere voi tutti così ignoranti della storia dei Fixer? Un tempo, è stata una Fixer di Grado 1 così prolifica da potersi definire il volto dell'Associazione Seven... Alcuno?"
+    },
+    {
+      "id": 105,
+      "model": "그레고르",
+      "content": "La maggior parte della gente non conosce queste... storie, Don Quixote..."
+    },
+    {
+      "id": 106,
+      "model": "료슈",
+      "content": "Vestiti ingombranti."
+    },
+    {
+      "id": 107,
+      "model": "돈키호테",
+      "content": "Come potreste mai definirvi investigatori sopraffini senza vestirvi per l'occasione?!!! Udite, Udite! È più che giusto che la capo grande investigatrice adorni la sua persona con questi baffi speciali!"
+    },
+    {
+      "id": 108,
+      "model": "홍루",
+      "content": "Guarda, Lady Agatha nella prefazione di questo libro dice che ogni vera detective geniale deve sempre vestirsi in modo impeccabile."
+    },
+    {
+      "id": 109,
+      "model": "그레고르",
+      "content": "Don Quixote, senti... lascia perdere..."
+    },
+    {
+      "id": 110,
+      "model": "그레고르",
+      "content": "Allora... Insomma, sono sicuro che ognuno abbia le sue ragioni, ma com'è che non ti hanno scelta, Ishmael?"
+    },
+    {
+      "id": 111,
+      "model": "이스마엘",
+      "content": "Non mi hanno scelta? Non mi sono mai offerta."
+    },
+    {
+      "id": 112,
+      "model": "이스마엘",
+      "content": "Hey, non capita tutti i giorni di avere la possibilità di prendersi una pausa pagata senza infrangere le regole della compagnia. Non potevo farmela scappare."
+    },
+    {
+      "id": 113,
+      "model": "이스마엘",
+      "content": "Beh... suppongo di avere qualche rimpianto vedendo chi ha scelto Vergilius, ma... Mi rilasserò un po' e correrò ad aiutarli quando ce n'è bisogno."
+    },
+    {
+      "id": 114,
+      "model": "이스마엘",
+      "content": "Allora, buona fortuna. Intanto..."
+    },
+    {
+      "id": 115,
+      "model": "로쟈",
+      "content": "Heh, chiamateci i 'Grandi Quattro'! ... Che ne dite?"
+    },
+    {
+      "id": 116,
+      "model": "이스마엘",
+      "content": "... mentre 'I Cosìddetti Grandi Quattro' sgobbano in giro per T Corp., che ne dite di cercare un posto tranquillo per riposare?"
+    },
+    {
+      "id": 117,
+      "model": "베르길리우스",
+      "content": "Che peccato."
+    },
+    {
+      "id": 118,
+      "model": "베르길리우스",
+      "content": "T Corp. non ha autorizzato gli altri Peccatori ad andarsene a piede libero senza supervisione."
+    },
+    {
+      "id": 119,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "Dovete capire che non possiamo assolutamente lasciare che degli individui con un debito di dieci bilioni di Ahn si muovano liberamente senza avere una buona garanzia."
+    },
+    {
+      "id": 120,
+      "model": "베르길리우스",
+      "content": "... Sembra che abbiano un'alloggio temporaneo per chiunque non riesca a pagare le Tasse Temporali."
+    },
+    {
+      "id": 121,
+      "content": "... Vergilius indicava quella che era chiaramente una cella."
+    },
+    {
+      "id": 122,
+      "model": "오티스",
+      "content": "……."
+    },
+    {
+      "id": 123,
+      "model": "오티스",
+      "content": "... Sei sicuro che sia quello l'<i>alloggio</i>, Guida?"
+    },
+    {
+      "id": 124,
+      "model": "이스마엘",
+      "content": "Io... andranno... andrò in prigione...?"
+    },
+    {
+      "id": 125,
+      "model": "싱클레어",
+      "content": "Già... come garanzia umana, sembrerebbe..."
+    },
+    {
+      "id": 126,
+      "model": "로쟈",
+      "content": "Sarà divertente! Ehi, scommetto che ci ripenserete con affetto quando sarà tutto finito, 'kay? Torneremo presto, quindi fate i bravi e aspettate~"
+    },
+    {
+      "id": 127,
+      "model": "히스클리프2",
+      "content": "Bello, almeno questa cella ha il riscaldamento. ... Aspetta."
+    },
+    {
+      "id": 128,
+      "model": "히스클리프2",
+      "content": "Che succede se poi... se ne vanno e non tornano più?"
+    },
+    {
+      "id": 129,
+      "model": "그레고르",
+      "content": "Li rivedremo quando sarà passato un bilione di Ahn si tempo, immagino..."
+    },
+    {
+      "id": 130,
+      "model": "오티스",
+      "content": "... CHE COSA?!?!?!"
+    },
+    {
+      "id": 131,
+      "model": "오티스",
+      "content": "Ehi! Aspettate, tornate qui! Sarebbe abbastanza tempo per finire il lavoro al telaio!"
+    },
+    {
+      "id": 132,
+      "model": "단테",
+      "content": "<Calmatevi, ok? Torneremo prima che ve ne—>"
+    },
+    {
+      "id": 133,
+      "model": "돈키호테",
+      "content": "VOI FARETE UN RITORNO TRIONFALE COME UNA GLORIOSA SQUADRA DI GRANDI DETECTIVE! RICORDATE!!!!!"
+    },
+    {
+      "id": 134,
+      "content": "Partimmo per la nostra avventura dopo aver ricevuto quei 'Distintivi da Detective Speciali', lasciandoci alle spalle le grida sconclusionate degli altri peccatori."
+    },
+    {
+      "id": 135,
+      "content": "Dopo un po', riuscivamo a sentire solo il triste fragore intermittente di metallo di qualcuno che sbatteva le sbarre."
+    },
+    {
+      "id": 136,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Bene! Mi sembra siano tutti pronti. Andiamo subito a parlare con la terza vittima! Vediamo... i documenti sul caso dicono... aha, eccolo. È proprio a due passi da qui."
+    },
+    {
+      "id": 137,
+      "model": "탐정로쟈",
+      "content": "... Uh?"
+    },
+    {
+      "id": 138,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Uh? Che vorrebbe dire 'uh'? Leggi il documento; dice chiaramente che nessuna delle altra due vittime è capace di parlare. Mm, che sfortuna."
+    },
+    {
+      "id": 139,
+      "model": "탐정로쟈",
+      "content": "No, insomma... perché stai venendo con noi? Mi dispiace, ma non cerchiamo candidati ad assistente al momento. Vai via, shoo."
+    },
+    {
+      "id": 140,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "Sbagliato. Uno di noi deve far parte della squadra."
+    },
+    {
+      "id": 141,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "Avremmo mandato con voi un'impiegato per poter ricevere aggiornamenti immediati sui procedimenti dell'indagine."
+    },
+    {
+      "id": 142,
+      "model": "탐정료슈",
+      "content": "Togliti il palo dal culo."
+    },
+    {
+      "id": 143,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "... Volevamo mandare con voi del Personale di Classe 2. Ma lei..."
+    },
+    {
+      "id": 144,
+      "model": "T사대표",
+      "teller": "Impiegato?",
+      "title": "T Corp.",
+      "content": "Io? Classe 5. Vedi il tesserino?"
+    },
+    {
+      "id": 145,
+      "content": "L'impiegato chiacchierone aveva risposto allegramente presentando un tesserino lucido da una tasca."
+    },
+    {
+      "id": 146,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "... M-Mi scuso per non averla riconosciuta, signore. Non mi aspettavo di vedere un Ispettore di Classe 5 da queste parti."
+    },
+    {
+      "id": 147,
+      "model": "탐정로쟈",
+      "content": "Quel tipo è di Classe 5...? Sul serio?"
+    },
+    {
+      "id": 148,
+      "model": "탐정홍루",
+      "content": "Classe 5... è il grado più alto che si può raggiungere come impiegato di un'Ala, vero?"
+    },
+    {
+      "id": 149,
+      "model": "탐정로쟈",
+      "content": "Um... Sì, da quello che so."
+    },
+    {
+      "id": 150,
+      "model": "T사대표",
+      "teller": "Personale Ispezioni di Classe 5?",
+      "title": "T Corp.",
+      "content": "Beh~ non ne sarei sicuro. Dipende di quale Ala stiamo parlando. Chissà, forse ci sono degli impiegati di Classe 12, o addirittura 20!"
+    },
+    {
+      "id": 151,
+      "model": "T사대표",
+      "teller": "Personale Ispezioni di Classe 5?",
+      "title": "T Corp.",
+      "content": "Giusto? Capito? Bene. Andiamo dunque!"
+    },
+    {
+      "id": 152,
+      "content": "Lo fissammo sbalorditi in silenzio mentre l'impiegato correva fuori dall'ufficio, poi uscimmo in fretta al seguito."
+    },
+    {
+      "id": 153,
+      "place": "Stradine di T Corp.",
+      "model": "T사대표",
+      "teller": "Personale Ispezioni di Classe 5?",
+      "title": "T Corp.",
+      "content": "Non è incredibilmente affascinante? La sola idea di 'ammazzare il tempo'. Non sta rallentando o accelerando il tempo; lo sta completamente eliminando, l'ha proprio tolto dalla circolazione."
+    },
+    {
+      "id": 154,
+      "model": "탐정로쟈",
+      "content": "Allora, il tuo nome sarebbe..."
+    },
+    {
+      "id": 155,
+      "model": "탐정로쟈",
+      "content": "Mai?"
+    },
+    {
+      "id": 156,
+      "model": "T사대표",
+      "teller": "Mai",
+      "title": "T Corp.",
+      "content": "Rilassati e chiamami come vuoi~ I nomi non sono così importanti, non credi?"
+    },
+    {
+      "id": 157,
+      "model": "탐정료슈",
+      "content": "No. I nomi sono importanti."
+    },
+    {
+      "id": 158,
+      "model": "단테",
+      "content": "<Davvero? Ma non chiami mai nessuno per nome.>"
+    },
+    {
+      "id": 159,
+      "model": "탐정로쟈",
+      "content": "Rilassarci e chiamarti come vogliamo? Ma sei decisamente qui come nostro supervisore."
+    },
+    {
+      "id": 160,
+      "model": "T사대표",
+      "teller": "Mai",
+      "title": "T Corp.",
+      "content": "Hm, hai ragione. Questo rende le cose difficili, eh? Fammi pensare."
+    },
+    {
+      "id": 161,
+      "model": "T사대표",
+      "teller": "Mai",
+      "title": "T Corp.",
+      "content": "Aha, ci sono! Siete tutti vestiti da detective; perché non mi considerate il vostro assistente sempre di aiuto che vi segue nelle vostre avventure?"
+    },
+    {
+      "id": 162,
+      "model": "탐정로쟈",
+      "content": "Okay, ma... comunque..."
+    },
+    {
+      "id": 163,
+      "content": "Ryōshū, che stava fissando in lontananza aspirando la sua sigaretta, parlò all'improvviso prima che Rodya potesse ribattere."
+    },
+    {
+      "id": 164,
+      "model": "탐정료슈",
+      "content": "Assistente. Guidaci."
+    },
+    {
+      "id": 165,
+      "model": "T사대표",
+      "teller": "Assistente",
+      "title": "T Corp.",
+      "content": "Subito, signora!"
+    },
+    {
+      "id": 166,
+      "model": "탐정홍루",
+      "content": "Hmm, che differenza c'è tra un' 'assistente' e un 'domestico'? Sapete, la mia famiglia aveva..."
+    },
+    {
+      "id": 167,
+      "model": "단테",
+      "content": "<Gli si sono abituati in fretta...>"
+    }
+  ]
+}

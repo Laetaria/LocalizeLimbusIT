@@ -1,0 +1,212 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "teller": "Stephanette",
+            "title": "???",
+            "content": "Non essere triste..."
+        },
+        {
+            "id": 1,
+            "teller": "Stephanette",
+            "title": "???",
+            "content": "Non voglio usare le tue lacrime per oppormi allo scorrere del tempo..."
+        },
+        {
+            "id": 2,
+            "teller": "Stephanette",
+            "title": "???",
+            "content": "Quelle lacrime dovrebbero essere date a chi ne ha più bisogno."
+        },
+        {
+            "id": 3,
+            "teller": "Stephanette",
+            "title": "???",
+            "content": "Non dimenticarti... Sei una stella senza nome, che svetta nel cielo per tutte le persone che soffrono..."
+        },
+        {
+            "id": 4,
+            "place": "Laboratorio di K Corp.",
+            "model": "K사임원진1",
+            "teller": "Dirigente della K Corp. Opportunista",
+            "title": "K Corp.",
+            "content": "Con il trapasso di Ms. Stephanette... Noi della K Corp. desideriamo esprimere le nostre più sentite condoglianze, onorando il suo nobile testamento..."
+        },
+        {
+            "id": 5,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Che senso ha continuare a girarci intorno?"
+        },
+        {
+            "id": 6,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "C'è solo una cosa che ti interessa veramente: chi tra noi sarà il prossimo amministratore delegato..."
+        },
+        {
+            "id": 7,
+            "model": "K사임원진1",
+            "teller": "Dirigente della K Corp. Opportunista",
+            "title": "K Corp.",
+            "content": "...Mm."
+        },
+        {
+            "id": 8,
+            "model": "K사임원진2",
+            "teller": "Dirigente della K Corp. Impulsivo",
+            "title": "K Corp.",
+            "content": "Ehm…"
+        },
+        {
+            "id": 9,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Quindi... La nomina dovrebbe essere semplice, no? Chi ha fatto cosa, e quanto chi abbia contribuito alla crescita di quest'Ala ed il suo Nido..."
+        },
+        {
+            "id": 10,
+            "model": "K사임원진2",
+            "teller": "Dirigente della K Corp. Impulsivo",
+            "title": "K Corp.",
+            "content": "Da quando Ms. Stephanette ha cominciato ad avere difficoltà nel parlare per via della sua veneranda età... Mi sono occupato di estrarre le lacrime al suo posto."
+        },
+        {
+            "id": 11,
+            "model": "K사임원진1",
+            "teller": "Dirigente della K Corp. Opportunista",
+            "title": "K Corp.",
+            "content": "Cioè... Far leggere ai tuoi uomini quelle 'storie tragiche e strappalacrime' a voce alta? Tsk, la produzione di lacrime è pure calata."
+        },
+        {
+            "id": 12,
+            "model": "K사임원진2",
+            "teller": "Dirigente della K Corp. Impulsivo",
+            "title": "K Corp.",
+            "content": "...Ma come ti permetti?"
+        },
+        {
+            "id": 13,
+            "model": "K사임원진1",
+            "teller": "Dirigente della K Corp. Opportunista",
+            "title": "K Corp.",
+            "content": "Gah... F-Fermo."
+        },
+        {
+            "id": 14,
+            "model": "K사임원진2",
+            "teller": "Dirigente della K Corp. Impulsivo",
+            "title": "K Corp.",
+            "content": "Questo è quello che capita a chi non sa tenere la bocca chiusa. Sapevi come avrei reagito e hai comunque deciso di giocare col fuoco?"
+        },
+        {
+            "id": 15,
+            "model": "K사임원진1",
+            "teller": "Dirigente della K Corp. Opportunista",
+            "title": "K Corp.",
+            "content": "Hngh... Il consiglio di amministrazione non... te la farà passare liscia..."
+        },
+        {
+            "id": 16,
+            "model": "K사임원진2",
+            "teller": "Dirigente della K Corp. Impulsivo",
+            "title": "K Corp.",
+            "content": "Mi assicurerò di finirti prima che succeda."
+        },
+        {
+            "id": 17,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "……"
+        },
+        {
+            "id": 18,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Ah, la nostra cara Ms. Stephanette... Sei stata così premurosa fino alla fine."
+        },
+        {
+            "id": 19,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Le lacrime non hanno bisogno di sgorgare per nobili motivi."
+        },
+        {
+            "id": 20,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Esimi colleghi, credo di aver trovato la soluzione ai nostri problemi."
+        },
+        {
+            "id": 21,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Per assumere il ruolo di amministratore delgato, è necessaria solo una cosa: assicurare la prosperità di K Corp."
+        },
+        {
+            "id": 22,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Ora, manca solo il voto del consiglio di amministrazione."
+        },
+        {
+            "id": 23,
+            "model": "돈키호테",
+            "content": "Stop them this instant...! It appalls me greatly to think that one must suffer everlasting sights of despair in captivity for the many..."
+        },
+        {
+            "id": 24,
+            "model": "파우스트",
+            "content": "Your pleas won't reach them. This one didn't come from Yi Sang... It's a fragmented scene concerning the tears."
+        },
+        {
+            "id": 25,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah, nel caso non lo sappiate, quella Singolarità ha salvato innumerevoli vite."
+        },
+        {
+            "id": 26,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Era come se qualcuno avesse realizzato il mio vecchio sogno, il sogno che non sono riuscito a compiere."
+        },
+        {
+            "id": 27,
+            "model": "로쟈",
+            "content": "……"
+        },
+        {
+            "id": 28,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Anzi, se ci fossi stato io in quella vasca... Avrei abbandonato tutto con gioia. Ogni cosa, senza eccezioni."
+        },
+        {
+            "id": 29,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ed è per questo che tutto quello che possiamo fare... è guardarla con gratitudine e rispetto."
+        },
+        {
+            "id": 30,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Come quando guardavo le stelle nella mia città natale."
+        }
+    ]
+}

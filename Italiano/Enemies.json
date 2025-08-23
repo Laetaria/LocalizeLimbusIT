@@ -1,0 +1,2494 @@
+{
+  "dataList": [
+    {
+      "id": 8001,
+      "name": "Mela della Regina d'Ebano",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 800101,
+      "name": "Frutto",
+      "desc": "Parte"
+    },
+    {
+      "id": 800102,
+      "name": "Stelo Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 800103,
+      "name": "Stelo Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 800104,
+      "name": "Radici",
+      "desc": "Parte"
+    },
+    {
+      "id": 90004,
+      "name": "Teppista Matto",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90005,
+      "name": "Teppista Sveglio",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90006,
+      "name": "Teppista Affamato",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90007,
+      "name": "Capo dei Teppisti",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90008,
+      "name": "Veterano Focoso",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90009,
+      "name": "Veterano Stranito",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90010,
+      "name": "Veterano Trasandato",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90011,
+      "name": "Veterano Corrotto",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90012,
+      "name": "Veterano Volgare",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90013,
+      "name": "Veterano Brillante",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90001,
+      "name": "Veterano Duro",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90002,
+      "name": "Veterano Abbattuto",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90003,
+      "name": "Veterano Amareggiato",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90014,
+      "name": "Ricordo di un Soldato Storpio",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90015,
+      "name": "Ricordo di un Soldato Piangente",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90016,
+      "name": "Ricordo di un Soldato Andato",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 91001,
+      "name": "Vecchio Manager Capo della G Corp.",
+      "desc": "Boss Nemico"
+    },
+    {
+      "id": 91002,
+      "name": "Ricordo del Manager Capo Infestato della G Corp.",
+      "desc": "Boss Nemico"
+    },
+    {
+      "id": 8901,
+      "name": "Peccatulum Gulae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8005,
+      "name": "Peccatulum Gulae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8006,
+      "name": "Peccatulum Pigritiae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8007,
+      "name": "Peccatulum Irae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8002,
+      "name": "Calendario del Giorno del Giudizio",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 80022,
+      "name": "Calendario del Giorno del Giudizio",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 80023,
+      "name": "Calendario del Giorno del Giudizio",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 80024,
+      "name": "Calendario del Giorno del Giudizio",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8003,
+      "name": "Bambola d'Argilla",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8004,
+      "name": "Bambola d'Argilla Bruciante",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8008,
+      "name": "Mela Dorata",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8009,
+      "name": "Mela Finta",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8010,
+      "name": "Diventi Forte? Davvero?",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8011,
+      "name": "Sei Forte! Pe Davero?",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8012,
+      "name": "Vuoi Farti Menare? Tipo Tanto?",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8013,
+      "name": "Incantato dalle Scarpe Rosa",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8014,
+      "name": "Posseduto dalle Scarpe Rosa",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8015,
+      "name": "Trotta-trotta? Divertiti!",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8016,
+      "name": "Peccatulum Morositatis",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8017,
+      "name": "Peccatulum Luxuriae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8018,
+      "name": "Peccatulum Superbiae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8019,
+      "name": "Vicino Appena Sveglio",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8020,
+      "name": "Vicino Risorto",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8021,
+      "name": "Minatore Schiavo Congelato",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8022,
+      "name": "Minatore Schiavo Tremante",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8023,
+      "name": "Baba Yaga",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8024,
+      "name": "Inquisitore che Avanza",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8025,
+      "name": "Bestia a Quattro Zampe",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8026,
+      "name": "Tutto Ciò Che C'è di un Inquisitore",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8027,
+      "name": "Inquisitore Strisciante",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8028,
+      "name": "Inquisitore Serpeggiante",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8029,
+      "name": "Kromer",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8030,
+      "name": "Kromer, Sognatrice della Completezza Umana",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8031,
+      "name": "Ichthys Senza Testa",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8032,
+      "name": "Guardiano delle Stradine",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 890101,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 800501,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 800601,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 800701,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 800201,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 800202,
+      "name": "Braccio Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 800203,
+      "name": "Viso",
+      "desc": "Parte"
+    },
+    {
+      "id": 800301,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 800401,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 800801,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 800901,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 800902,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 800903,
+      "name": "Gambe",
+      "desc": "Parte"
+    },
+    {
+      "id": 801001,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 801101,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 801201,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 801202,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 801301,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 801401,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 801501,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 801502,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 801601,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 801701,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 801801,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 801901,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 802001,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 802101,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 802201,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 802301,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 802401,
+      "name": "Braccio Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 802402,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 802501,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 802601,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 802701,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 802801,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 802802,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 802803,
+      "name": "Braccio Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 802901,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 803001,
+      "name": "Braccio Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 803002,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 803003,
+      "name": "Fauci",
+      "desc": "Parte"
+    },
+    {
+      "id": 803004,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 803101,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 803102,
+      "name": "Gamba Destra",
+      "desc": "Parte"
+    },
+    {
+      "id": 803103,
+      "name": "Gamba Sinistra",
+      "desc": "Parte"
+    },
+    {
+      "id": 803104,
+      "name": "Coda",
+      "desc": "Parte"
+    },
+    {
+      "id": 803201,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 803202,
+      "name": "Traliccio",
+      "desc": "Parte"
+    },
+    {
+      "id": 803203,
+      "name": "Person",
+      "desc": "Parte"
+    },
+    {
+      "id": 803204,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 90017,
+      "name": "Tingtanger Rumoroso",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90018,
+      "name": "Tingtanger Pallone Gonfiato",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90019,
+      "name": "Tingtanger che Odia i Fagioli",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 91003,
+      "name": "Capo dei Tingtang",
+      "desc": "Boss Nemico"
+    },
+    {
+      "id": 90020,
+      "name": "Buttafuori Severo del Casinò",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90021,
+      "name": "Buttafuori Fiducioso del Casinò",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90022,
+      "name": "Buttafuori Calmo del Casinò",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90023,
+      "name": "Capo dei Buttafuori del Casinò",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90024,
+      "name": "Mariachi Allegro",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90025,
+      "name": "Mariachi Vivace",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 91004,
+      "name": "Aida",
+      "desc": "Boss Nemico"
+    },
+    {
+      "id": 90026,
+      "name": "Membro dell'Equipaggio Tieqiu Minaccioso",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90027,
+      "name": "Membro dell'Equipaggio Tieqiu Spaccone",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90028,
+      "name": "Drone Sicurezza di K Corp. Calmo",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90029,
+      "name": "Drone Sicurezza di K Corp. Tranquillo",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90030,
+      "name": "Drone Sicurezza di K Corp. Serio",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90031,
+      "name": "Drone Sicurezza di K Corp. Affidabile",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90032,
+      "name": "Inquisitore Servile di N Corp.",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90033,
+      "name": "Inquisitore Accondiscendente di N Corp.",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90034,
+      "name": "Inquisitore Adorante di N Corp.",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90035,
+      "name": "Inquisitore Flagellante di N Corp.",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90036,
+      "name": "Inquisitore Interrogativo di N Corp.",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90037,
+      "name": "Inquisitore Sadico di N Corp.",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90038,
+      "name": "Inquisitore Ossessivo di N Corp.",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90039,
+      "name": "Inquisitore Gioioso di N Corp.",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90040,
+      "name": "Inquisitore Impavido di N Corp.",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 91005,
+      "name": "Guido il Persistente",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 91006,
+      "name": "Guido il Persistente",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99004,
+      "name": "Teppista Affamato",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99005,
+      "name": "Teppista Matto",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99006,
+      "name": "Teppista Sveglio",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99007,
+      "name": "Teppista Matto",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99008,
+      "name": "Teppista Sveglio",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99009,
+      "name": "Teppista Affamato",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99010,
+      "name": "Teppista Matto",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99011,
+      "name": "Teppista Sveglio",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99012,
+      "name": "Teppista Matto",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99013,
+      "name": "Teppista Sveglio",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99014,
+      "name": "Teppista Matto",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99015,
+      "name": "Teppista Affamato",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99016,
+      "name": "Teppista Matto",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99017,
+      "name": "Teppista Affamato",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99018,
+      "name": "Testa Hooligan",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99019,
+      "name": "Teppista Matto",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99020,
+      "name": "Teppista Affamato",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 99021,
+      "name": "Teppista Sveglio",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90041,
+      "name": "Schiavo",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 8033,
+      "name": "Bestia Contorta",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 803301,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 803302,
+      "name": "Braccio Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 97101,
+      "name": "Veterano Corrotto",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97102,
+      "name": "Veterano Volgare",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97103,
+      "name": "Razor-sharp Veteran",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97104,
+      "name": "Hardened Veteran",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97105,
+      "name": "Downcast Veteran",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97106,
+      "name": "Embittered Veteran",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97107,
+      "name": "Recollected Awry Soldier",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97108,
+      "name": "Recollected Wallowing Soldier",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97109,
+      "name": "Recollected Overtaken Soldier",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97151,
+      "name": "Old G Corp. Testa Manager",
+      "desc": "Boss Nemico"
+    },
+    {
+      "id": 97152,
+      "name": "Recollected Festered G Corp. H. Manager",
+      "desc": "Boss Nemico"
+    },
+    {
+      "id": 97201,
+      "name": "Rigid Casino Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97202,
+      "name": "Confident Casino Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97203,
+      "name": "Collected Casino Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97204,
+      "name": "Mariachi Alegre",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97205,
+      "name": "Mariachi Vivaz",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97206,
+      "name": "Threatening Tieqiu Crewman",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97207,
+      "name": "Flexing Tieqiu Crewman",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97251,
+      "name": "Casino Security Chief",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97252,
+      "name": "Aida",
+      "desc": "Boss Nemico"
+    },
+    {
+      "id": 97301,
+      "name": "Servile N Corp. Inquisitor",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97302,
+      "name": "Compliant N Corp. Inquisitor",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97303,
+      "name": "Worshipping N Corp. Inquisitor",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97304,
+      "name": "Scourging N Corp. Inquisitor",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97305,
+      "name": "Interrogative N Corp. Inquisitor",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97306,
+      "name": "Sadistic N Corp. Inquisitor",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97307,
+      "name": "Obsessive N Corp. Inquisitor",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97308,
+      "name": "Joyous N Corp. Inquisitor",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97309,
+      "name": "Fearless N Corp. Inquisitor",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 97351,
+      "name": "Guido the Persistent",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 8701,
+      "name": "Ebony Queen's Apple",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 870101,
+      "name": "Fruit",
+      "desc": "Parte"
+    },
+    {
+      "id": 870102,
+      "name": "Left Stem",
+      "desc": "Parte"
+    },
+    {
+      "id": 870103,
+      "name": "Right Stem",
+      "desc": "Parte"
+    },
+    {
+      "id": 870104,
+      "name": "Roots",
+      "desc": "Parte"
+    },
+    {
+      "id": 8702,
+      "name": "Headless Ichthys",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 870201,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 870202,
+      "name": "Gamba Destra",
+      "desc": "Parte"
+    },
+    {
+      "id": 870203,
+      "name": "Gamba Sinistra",
+      "desc": "Parte"
+    },
+    {
+      "id": 870204,
+      "name": "Coda",
+      "desc": "Parte"
+    },
+    {
+      "id": 8703,
+      "name": "Golden Apple",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 870301,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8704,
+      "name": "False Apple",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 870401,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 870402,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 870403,
+      "name": "Gambe",
+      "desc": "Parte"
+    },
+    {
+      "id": 8705,
+      "name": "Alleyway Watchdog",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 870501,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 870502,
+      "name": "Telepole",
+      "desc": "Parte"
+    },
+    {
+      "id": 870503,
+      "name": "Person",
+      "desc": "Parte"
+    },
+    {
+      "id": 870504,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8706,
+      "name": "Become Strong? Genuinely?",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 870601,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8707,
+      "name": "Grown Powerful! For Realsies?",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 870701,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8708,
+      "name": "You Want To Get Beat? Hurtily?",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 870801,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 870802,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 8709,
+      "name": "Pink Shoes Enchantee",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 870901,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8710,
+      "name": "Pink Shoes Possessee",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 871001,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8711,
+      "name": "Clippity-cloppity? Tap Away!",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 871101,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 871102,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 8712,
+      "name": "Doomsday Calendar",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 871201,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 871202,
+      "name": "Braccio Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 871203,
+      "name": "Face",
+      "desc": "Parte"
+    },
+    {
+      "id": 87122,
+      "name": "Doomsday Calendar",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 87123,
+      "name": "Doomsday Calendar",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 87124,
+      "name": "Doomsday Calendar",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8713,
+      "name": "Doomsday Clay Doll",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 871301,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8714,
+      "name": "Burning Clay Doll",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 871401,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8721,
+      "name": "Ebony Queen's Apple",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 872101,
+      "name": "Fruit",
+      "desc": "Parte"
+    },
+    {
+      "id": 872102,
+      "name": "Left Stem",
+      "desc": "Parte"
+    },
+    {
+      "id": 872103,
+      "name": "Right Stem",
+      "desc": "Parte"
+    },
+    {
+      "id": 872104,
+      "name": "Roots",
+      "desc": "Parte"
+    },
+    {
+      "id": 8722,
+      "name": "Headless Ichthys",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 872201,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 872202,
+      "name": "Gamba Destra",
+      "desc": "Parte"
+    },
+    {
+      "id": 872203,
+      "name": "Gamba Sinistra",
+      "desc": "Parte"
+    },
+    {
+      "id": 872204,
+      "name": "Coda",
+      "desc": "Parte"
+    },
+    {
+      "id": 8723,
+      "name": "Golden Apple",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 872301,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8724,
+      "name": "False Apple",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 872401,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 872402,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 872403,
+      "name": "Gambe",
+      "desc": "Parte"
+    },
+    {
+      "id": 8725,
+      "name": "Alleyway Watchdog",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 872501,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 872502,
+      "name": "Telepole",
+      "desc": "Parte"
+    },
+    {
+      "id": 872503,
+      "name": "Person",
+      "desc": "Parte"
+    },
+    {
+      "id": 872504,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8726,
+      "name": "Become Strong? Genuinely?",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 872601,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8727,
+      "name": "Grown Powerful! For Realsies?",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 872701,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8728,
+      "name": "You Want To Get Beat? Hurtily?",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 872801,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 872802,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 8729,
+      "name": "Pink Shoes Enchantee",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 872901,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8730,
+      "name": "Pink Shoes Possessee",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 873001,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8731,
+      "name": "Clippity-cloppity? Tap Away!",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 873101,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 873102,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 8732,
+      "name": "Doomsday Calendar",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 873201,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 873202,
+      "name": "Braccio Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 873203,
+      "name": "Face",
+      "desc": "Parte"
+    },
+    {
+      "id": 87322,
+      "name": "Doomsday Calendar",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 87323,
+      "name": "Doomsday Calendar",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 87324,
+      "name": "Doomsday Calendar",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8733,
+      "name": "Doomsday Clay Doll",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 873301,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8734,
+      "name": "Burning Clay Doll",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 873401,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 90042,
+      "name": "Confused K Corp. Checkpoint Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90043,
+      "name": "Swamped K Corp. Checkpoint Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90044,
+      "name": "Hazed K Corp. Checkpoint Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90045,
+      "name": "Stunned K Corp. Checkpoint Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 8034,
+      "name": "Headchicken a.k.a. Bongy",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 803401,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8035,
+      "name": "Headchicken a.k.a. Bongy",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 803501,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8036,
+      "name": "Headchicken a.k.a. Bongy",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 803601,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8037,
+      "name": "Headchicken a.k.a. Bongy",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 803701,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8038,
+      "name": "Papa Bongy",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 803801,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8039,
+      "name": "Papa Bongy",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 803901,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 803902,
+      "name": "Chicken Bucket",
+      "desc": "Parte"
+    },
+    {
+      "id": 8040,
+      "name": "Spiced-up Papa Bongy",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 804001,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 804002,
+      "name": "Chicken Bucket",
+      "desc": "Parte"
+    },
+    {
+      "id": 8041,
+      "name": "Brazen Bull - Tearful",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 804101,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 804102,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8042,
+      "name": "K Corp. Filming Drone",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 804201,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8043,
+      "name": "Lobotomy E.G.O::Sunshower - Dongbaek",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 804301,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8044,
+      "name": "Dongbaek E.G.O::Spicebush",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 804401,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8045,
+      "name": "Shock Centipede",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 804501,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 804502,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8046,
+      "name": "Drifting Fox",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 804601,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 804602,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8047,
+      "name": "So That No One Will Cry",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 804701,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 804702,
+      "name": "Braccio Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 8048,
+      "name": "Fairy Gentleman",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 804801,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 804802,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 8049,
+      "name": "Dongrang, Who Denies All",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8050,
+      "name": "Effloresced E.G.O::Farmwatch",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8051,
+      "name": "Vino di Fata",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 805101,
+      "name": "Wine Barrel",
+      "desc": "Parte"
+    },
+    {
+      "id": 8052,
+      "name": "Vecchio Ombrello",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 805201,
+      "name": "Umbrella",
+      "desc": "Parte"
+    },
+    {
+      "id": 8053,
+      "name": "Vecchio Ombrello",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 805301,
+      "name": "Umbrella",
+      "desc": "Parte"
+    },
+    {
+      "id": 8054,
+      "name": "Fiore Che Sboccerà Presto",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 805401,
+      "name": "Bud",
+      "desc": "Parte"
+    },
+    {
+      "id": 90046,
+      "name": "K Corp. Filming Drone",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90047,
+      "name": "Crude Sawblade Bot",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90048,
+      "name": "Crude Wrecking Ball Bot",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90049,
+      "name": "Complete Sawblade Bot",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90050,
+      "name": "Complete Wrecking Ball Bot",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 91007,
+      "name": "Solid Combined Bot",
+      "desc": "Boss Nemico"
+    },
+    {
+      "id": 90051,
+      "name": "Confident Rosespanner Workshop Fixer",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90052,
+      "name": "Prideful Rosespanner Workshop Fixer",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90053,
+      "name": "Shaking Rosespanner Workshop Fixer",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 91008,
+      "name": "Rosespanner Workshop Rep Niko",
+      "desc": "Boss Nemico"
+    },
+    {
+      "id": 90054,
+      "name": "Threatened K Corp. Class 1 Staff",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90055,
+      "name": "Unnerved K Corp. Class 1 Staff",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90056,
+      "name": "Hacked K Corp. Regen Drone",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90057,
+      "name": "Hacked K Corp. Regen Drone",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90058,
+      "name": "Lobotomy E.G.O::Sloshing",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90059,
+      "name": "Lobotomy E.G.O::Red Sheet",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90060,
+      "name": "Lobotomy E.G.O::Sloshing",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90061,
+      "name": "Lobotomy E.G.O::Red Sheet",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 91009,
+      "name": "Lobotomy E.G.O::Red Sheet - Marile",
+      "desc": "Boss Nemico"
+    },
+    {
+      "id": 90062,
+      "name": "Reawakened Lobotomy E.G.O::Sloshing",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90063,
+      "name": "Reawakened Lobotomy E.G.O::Red Sheet",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90064,
+      "name": "Revived K Corp. Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90065,
+      "name": "Revived K Corp. Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90066,
+      "name": "Revived K Corp. Class 1 Staff",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90067,
+      "name": "Revived K Corp. Class 1 Staff",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90068,
+      "name": "Revived K Corp. Class 3 Staff",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90069,
+      "name": "Revived K Corp. Class 3 Empowered Staff",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90070,
+      "name": "Imagined T Corp. Class 3 Collector",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 91010,
+      "name": "Reawakened Lobotomy E.G.O::Red Sheet - Marile",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90071,
+      "name": "K Corp. Arrest Drone",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90072,
+      "name": "K Corp. Filming Drone",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90073,
+      "name": "Terrified K Corp. Checkpoint Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90074,
+      "name": "Shaking K Corp. Checkpoint Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90075,
+      "name": "Stiffened K Corp. Checkpoint Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90076,
+      "name": "Timid K Corp. Checkpoint Security",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 8055,
+      "name": "Fully Bloomed Flower",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 805501,
+      "name": "Bud",
+      "desc": "Parte"
+    },
+    {
+      "id": 80442,
+      "name": "Dongbaek E.G.O::Spicebush",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8056,
+      "name": "Tree of Vanity",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 805601,
+      "name": "Fruit of Vanity",
+      "desc": "Parte"
+    },
+    {
+      "id": 8057,
+      "name": "Resentful Tree",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 805701,
+      "name": "Resentment",
+      "desc": "Parte"
+    },
+    {
+      "id": 8060,
+      "name": "Albero dei Desideri",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 806001,
+      "name": "Desire",
+      "desc": "Parte"
+    },
+    {
+      "id": 804901,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8058,
+      "name": "Lanterna Fatata",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 805801,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 80492,
+      "name": "Dongrang, Who Denies All",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 80493,
+      "name": "Dongrang, Who Denies All",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8061,
+      "name": "Absorbing Tree",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 806101,
+      "name": "Tree",
+      "desc": "Parte"
+    },
+    {
+      "id": 805001,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 805802,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 805803,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 8059,
+      "name": "Fata-Gambe-Lunghe",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 805901,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 805902,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 8064,
+      "name": "Peccatulum Gulae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8065,
+      "name": "Peccatulum Pigritiae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8066,
+      "name": "Peccatulum Irae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8067,
+      "name": "Peccatulum Morositatis",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8068,
+      "name": "Peccatulum Luxuriae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8069,
+      "name": "Peccatulum Superbiae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 806401,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 806501,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 806601,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 806701,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 806801,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 806901,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 805903,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8062,
+      "name": "Giant Leaf",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 806201,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8075,
+      "name": "Blubbering Toad",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 807501,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 807502,
+      "name": "Left Eye",
+      "desc": "Parte"
+    },
+    {
+      "id": 807503,
+      "name": "Right Eye",
+      "desc": "Parte"
+    },
+    {
+      "id": 8076,
+      "name": "kqe-1j-23",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 807601,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8077,
+      "name": "Heart of the Townsfolk",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 807701,
+      "name": "Heart",
+      "desc": "Parte"
+    },
+    {
+      "id": 8078,
+      "name": "My Form Empties",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 807801,
+      "name": "Buddha Mūrti",
+      "desc": "Parte"
+    },
+    {
+      "id": 807802,
+      "name": "Stone Seat",
+      "desc": "Parte"
+    },
+    {
+      "id": 8079,
+      "name": "Lured Guido",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 807901,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8080,
+      "name": "Lured Aida",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 808001,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8081,
+      "name": "Lured Festered G Corp. H. Manager",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 808101,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8082,
+      "name": "Kromer",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 808201,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8083,
+      "name": "Kromer the Dreamer of Human Wholeness",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 808301,
+      "name": "Braccio Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 808302,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 808303,
+      "name": "Maw",
+      "desc": "Parte"
+    },
+    {
+      "id": 90082,
+      "name": "K Corp. Class 3 Excision Staff",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 8084,
+      "name": "Headless Ichthys",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 808401,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 808402,
+      "name": "Gamba Destra",
+      "desc": "Parte"
+    },
+    {
+      "id": 808403,
+      "name": "Gamba Sinistra",
+      "desc": "Parte"
+    },
+    {
+      "id": 808404,
+      "name": "Coda",
+      "desc": "Parte"
+    },
+    {
+      "id": 8085,
+      "name": "Alleyway Watchdog",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 808501,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 808502,
+      "name": "Telepole",
+      "desc": "Parte"
+    },
+    {
+      "id": 808503,
+      "name": "Person",
+      "desc": "Parte"
+    },
+    {
+      "id": 808504,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8086,
+      "name": "Shock Centipede",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 808601,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 808602,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8087,
+      "name": "Drifting Fox",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 808701,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 808702,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8088,
+      "name": "Vecchio Ombrello",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 808801,
+      "name": "Umbrella",
+      "desc": "Parte"
+    },
+    {
+      "id": 8089,
+      "name": "So That No One Will Cry",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 808901,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 808902,
+      "name": "Braccio Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 8090,
+      "name": "Fairy Gentleman",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 809001,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 809002,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 8091,
+      "name": "Vino di Fata",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 809101,
+      "name": "Wine Barrel",
+      "desc": "Parte"
+    },
+    {
+      "id": 8092,
+      "name": "Fairy Longlegs",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 809201,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 809202,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 809203,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8093,
+      "name": "Giant Leaf",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 809301,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8094,
+      "name": "Golden Apple",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 8095,
+      "name": "False Apple",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 809401,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 809501,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 809502,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8096,
+      "name": "Brazen Bull - Tearful",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 809601,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 809602,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 8263,
+      "name": "Fairy Queen",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 826301,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 826302,
+      "name": "Braccio Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 826303,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 8264,
+      "name": "Fairy Mass",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 826401,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8265,
+      "name": "Fairy Queen",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 826501,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 826502,
+      "name": "Braccio Destro",
+      "desc": "Parte"
+    },
+    {
+      "id": 826503,
+      "name": "Braccio Sinistro",
+      "desc": "Parte"
+    },
+    {
+      "id": 8266,
+      "name": "Fairy Mass",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 826601,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 1058,
+      "name": "Portrait of a Certain Day",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1059,
+      "name": "Portrait",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1060,
+      "name": "Portrait",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1061,
+      "name": "Dreaming Electric Sheep",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1062,
+      "name": "Generator",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1063,
+      "name": "The King in Binds",
+      "desc": ""
+    },
+    {
+      "id": 99022,
+      "name": "Teppista Matto",
+      "desc": ""
+    },
+    {
+      "id": 99023,
+      "name": "Teppista Sveglio",
+      "desc": ""
+    },
+    {
+      "id": 99024,
+      "name": "Capo Teppista",
+      "desc": ""
+    },
+    {
+      "id": 99025,
+      "name": "Teppista Affamato",
+      "desc": ""
+    },
+    {
+      "id": 99026,
+      "name": "Teppista Affamato",
+      "desc": ""
+    },
+    {
+      "id": 1142,
+      "name": "Peccatulum Gulae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1143,
+      "name": "Peccatulum Gulae",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 114301,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 1222,
+      "name": "Der Fluchschütze",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1174,
+      "name": "Sleeping Bag of a Bygone Day",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1175,
+      "name": "Quattro-mila Rose",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1172,
+      "name": "Vecchio Manager Capo della G Corp.",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1173,
+      "name": "Vecchio Manager Capo della G Corp.",
+      "desc": "Nucleo"
+    }
+  ]
+}

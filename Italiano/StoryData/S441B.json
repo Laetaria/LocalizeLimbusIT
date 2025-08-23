@@ -1,0 +1,164 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corridoio Distrutto del Laboratorio di K Corp.",
+            "content": "I did my best to ignore the fierce glare at my clock from below."
+        },
+        {
+            "id": 1,
+            "content": "I noticed a group of staff walking this way, carrying an imposing aura, unlike any other K Corp. employee we've met."
+        },
+        {
+            "id": 2,
+            "model": "그레고르",
+            "content": "Ah, you must be K Corp. staff. Hey! I saw some researchers that haven't evacuated over there..."
+        },
+        {
+            "id": 3,
+            "model": "K사3등급전투원",
+            "teller": "Class 3 Excision Staff",
+            "title": "K Corp.",
+            "content": "……"
+        },
+        {
+            "id": 4,
+            "content": "They ignored our–or Gregor's, rather–words and proceeded upstairs."
+        },
+        {
+            "id": 5,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non sono qui per soccorrere alcunché. Il loro lavoro consiste nell'eliminare gli intrusi e proteggere i dati sul funzionamento della tecnologia di K Corp."
+        },
+        {
+            "id": 6,
+            "content": "Dongrang interjected like he's always been here. I suppose he's got done with the call."
+        },
+        {
+            "id": 7,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "I soccorsi sono prerogativa del persone di Livello 1."
+        },
+        {
+            "id": 8,
+            "model": "돈키호테",
+            "content": "Gasp! Is Class 1 not the highest level an employee can reach, precisely like Grade 1 is for Fixers?! Verily, 'tis no wonder that they are the noblest...!"
+        },
+        {
+            "id": 9,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Come, prego? In questo Nido, il Livello 1 è il livello più basso, i numeri maggiori indicano anche i gradi migliori..."
+        },
+        {
+            "id": 10,
+            "model": "돈키호테",
+            "content": "Wha, wuh, wah, wha, wai... Whaat?!!!"
+        },
+        {
+            "id": 11,
+            "model": "돈키호테",
+            "content": "...Even still, none can be too lordly or lowly to save lives, so how can the roles be divided?"
+        },
+        {
+            "id": 12,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Haha, più grande è, meglio è. Vale sia per i numeri che per il fatturato, non vi pare?"
+        },
+        {
+            "id": 13,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah, la conversazione si sta trascinando un po' troppo a lungo... Ma possiamo stare sereni, sono riuscito ad ottenere l'accesso."
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<…?>"
+        },
+        {
+            "id": 15,
+            "model": "히스클리프",
+            "content": "What? Permission? For what?"
+        },
+        {
+            "id": 16,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Normalmente, ci sarebbe da sbrigare una montagnia di scartoffie, ma visto che siamo in stato d'emergenza, saltiamo le procedure superflue. Dovrebbe essere tutto a posto, giusto Samjo?"
+        },
+        {
+            "id": 17,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ceeerto... Credo che compilare il rapporto necessario ci impiegherà solo tre giorni e mezzo di lavoro straordinario."
+        },
+        {
+            "id": 18,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "E per mettere i puntini sulle i, il problema è nato nel momento in cui li ha portati nel suo laboratorio senza nessuna notifica."
+        },
+        {
+            "id": 19,
+            "model": "히스클리프",
+            "content": "Just tell us what that permission is about first!"
+        },
+        {
+            "id": 20,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Sembra che Dongbaek sia diretta proprio lì."
+        },
+        {
+            "id": 21,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "La sala proiezioni."
+        },
+        {
+            "id": 22,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Le procedure di sicurezza necessarie ad accedervi possono risultare... estremamente contorte."
+        },
+        {
+            "id": 23,
+            "model": "로쟈",
+            "content": "Screening room? The name doesn't give a very clear idea of what it's about~"
+        },
+        {
+            "id": 24,
+            "model": "홍루",
+            "content": "Wonder why the security is so tight about it~"
+        },
+        {
+            "id": 25,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Si trova in cima all'edificio."
+        },
+        {
+            "id": 26,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ci sono due modi di rendere qualcosa inacessibile: piazzandolo sottoterra, o mettendolo nel punto più alto."
+        }
+    ]
+}

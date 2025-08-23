@@ -1,0 +1,53 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "model": "스테파네트",
+            "teller": "Stephanette",
+            "title": "???",
+            "content": "È una storia bellissima e ricca di significato, non pensi?"
+        },
+        {
+            "id": 1,
+            "model": "스테파네트",
+            "teller": "Stephanette",
+            "title": "???",
+            "content": "Se tutte le storie del mondo fossero storie felici, forse non ci sarebbe più bisogno delle stelle nel cielo."
+        },
+        {
+            "id": 2,
+            "model": "스테파네트",
+            "teller": "Stephanette",
+            "title": "???",
+            "content": "Le stelle nascono nell'oscurità e la solitudine."
+        },
+        {
+            "id": 3,
+            "model": "스테파네트",
+            "teller": "Stephanette",
+            "title": "???",
+            "content": "È lo stesso motivo per cui ti piacciono le mie storie."
+        },
+        {
+            "id": 4,
+            "model": "스테파네트",
+            "teller": "Stephanette",
+            "title": "???",
+            "content": "……"
+        },
+        {
+            "id": 5,
+            "model": "스테파네트",
+            "teller": "Stephanette",
+            "title": "???",
+            "content": "Ti racconterò le storie di altri mondi."
+        },
+        {
+            "id": 6,
+            "model": "스테파네트",
+            "teller": "Stephanette",
+            "title": "???",
+            "content": "Quindi piangi per me. Al posto mio, e al posto di tutti gli altri."
+        }
+    ]
+}

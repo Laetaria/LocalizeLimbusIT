@@ -1,0 +1,129 @@
+{
+  "dataList": [
+    {
+      "id": "FusionVibration",
+      "name": "Sovrapposizione Ondulare",
+      "desc": "- Fonde gli effetti del tipo di Vibrazione aggiunta da Sovrapposizione Ondulare e dal tipo di Vibrazione già presente sul bersaglio in Vibrazione - Sovrapposizione.\n- I valori di Potenza e Conteggio non cambiando durante Sovrapposizione.\n- Quando si attiva Convertitore di Ampiezza su Vibrazione - Sovrapposizione, quest'ultimo si attiva come Sovrapposizione Ondulare.\n- A Fine Turno: si converte in Vibrazione base.",
+      "summary": ""
+    },
+    {
+      "id": "VibrationNesting",
+      "name": "Vibrazione - Sovrapposizione",
+      "desc": "- Ottenuto tramite Sovrapposizione Ondulare\n- Quando si attiva Convertitore di Ampiezza, aggiunge gli effetti del tipo di Vibrazione risultante alla lista dei tipi di Vibrazione sotto il nome di Vibrazione - Sovrapposizione.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationDistribution",
+      "name": "Vibrazione - Distribuzione",
+      "desc": "- A Fine Turno: Ottiene ((somma del Conteggio Vibrazione degli alleati) / (# degli alleati ancora in vita)) Aumento Offensivo il turno successivo (max 5)\n- Per {1} turni, quando subisce un colpo da un'Abilità che attiva Scoppio Vibrazione, alza la Soglia di Vacillamento di {0}\n- A Fine Turno: riduce il Conteggio di 1\n- (Interagisce allo stesso modo della Vibrazione normale con gli effetti che aumentano o riducono Potenza/Conteggio)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TcorpSpecialInvestigator",
+      "name": "Distintivo Investigatore Speciale T Corp.",
+      "desc": "- Quando questa unità subisce danno fatale, i suoi PV non scendono al di sotto di 1, si cura immediatamente dell'80% dei suoi PV Max, e si riprende dal Vacillamentor. (Una volta per Incontro)\n- Quando questo buff si attiva, a partire dal turno successivo, questa unità ottiene 2 Attacco Aumentato ogni volta che inizia un turno, per 5 turni.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationChain",
+      "name": "Vibrazione - Catena",
+      "desc": "- Perde 1 Potere Scontro per ogni 10 Potenza Vibrazione su sé (max 3)\n- Per {1} turni: quando subisce un colpo da un'Abilità che attiva Scoppio Vibrazione, alza la Soglia di Vacillamento di {0}.\n- A Fine Turno: riduce il Conteggio di 1\n- (Interagisce allo stesso modo della Vibrazione normale con gli effetti che aumentano o riducono Potenza/Conteggio)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeRentalTwo",
+      "name": "Tempo in Prestito T Corp.",
+      "desc": "A Fine Turno:\n- Ottiene {1} Rapidità, Potere Scontro Aumentato, e Vulnerabilità il turno successivo.\n- A 1 Conteggio, ottiene invece {0} Lentezza il turno successivo.\n- Ottiene 1 Stack e perde 1 Conteggio\n- Se quest'unità ha più Lentezza che Rapidità, l'effetto del Tempo in Prestito termina e quest'unità Vacilla.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeAccumulation",
+      "name": "Ritardo",
+      "desc": "Finché quest'effetto è attivo, il danno inflitto a quest'unità non viene subito, ma immagazzinato.\nA Fine Turno: riduce il valore di 1\nA Fine Turno: Se il valore rimanente di quest'effetto è 1, quest'ultimo scade dopo aver inflitto (2 x danni immagazzinati) danni da Accidia a quest'unità\nQuando quest'effetto è arrivo, il valore non può essere cambiato.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ParryingResultDown",
+      "name": "Potere Scontro Ridotto",
+      "desc": "In uno Scontro, perde Potere Scontro pari al valore dell'effetto",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ParryingResultUp",
+      "name": "Potere Scontro Aumentato",
+      "desc": "In uno Scontro, ottiene Potere Scontro pari al valore dell'effetto",
+      "summary": "In uno Scontro, ottiene Potere Scontro pari al valore dell'effetto",
+      "undefined": "-"
+    },
+    {
+      "id": "LimitedTime",
+      "name": "Tempo Rubato",
+      "desc": "- Ad inizio turno: Quando il valore è 200+, ottiene ({0}- 200)/50 Aumento Offensivo & Aumento Difensivo.\n- A Inizio Turno: Quando il valore è meno di 200, ottiene (200 - {0})/50 Calo Offensivo & Calo Difensivo.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "OwnTime",
+      "name": "Tempo Condiviso",
+      "desc": "- Ad inizio turno: Quando il valore è 40+, ottiene ({0}- 40)/10 Aumento Offensivo & Aumento Difensivo.\n- A Inizio Turno: Quando il valore è meno di 40, ottiene (40 - {0})/10 Calo Offensivo & Calo Difensivo.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EquitableDistribution",
+      "name": "Spesa Temporale Condivisa",
+      "desc": "Quando Tempo Condiviso viene speso, i Cervelli spendono la stessa quantità di tempo tra tutti loro.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfairDistribution",
+      "name": "Divisioni Interne",
+      "desc": "Quando Tempo Condiviso viene speso, i Cervelli non spendono più la stessa quantità di tempo tra tutti loro.\nA Inizio Turno: tutte le parti perdono Mitigazione pari al numero della parti con valori di Tempo diversi.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeAcceleration",
+      "name": "Accelerazione Temporale",
+      "desc": "- Ottiene 5 Velocità\n- Migliora le Abilità di questa unità.\n- Ottiene 1 Vulnerabilità; quando Scoppio Vibrazione, un'Abilità o l'effetto di una Moneta aumentano la Soglia di Vacillamento di quest'unità, la Soglia viene aumetata di un ulteriore 50%.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Yurodivy_LowMorale",
+      "name": "Intesa Spezzata",
+      "desc": "- Morale Basso\nOttiene 1 Vulnerabilità. Ottiene 1 Conteggio Vibrazione quando subisce un colpo. (3 volte max)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Yurodivy_Panic",
+      "name": "Intesa Spezzata",
+      "desc": "- Panico\nOttiene 2 Vulnerabilità. Ottiene 2 Conteggio Vibrazione quando subisce un colpo. (3 volte max)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeKillerWatch",
+      "name": "Vittima Temporale",
+      "desc": "Bersaglio dello Squartatempo mentre Accelerazione Temporale è attiva.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UltraPrecisionTimeAcceleration",
+      "name": "Microprecision Time Acceleration",
+      "desc": "This unit gains base Min and Max Speed by Stack\nSkills that inflict Tremor Potency, Count, or trigger Tremor Burst: gain Base Power +(Stack), deal +(Stack x 10)% damage against enemies, and when raising Stagger Thresholds via Tremor Burst, increase the amount raised by (Stack x 10)% (including E.G.O Skills)\nReduced by 1 at Turn End\nAt 1 Stack, the Stack does not drop below 0, and is maintained through the Encounter.",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

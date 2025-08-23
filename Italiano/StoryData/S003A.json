@@ -1,0 +1,115 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "A bordo del Mephistopheles",
+      "model": "이스마엘",
+      "content": "Un'attimo."
+    },
+    {
+      "id": 1,
+      "model": "파우스트",
+      "content": "Che succede?"
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "Mi sono unita alla compagnia perché mi è stato detto che avrei potuto far carriera senza metterci troppo."
+    },
+    {
+      "id": 3,
+      "model": "이스마엘",
+      "content": "Ma al momento… stiamo solo usando violenza insensata, come fossimo dei Ratti."
+    },
+    {
+      "id": 4,
+      "model": "돈키호테",
+      "content": "Mi oppongo! Non è insensata! Quelli che ci hanno attaccato erano dei malviventi!"
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Ti prego, stai zitta per secondo."
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "…Se tutto quello che faremo sotto contratto è picchiare la gente come dei semplici scagnozzi, credo che prima o poi mi cercherò un'altro lavoro."
+    },
+    {
+      "id": 7,
+      "model": "파우스트",
+      "content": "Non hai letto il contratto?"
+    },
+    {
+      "id": 8,
+      "model": "파우스트",
+      "content": "…Il licenziamento non è permesso."
+    },
+    {
+      "id": 9,
+      "model": "이스마엘",
+      "content": "…Pensi che il contratto abbia validità se è basato su menzogne?"
+    },
+    {
+      "id": 10,
+      "model": "파우스트",
+      "content": "Certo che si."
+    },
+    {
+      "id": 11,
+      "model": "파우스트",
+      "content": "Non contiene menzogne."
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "content": "…Uh?"
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "Non pensavi che Mephistopheles sia stato costruito come semplice mezzo di trasporto, vero?"
+    },
+    {
+      "id": 14,
+      "model": "카론",
+      "content": "Mephi ha sempre fame. Continua a piangere."
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<L'autobus ha… fame?>"
+    },
+    {
+      "id": 16,
+      "model": "파우스트",
+      "content": "Quando il motore “mangia” il carburante, rilascia un derivato…"
+    },
+    {
+      "id": 17,
+      "model": "파우스트",
+      "content": "Grazie a quello, diventerete più forti."
+    },
+    {
+      "id": 18,
+      "model": "파우스트",
+      "content": "Sono sicura che Yi Sang lo sappia bene. Quando tutte le possibilità vengono estratte dallo specchio…"
+    },
+    {
+      "id": 19,
+      "model": "이상",
+      "content": "Non ci sono limiti alla propria crescita."
+    },
+    {
+      "id": 20,
+      "model": "이상",
+      "content": "Quello nello specchio è il mio riflesso, o una persona completamente diversa?"
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Possibilità…? Cosa vorreste estrarre, esattamente?>"
+    }
+  ]
+}

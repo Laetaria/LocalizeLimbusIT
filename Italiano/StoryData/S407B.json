@@ -1,0 +1,239 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "As the futile conversations reached an end, the bus lazily pulled to a stop."
+        },
+        {
+            "id": 1,
+            "content": "We’d arrived… in front of a building so tall that it would take a while to count the floors."
+        },
+        {
+            "id": 2,
+            "content": "A few shrank down as if intimidated.\n(I understood Sinclair being one, but Heathcliff and Ishmael also seemed to be pressured.)"
+        },
+        {
+            "id": 3,
+            "content": "A few looked around with curious eyes…"
+        },
+        {
+            "id": 4,
+            "content": "And some others walked and carried themselves as if they knew they deserved royal treatment."
+        },
+        {
+            "id": 5,
+            "place": "Atrio del Laboratorio di K.Corp",
+            "model": "홍루",
+            "content": "Fuhu, I guess we’ve earned some renown. We’re finally being invited to places regular people would live."
+        },
+        {
+            "id": 6,
+            "model": "히스클리프",
+            "content": "Lemme make one thing clear… If the request and the reward’s a load of tosh like the last time, I’m out."
+        },
+        {
+            "id": 7,
+            "content": "Heathcliff ground his teeth, whether by Hong Lu’s words or due to memories of what we got into last time we were here."
+        },
+        {
+            "id": 8,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah, come mi aspettavo, siete in leggero ritardo."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<As expected?>"
+        },
+        {
+            "id": 10,
+            "model": "오티스",
+            "content": "That man is…"
+        },
+        {
+            "id": 11,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "È un piacere incontrarvi di nuovo. Ci tengo a precisare che non è solo una frase di rito, sono sinceramente contento di rivedervi."
+        },
+        {
+            "id": 12,
+            "content": "A familiar face I never expected to see again greeted us."
+        },
+        {
+            "id": 13,
+            "model": "히스클리프",
+            "content": "…I’m out. Already told ya."
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<Give it a moment! Let’s at least hear what he has to say, okay?>"
+        },
+        {
+            "id": 15,
+            "model": "히스클리프",
+            "content": "Let go! Do you even get how it feels to have nightmares about doing the tango with raw chickens? Huh?"
+        },
+        {
+            "id": 16,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "A dirvi la verità, la mia precedente richiesta era una prova allo scopo di valutare le vostre capacità."
+        },
+        {
+            "id": 17,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "E siete passati a massimi voti. Congratulazioni. E sono sincero anche stavolta."
+        },
+        {
+            "id": 18,
+            "model": "히스클리프",
+            "content": "Who are you to test and grade us?! You—"
+        },
+        {
+            "id": 19,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Beh, ovviamente—"
+        },
+        {
+            "id": 20,
+            "model": "동랑",
+            "teller": "???",
+            "title": "???",
+            "content": "Ovviamente la valutazione era a discrezione di Mr. Samjo, il mio segretario spregiudicato. Voi dovete essere quelli di… Limbus Company."
+        },
+        {
+            "id": 21,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "È un piacere fare la vostra conoscenza, mi chiamo Dongrang. Samjo mi ha detto molto di voi—mi ha quasi reso un vostro fan."
+        },
+        {
+            "id": 22,
+            "model": "돈키호테",
+            "content": "Fan??? Didst thou say just now that we have earned thine adoration?"
+        },
+        {
+            "id": 23,
+            "model": "로쟈",
+            "content": "It’s just flattery, Don Quixote…"
+        },
+        {
+            "id": 24,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Se devo essere onesto… mettervi alla prova non è stata una mia idea. Dopotutto, non siete cavie da laboratorio, non vi meritate di essere sottoposti a sperimentazioni involontarie."
+        },
+        {
+            "id": 25,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "È vero, sono stato io a proporre l'idea."
+        },
+        {
+            "id": 26,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non c'era motivo di non farlo, la vostra “Limbus Company” è un'azienda poco nota che… potrebbe essere di fondazione più o meno recente."
+        },
+        {
+            "id": 27,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non potevamo rischiare di affidare ad un'organizzazione ignota una richiesta basandoci solo sulla parola di Mr. Dongrang."
+        },
+        {
+            "id": 28,
+            "model": "이스마엘",
+            "content": "Ahem… So, that means you’re requesting us…"
+        },
+        {
+            "id": 29,
+            "content": "Ishmael asked for confirmation that this was indeed a direct request, her face seeming rather proud."
+        },
+        {
+            "id": 30,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ma certamente. È perché siete tutti…"
+        },
+        {
+            "id": 31,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "……."
+        },
+        {
+            "id": 32,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah, posso mostrarvi il mio laboratorio? Ci sono un sacco di cosette interessanti da vedere."
+        },
+        {
+            "id": 33,
+            "model": "단테",
+            "content": "<Changing the subject so shamelessly is only gonna bother us more…>"
+        },
+        {
+            "id": 34,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ho sentito bene? Vuole davvero mostrare a queste persone il laboratorio?"
+        },
+        {
+            "id": 35,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Perché no? Hanno superato la sua prova o mi sbaglio, Mr. Samjo?"
+        },
+        {
+            "id": 36,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "E se hanno il talento necessario ad abbattere quella cosa che hanno definito un “Anormalità”, come abbiamo visto oggi…"
+        },
+        {
+            "id": 37,
+            "model": "돈키호테",
+            "content": "Aha~ Thou hast heard? My, traces of heroic deeds indeed make themselves known to the masses in no time! Fufu…"
+        },
+        {
+            "id": 38,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Haha, è un modo divertente di vederla."
+        },
+        {
+            "id": 39,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah, e lei deve essere il manager… Dante, è corretto? Posso parlarle per un minuto?"
+        },
+        {
+            "id": 40,
+            "content": "Faust tried to say something to Dongrang, but he and Samjo pulled me far away by the time she stepped forward."
+        }
+    ]
+}

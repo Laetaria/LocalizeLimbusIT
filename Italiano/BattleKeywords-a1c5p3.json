@@ -1,0 +1,130 @@
+{
+    "dataList": [
+        {
+            "id": "AaCePcBa",
+            "name": "Marchio",
+            "desc": "Viene data priorità a questo bersaglio.\nSubendo un colpo, subisce più Potenza e Conteggio Bruciatura pari a 2 volte quanto aveva subito.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBb",
+            "name": "Frammento Fluorescente",
+            "desc": "A Inizio Turno: Ottiene 3 Respiro e +2 Conteggio Respiro",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBc",
+            "name": "Ossessione Cieca",
+            "desc": "Quando il valore è 3+, quest'unità Vacilla.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBg",
+            "name": "Larva",
+            "desc": "A Fine Turno: Larva si sposta all'alleato con i PV più alti.\nA Inizio Turno: Perde PS pari al valore di Larva che ha su sé.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBh",
+            "name": "Muco Verde",
+            "desc": "Genera una Melma Verde il turno successivo ogni volta che questo valore diminuisce",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBi",
+            "name": "Respiro Irregolare",
+            "desc": "A Fine Turno: Perde 5 Respiro.\nInfligge +50% danni e riceve +50% danni",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBj",
+            "name": "Marchio della Preda",
+            "desc": "Tutti i membri della Pequod bersagliano quest'unità\nSubisce +50% danni dai membri della Pequod",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBk",
+            "name": "Groviglio",
+            "desc": "Se quest'effetto viene inflitto ad un bersaglio che ha Cattura, questo Vacilla",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBl",
+            "name": "Cattura",
+            "desc": "Se quest'effetto viene inflitto ad un bersaglio che ha Groviglio, questo Vacilla",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBn",
+            "name": "Comando Incontestabile",
+            "desc": "Perde il 10% dei PV correnti quando usa un'Abilità. Valore Finale Abilità +1\nSul Colpo, Ahab si cura di 8 PS; applica 2 Respiro su sé ed Ahab",
+            "summary": "Perde PV quando usa un'Abilità; Valore Finale +1",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBo",
+            "name": "Ego di Pip",
+            "desc": "A Inizio Turno: Si cura 3 PS per valore.\nIl valore diminuisce quando usa Weight of Guilt dopo aver fallito l'Evasione.\nA Fine Turno: Se il valore è 0, Vacilla.",
+            "summary": "Cura dei PS per valore. Il valore si riduce quando fallisce un'Evasione o dopo aver usato determinate Abilità.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBp",
+            "name": "Ego di Starbuck",
+            "desc": "A Inizio Turno: Ottiene 1 Mitigazione per ogni 5 valore.\nDiminuisce per ogni Moneta distrutta negli Scontri contro i bersagli con Marchio della Preda.\nA Fine Turno: Se il valore è 0, Vacilla.",
+            "summary": "Ottiene Mitigazione per valore. Il valore si riduce quando perde uno Scontro contro determinati bersagli.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBq",
+            "name": "Ego di Queequeg",
+            "desc": "A Fine Turno: Ottiene valore se ha uno Scudo\nA Fine Turno: Perde valore se non ha uno Scudo o quando usa Ammenda Sbiancata.\nA Fine Turno: Se il valore è 0, Vacilla.",
+            "summary": "A Fine Turno: Perde od ottiene valore in base a se ha uno Scudo o meno.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBe",
+            "name": "Panico Pallido",
+            "desc": "Efficenza Perdita PS +2",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBf",
+            "name": "Panico Pallido",
+            "desc": "Ottiene 2 Lentezza a Fine Turno.\nOgni Moneta che viene lanciata da quest'unità cade su croce.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBr",
+            "name": "Barriera Difensiva",
+            "desc": "Riduce il valore in base al danno subito.\nNon termina alla fine del turno.\nA Fine Turno: Se questo valore arriva a 0 durante la 1a fase di Ahab, Vacilla il turno successivo.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBs",
+            "name": "Difesa Assistita",
+            "desc": "Reindirizza le Abilità che bersagliano Ahab sullo slot di questa unità.\nL'unità con quest'effeto ha Peso Slot illimitato.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBt",
+            "name": "Attacco di Supporto",
+            "desc": "Dopo l'attacco di Ahab, inizia un attacco unilaterale contro lo stesso bersaglio che Ahab ha attaccato.\nL'Abilità usata in quest'azione ha lo stesso Livello Offensivo, Potere Moneta ed effetti come l'Abilità 'Eseguo gli ordini...' di quest'unità.",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

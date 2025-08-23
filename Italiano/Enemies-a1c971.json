@@ -1,0 +1,49 @@
+{
+  "dataList": [
+    {
+      "id": 1079,
+      "name": "Sancho",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1080,
+      "name": "Peccatulum Pigritiae??",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1081,
+      "name": "Peccatulum Morositatis??",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1082,
+      "name": "Distorted Hohenheim",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 108201,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 90181,
+      "name": "Censored Lobotomy Corp. L3 Agent",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 90182,
+      "name": "Censored Lobotomy Corp. L3 Agent",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1098,
+      "name": "Peccatulum Invidiae?",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 1100,
+      "name": "Peccatulum Invidiae",
+      "desc": "Nucleo"
+    }
+  ]
+}

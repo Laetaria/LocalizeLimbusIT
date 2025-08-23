@@ -1,0 +1,345 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Una Selva Oscura",
+      "model": "표범",
+      "teller": "Lonza",
+      "title": "???",
+      "content": "Non capisco. Leone ha avuto problemi con questi?"
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "content": "E-ehi, aspetta!"
+    },
+    {
+      "id": 2,
+      "model": "그레고르",
+      "content": "Lo so che è strano detto da uno che appena combattendo, ma sono certo che ne possiamo parla-"
+    },
+    {
+      "id": 3,
+      "model": "그레고르",
+      "content": "……!"
+    },
+    {
+      "id": 4,
+      "model": "이상",
+      "content": "Questo…"
+    },
+    {
+      "id": 5,
+      "model": "이상",
+      "content": "…non è ideale."
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "Aah… sapevo che cercare di battersi contro di loro era un'idea ridicola."
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "……"
+    },
+    {
+      "id": -1,
+      "model": "늑대",
+      "teller": "Lupa",
+      "title": "???",
+      "content": "Quanto vuoi rimanere a terra, Leone? Non c'è tempo."
+    },
+    {
+      "id": -1,
+      "model": "사자",
+      "teller": "Leone",
+      "title": "???",
+      "content": "…Sai cosa, hai ragione. Non serve prolungare questa storia."
+    },
+    {
+      "id": 8,
+      "model": "로쟈",
+      "content": "Mi state prendendo per il culo? Non ho nemmeno…"
+    },
+    {
+      "id": 9,
+      "model": "로쟈",
+      "content": "……"
+    },
+    {
+      "id": 10,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<Che diamine sta succedendo? Hai detto che avreste combattuto al mio posto!>"
+    },
+    {
+      "id": 11,
+      "model": "파우스트",
+      "content": "Non abbiamo mai promesso di vincere."
+    },
+    {
+      "id": 12,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<Cosa…>"
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "Sembra che io sia l'ultima sopravvissuta."
+    },
+    {
+      "id": 14,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<Oookay. Stavi aspettando questo?>"
+    },
+    {
+      "id": 15,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<Hai un'asso nella manica, giusto?>"
+    },
+    {
+      "id": 16,
+      "model": "파우스트",
+      "content": "Non… proprio un'asso, no. Piuttosto…"
+    },
+    {
+      "id": 17,
+      "model": "파우스트",
+      "content": "Basta seguire la stella."
+    },
+    {
+      "id": 18,
+      "model": "표범",
+      "teller": "Lonza",
+      "title": "???",
+      "content": "Cos'è, uno spettacolino suicida? Non è divertente uccidervi."
+    },
+    {
+      "id": 19,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<Che… cosa dovrei fare?>"
+    },
+    {
+      "id": 20,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<Si sono lanciati come degli esaltati solo per morire come mosche…>"
+    },
+    {
+      "id": 21,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<Diamine… Non ricordo nulla del passato, da quando ho ripetuto quello che lei mi ha detto.>"
+    },
+    {
+      "id": -1,
+      "model": "사자",
+      "teller": "Leone",
+      "title": "???",
+      "content": "Aah~ Me la sono presa comoda. E adesso, finiamola davvero!"
+    },
+    {
+      "id": 22,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<È così… che morirò?>"
+    },
+    {
+      "id": 23,
+      "teller": "???",
+      "title": "???",
+      "content": "Dì questo al Serpente, mendace leone."
+    },
+    {
+      "id": 24,
+      "model": "눈이붉은자",
+      "teller": "Uomo dagli Occhi Rossi",
+      "title": "???",
+      "content": "Questo flusso non si può arrestare."
+    },
+    {
+      "id": 25,
+      "model": "사자",
+      "teller": "Leone",
+      "title": "???",
+      "content": "Ggrh… GAAAH!!"
+    },
+    {
+      "id": 26,
+      "model": "늑대",
+      "teller": "Lupa",
+      "title": "???",
+      "content": "Rosso…? Perché?"
+    },
+    {
+      "id": 27,
+      "model": "늑대",
+      "teller": "Lupa",
+      "title": "???",
+      "content": "Argh…"
+    },
+    {
+      "id": 28,
+      "model": "눈이붉은자",
+      "teller": "Uomo dagli Occhi Rossi",
+      "title": "???",
+      "content": "Hai idea del perché abbia ferito solo quelle due?"
+    },
+    {
+      "id": 29,
+      "model": "눈이붉은자",
+      "teller": "Uomo dagli Occhi Rossi",
+      "title": "???",
+      "content": "Perché almeno uno di voi deve essere in grado di portare gli altri via da qui."
+    },
+    {
+      "id": 30,
+      "model": "눈이붉은자",
+      "teller": "Uomo dagli Occhi Rossi",
+      "title": "???",
+      "content": "E tu sei l'unico rimasto che le possa ancora aiutare."
+    },
+    {
+      "id": 31,
+      "model": "표범",
+      "teller": "Lonza",
+      "title": "???",
+      "content": "…Lo Sguardo Rosso."
+    },
+    {
+      "id": 32,
+      "model": "눈이붉은자",
+      "teller": "Uomo dagli Occhi Rossi",
+      "title": "???",
+      "content": "Non guardarmi in quel modo. Questo è niente in confronto a quello che avete fatto."
+    },
+    {
+      "id": 33,
+      "model": "눈이붉은자",
+      "teller": "Uomo dagli Occhi Rossi",
+      "title": "???",
+      "content": "Con delle ferite del genere, sono certo che il vostro capo riconoscerà che hai fatto la tua parte. Considerale come delle medaglie d'onore."
+    },
+    {
+      "id": 34,
+      "model": "눈이붉은자",
+      "teller": "Uomo dagli Occhi Rossi",
+      "title": "???",
+      "content": "A meno che…"
+    },
+    {
+      "id": 35,
+      "model": "눈이붉은자",
+      "teller": "Uomo dagli Occhi Rossi",
+      "title": "???",
+      "content": "Non desideri che la tua vita finisca adesso."
+    },
+    {
+      "id": 36,
+      "model": "표범",
+      "teller": "Lonza",
+      "title": "???",
+      "content": "……"
+    },
+    {
+      "id": 37,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<Chi sei… Sei uno di loro?>"
+    },
+    {
+      "id": 38,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<Sei in ritardo, sono già…>"
+    },
+    {
+      "id": 39,
+      "model": "눈이붉은자",
+      "teller": "Uomo dagli Occhi Rossi",
+      "title": "???",
+      "content": "Nessuno è in ritardo, Dante."
+    },
+    {
+      "id": 40,
+      "model": "눈이붉은자",
+      "teller": "Uomo dagli Occhi Rossi",
+      "title": "???",
+      "content": "Ci serve una sola cosa…"
+    },
+    {
+      "id": 41,
+      "model": "눈이붉은자",
+      "teller": "Uomo dagli Occhi Rossi",
+      "title": "???",
+      "content": "Che il tempo venga riavvolto."
+    },
+    {
+      "id": 42,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<…!>"
+    },
+    {
+      "id": 43,
+      "content": "<color=#b01c37>All'improvviso, mi colpì un dolore acuto al petto, come se il mio cuore venisse strappato in mille pezzi.</color>"
+    },
+    {
+      "id": 44,
+      "content": "<color=#b01c37>Seguito da colpi nelle costole, intestino, stomaco, e polmoni.</color>"
+    },
+    {
+      "id": 45,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<AAAAAAH!!!>"
+    },
+    {
+      "id": 46,
+      "content": "Un torrente di sofferenza mi travolse, schiacciando e stritolando tutto il mio corpo. Emisi un'urlo straziante."
+    },
+    {
+      "id": 47,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Io",
+      "content": "<Tu… Grgh…>"
+    },
+    {
+      "id": 48,
+      "content": "Mentra perdevo conoscenza, le uniche cose che percepii…"
+    },
+    {
+      "id": 49,
+      "content": "…Erano le membra dei morti che si ricomponevano in modo bizzarro."
+    },
+    {
+      "id": 50,
+      "model": "눈이붉은자",
+      "teller": "Uomo dagli Occhi Rossi",
+      "title": "???",
+      "content": "Soffrirai in modo indicibile da questo momento, Dante."
+    },
+    {
+      "id": 51,
+      "content": "…E la voce dell'uomo dagli occhi rossi."
+    }
+  ]
+}

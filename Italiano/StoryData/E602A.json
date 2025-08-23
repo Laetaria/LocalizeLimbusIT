@@ -1,0 +1,164 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Stradine di T Corp.",
+      "content": "Un'impiegato di T Corp. con un'altro tipo di uniforme si è avvicinato ai Peccatori, quando entrambi i lati si sono messi sulla difensiva."
+    },
+    {
+      "id": 1,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "……."
+    },
+    {
+      "id": 2,
+      "model": "오티스",
+      "content": "Sarebbe lui il loro capo?"
+    },
+    {
+      "id": 3,
+      "model": "이상",
+      "content": "Anche se di grado maggiore, resta solo un'altro impiegato di T Corp."
+    },
+    {
+      "id": 4,
+      "model": "이상",
+      "content": "Il che vuol dire che la nostra insistenza nel rispondere alle loro richieste con ostilità potrebbe portarci ad un confronto diretto con l'intera potenza della T Corp..."
+    },
+    {
+      "id": 5,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "Abbassate le armi."
+    },
+    {
+      "id": 6,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "Se doveste rifiutare di cooperare, tutti i presenti saranno considerati soggetti ostili alla T Corp., e dovremo usare la forza per..."
+    },
+    {
+      "id": 7,
+      "model": "료슈",
+      "content": "Heheheh... Mi piace. Interessante."
+    },
+    {
+      "id": 8,
+      "model": "로쟈",
+      "content": "Ah... non mi piace..."
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<Questo sarebbe il momento perfetto per Vergilius ed i suoi spaventosi occhi rossi di entrare—>"
+    },
+    {
+      "id": 10,
+      "model": "뫼르소",
+      "content": "—in scena."
+    },
+    {
+      "id": 11,
+      "model": "그레고르",
+      "content": "Ragazzi, le cose non erano migliorate tra noi e la guida qualche giorno fa? Sembra passato un secolo da allora."
+    },
+    {
+      "id": 12,
+      "model": "로쟈",
+      "content": "Eddai, non ci fissare così. Abbiamo le nostre ragioni, 'kay? Sono spuntati così dal nulla e ci hanno provato a estorcere addirittura dieci bilioni di Ahn—"
+    },
+    {
+      "id": 13,
+      "model": "T사2등급",
+      "teller": "Personale Riscossioni di Classe 2",
+      "title": "T Corp.",
+      "content": "... Dieci Bilioni e Quaranta Milioni di Ahn, per esattezza."
+    },
+    {
+      "id": 14,
+      "model": "그레고르",
+      "content": "Ti piace proprio dirlo, eh? Insomma..."
+    },
+    {
+      "id": 15,
+      "model": "로쟈",
+      "content": "Sisisì. Il punto è, non ci credo che gli dobbiamo tutti quei soldi! Siamo bravi ed onesti cittadini..."
+    },
+    {
+      "id": 16,
+      "model": "돈키호테",
+      "content": "Rigonfi di un senso di Giustizia!"
+    },
+    {
+      "id": 17,
+      "model": "로쟈",
+      "content": "Senti qua~!"
+    },
+    {
+      "id": 18,
+      "content": "Vergilius stava ascoltando silenziosamente, mentre le Peccatrici continuavano a parlare come se fossero in una scenetta comica."
+    },
+    {
+      "id": 19,
+      "model": "베르길리우스",
+      "content": "Sì, capisco che dieci bilioni di Ahn di tasse siano improponibili, però..."
+    },
+    {
+      "id": 20,
+      "model": "베르길리우스",
+      "content": "...Non riesco proprio a capire come nessuno qui abbia pensato per un'attimo ai problemi che una rissa inutile come questa potrebbe causare. Ed in mezzo alla strada, per giunta."
+    },
+    {
+      "id": 21,
+      "model": "그레고르",
+      "content": "Mmm..."
+    },
+    {
+      "id": 22,
+      "model": "베르길리우스",
+      "content": "Haaah..."
+    },
+    {
+      "id": 23,
+      "content": "Vergilius emise un lungo sospiro, per poi girarsi verso l'impiegato della T Corp.."
+    },
+    {
+      "id": 24,
+      "model": "베르길리우스",
+      "content": "... Trovo spiacevole che questo incidente sia risultato in uno spargimento di sangue."
+    },
+    {
+      "id": 25,
+      "model": "베르길리우스",
+      "content": "Eppure, dieci bilioni di Ahn di Tassa Temporale... è inaccettabile."
+    },
+    {
+      "id": 26,
+      "model": "베르길리우스",
+      "content": "Sono sicuro che capiate chiaramente che dieci bilioni di Ahn in tasse non è una cifra da poter pagare in mezzo ad una strada."
+    },
+    {
+      "id": 27,
+      "model": "베르길리우스",
+      "content": "Sarebbe stato più consono darci un'idea di come si è arrivati a quella cifra, invece di arrivare a muso duro e ordinarci di pagare la Tassa Temporale."
+    },
+    {
+      "id": 28,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "... Ammetto che la cifra richiesta al vostro gruppo non... si è quasi mai vista. Ci hanno convocato per una riunione di emergenza nei nostri uffici, per discutere della serietà dell'incidente."
+    },
+    {
+      "id": 29,
+      "model": "T사4등급",
+      "teller": "Personale Riscossioni di Classe 4",
+      "title": "T Corp.",
+      "content": "Capisco. Perché non continuiamo a discutere delle possibili soluzioni nell'Ufficio Riscossioni interessato?"
+    }
+  ]
+}

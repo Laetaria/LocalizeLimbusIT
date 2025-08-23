@@ -1,0 +1,437 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Un Corridoio a N Corp.",
+            "model": "구보",
+            "teller": "Gubo",
+            "title": "N Corp.",
+            "content": "Hai deciso di andartene, mio sciocco amico?"
+        },
+        {
+            "id": 1,
+            "model": "이상",
+            "content": "They were words not meant to persuade me, but merely to pounce at me..."
+        },
+        {
+            "id": 2,
+            "model": "이상",
+            "content": "Although they did not hurt, they may have left a mark."
+        },
+        {
+            "id": 3,
+            "model": "구보",
+            "teller": "Gubo",
+            "title": "N Corp.",
+            "content": "Non hai nessun posto a cui tornare, dove stai trascinando quella carcassa che chiami corpo?"
+        },
+        {
+            "id": 4,
+            "model": "구보",
+            "teller": "Gubo",
+            "title": "N Corp.",
+            "content": "Credi davvero che riuscirai a trovare un luogo da chiamare casa, ovunque tu stia andando?"
+        },
+        {
+            "id": 5,
+            "model": "구보",
+            "teller": "Gubo",
+            "title": "N Corp.",
+            "content": "In tal caso, goditi il tuo riposo."
+        },
+        {
+            "id": 6,
+            "model": "구보",
+            "teller": "Gubo",
+            "title": "N Corp.",
+            "content": "Mi rivedrai al calare del crepuscolo."
+        },
+        {
+            "id": 7,
+            "model": "이상",
+            "content": "With that, I parted from Gubo, who was my last remaining compatriot."
+        },
+        {
+            "id": 8,
+            "model": "이상",
+            "content": "I was thoroughly isolated."
+        },
+        {
+            "id": 9,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "E così, siamo tutti rimasti soli."
+        },
+        {
+            "id": 10,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "E solo allora..."
+        },
+        {
+            "id": 11,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Alla fine."
+        },
+        {
+            "id": 12,
+            "place": "K Corp. Laboratory",
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Era giunto il mio momento."
+        },
+        {
+            "id": 13,
+            "model": "싱클레어",
+            "content": "...This is the part where Mr. Dongrang hands the glass technology over to K Corp."
+        },
+        {
+            "id": 14,
+            "model": "싱클레어",
+            "content": "We were in the League's shoes if only for a short while, so we know what's been going on."
+        },
+        {
+            "id": 15,
+            "place": "Lega dei Nove letterati Turbolenta",
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "...Ma devo ammettere... Che è amareggiante sentirteli definire giochi per bambini.."
+        },
+        {
+            "id": 16,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non lo diresti se sapessi che gli animali sentono il nostro stesso dolore."
+        },
+        {
+            "id": 17,
+            "place": "Lega dei Nove Letterati in Declino",
+            "model": "과거동백",
+            "teller": "Dongbaek",
+            "title": "League of Nine Littérateurs",
+            "content": "Dongrang, don't make clumsy attempts unless you're planning to save everyone in the City."
+        },
+        {
+            "id": 18,
+            "model": "과거동백",
+            "teller": "Dongbaek",
+            "title": "League of Nine Littérateurs",
+            "content": "If I thought this measly technology had what it takes to give every single person the help they needed, I would've given my all for it."
+        },
+        {
+            "id": 19,
+            "model": "과거동백",
+            "teller": "Dongbaek",
+            "title": "League of Nine Littérateurs",
+            "content": "But... you think that'll change anything? The world will still be a terrible mess."
+        },
+        {
+            "id": 20,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non c'era niente di male nell'aver sofferto. Non avrei mai dovuto sforzare il mio corpo ed il mio spirito per curare gli altri. Sono stato davvero stupido, non credi?"
+        },
+        {
+            "id": 21,
+            "model": "과거동백",
+            "teller": "Dongbaek",
+            "title": "League of Nine Littérateurs",
+            "content": "Then you should've braced for it! Have the guts to bite your tongue and die if you couldn't stand to survive alone in the hometown!"
+        },
+        {
+            "id": 22,
+            "place": "Laboratrio di K Corp.",
+            "model": "그레고르",
+            "content": "Yup, looks like Dongrang's..."
+        },
+        {
+            "id": 23
+        },
+        {
+            "id": 24,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Perché quella faccia sorpresa? Immagino tu abbia sentito delle storie sulla Singolarità della nostra Ala."
+        },
+        {
+            "id": 25,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "...Vederla di persona è diverso. Non avrei mai immaginato di arrivare fin qui..."
+        },
+        {
+            "id": 26,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Sì, la maggior parte delle persone ha una reazione simile. Piuttosto... ricordami di cosa sei capace?"
+        },
+        {
+            "id": 27,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah, la tecnologia che ho inventato si basa su..."
+        },
+        {
+            "id": 28,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Essendo stato un membro della Lega dei Nove, le mie aspettative nei tuoi confronti sono molte alte. Quel... Young-ji è ancora disperso, se non sbaglio."
+        },
+        {
+            "id": 29,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "...Sì, non sappiamo nulla di lui."
+        },
+        {
+            "id": 30,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Un vero peccato che la Lega si sia sciolta... Ma è una fortuna essere riusciti a reclutare uno dei suoi membri."
+        },
+        {
+            "id": 31,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "La Lega dei nove... Rimarrà per sempre un'ombra nella mia vita. Nel passato e nel presente..."
+        },
+        {
+            "id": 32,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Tra l'altro, vedere tutto questo mi ha fatto venire in mente una cosa che mi piangeva addosso nella stessa maniera..."
+        },
+        {
+            "id": 33,
+            "model": "알폰소",
+            "teller": "Alfonso",
+            "title": "K Corp.",
+            "content": "Dongrang?"
+        },
+        {
+            "id": 34,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Oh... Voglio dire, il motivo per cui sono qui..."
+        },
+        {
+            "id": 35
+        },
+        {
+            "id": 36,
+            "model": "이스마엘",
+            "content": "The thing that used to cry at Dongrang..."
+        },
+        {
+            "id": 37,
+            "model": "이스마엘",
+            "content": "He must mean the yellow calf..."
+        },
+        {
+            "id": 38,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Haha. E adesso cosa cerchi di fare?"
+        },
+        {
+            "id": 39,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "La Lega dei Nove si è sciolta, e la recita è finita. Non interpreti più Yurang."
+        },
+        {
+            "id": 40,
+            "model": "이스마엘",
+            "content": "You're right, I guess I got too immersed and felt like I was one of your \"companions\" for a second."
+        },
+        {
+            "id": 41,
+            "model": "이스마엘",
+            "content": "You said you fulfilled your wish, but it didn't seem that way to me no matter which way I looked at it."
+        },
+        {
+            "id": 42,
+            "model": "이스마엘",
+            "content": "Did you feel the same when you saved that calf?"
+        },
+        {
+            "id": 43,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non sai di cosa stai parlando. Non ho salvato quella bestiola aspettandomi una ricompensa."
+        },
+        {
+            "id": 44,
+            "model": "히스클리프",
+            "content": "You think we don't know that? You saved the poor creature right before it got crushed to death 'cause you felt like it. I remember when we took turns feeding it milk."
+        },
+        {
+            "id": 45,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ai tempi ero convinto che fosse giusto salvare le vite altrui senza chiedere nulla in cambio."
+        },
+        {
+            "id": 46,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Forse non è stato solo il mio lavoro a bruciare nell'inceneritore, quel giorno."
+        },
+        {
+            "id": 47,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Il giardino che ho coltivato nel mio cuore si è ridotto anch'esso in cenere."
+        },
+        {
+            "id": 48,
+            "model": "이상",
+            "content": "Taking a backward glance at our trails... all of us have been suffering great losses."
+        },
+        {
+            "id": 49,
+            "model": "이상",
+            "content": "Failing to see... what needed to be seen."
+        },
+        {
+            "id": 50,
+            "model": "이상",
+            "content": "Allow me to apologize. For casting only slantwise glances."
+        },
+        {
+            "id": 51,
+            "model": "이상",
+            "content": "We were all falling into ruin all the same, and you were no different... I did not realize it then."
+        },
+        {
+            "id": 52,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "……"
+        },
+        {
+            "id": 53,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "...Tu credi che in questo momento quel bovino stia pascolando felicemente in qualche campo?"
+        },
+        {
+            "id": 54,
+            "model": "오티스",
+            "content": "I'm sure of it. He'll be waiting for you, even if you won't go back."
+        },
+        {
+            "id": 55,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non credo... che mi riconoscerebbe..."
+        },
+        {
+            "id": 56,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non sono più l'uomo che ero una volta."
+        },
+        {
+            "id": 57,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Sì, hai ragione. Tutti i premi e i trofei sulla mia scrivania, memento della mia eccellenza, non sono altro che gusci vuoti."
+        },
+        {
+            "id": 58,
+            "model": "동랑",
+            "teller": "Dongrang, che Rinnega Ogni Cosa",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Nonostante trasudino gloria e successo... dentro sono vuoti. Non avrei mai ottenuto quei gusci se non fossi stato un membro della Lega."
+        },
+        {
+            "id": 59,
+            "model": "동랑",
+            "teller": "Dongrang, che Rinnega Ogni Cosa",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "È per questo che preferisco le fotografie. Loro... contengono la mia immagine pura ed onesta."
+        },
+        {
+            "id": 60,
+            "model": "동랑",
+            "teller": "Dongrang, che Rinnega Ogni Cosa",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non so più nemmeno da quanto, ma ormai, quando guardo in cielo... Non vedo nulla. Come se fossi sommerso da un'immensa ombra..."
+        },
+        {
+            "id": 61,
+            "model": "싱클레어",
+            "content": "Who is... Mr. Dongrang talking to...?"
+        },
+        {
+            "id": 62,
+            "model": "단테",
+            "content": "<This time... It doesn't seem to be me.>"
+        },
+        {
+            "id": 63,
+            "model": "돈키호테",
+            "content": "I... might know what is about to transpire."
+        },
+        {
+            "id": 64,
+            "model": "돈키호테",
+            "content": "That man is heading toward distortion..."
+        },
+        {
+            "id": 65,
+            "model": "파우스트",
+            "content": "Certainly, and the distortion... might not be the terminus, but rather a step in a process."
+        },
+        {
+            "id": 66,
+            "model": "싱클레어",
+            "content": "Then... I-Is there any way we can help..."
+        },
+        {
+            "id": 67,
+            "model": "파우스트",
+            "content": "To stop him from going astray in this space where mental images take physical form."
+        },
+        {
+            "id": 68,
+            "model": "파우스트",
+            "content": "As we do, he will naturally come to accept that what lies ahead is his path."
+        },
+        {
+            "id": 69,
+            "model": "파우스트",
+            "content": "That is how we can help him."
+        }
+    ]
+}

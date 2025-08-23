@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10805_1",
+            "desc": "Identità Ottenuta",
+            "dlg": "Haah... Please hold that laughter. Does it look like I wore this because I liked it?"
+        },
+        {
+            "id": "lobby_morning_10805_1",
+            "desc": "Saluto Mattutino",
+            "dlg": "It's morning, and I already feel like ass... Oh, sorry, did you hear that? But... it really is true."
+        },
+        {
+            "id": "lobby_noon_10805_1",
+            "desc": "Saluto Pomeridiano",
+            "dlg": "You know, this sticky thing tastes awful.\nHow do I know...? I couldn't be bothered to take it off during lunchtime, and... let's stop here."
+        },
+        {
+            "id": "lobby_night_10805_1",
+            "desc": "Saluto Serale",
+            "dlg": "Upsides, you ask... Check this out. The wings glow. Don't have to turn on the lights at night. I guess that's the one upside it has."
+        },
+        {
+            "id": "smalltalk_10805_1",
+            "desc": "Chiacchere #1",
+            "dlg": "Weirdly enough... while it drags my mood down to the bottom of the barrel, it's not actually as heavy as it looks."
+        },
+        {
+            "id": "smalltalk_10805_2",
+            "desc": "Chiacchere #2",
+            "dlg": "Ahah! ...L-Leave me alone, please... Haah, I keep laughing like drunkards ever since I put this on. It sucks."
+        },
+        {
+            "id": "smalltalk_10805_3",
+            "desc": "Chiacchere #3",
+            "dlg": "...How many times do you have to ask? I can't fly. I mean, look how small these wings are, and... Haah, forget it."
+        },
+        {
+            "id": "smalltalk_10805_4",
+            "desc": "Chiacchiere Livello Legame 1",
+            "dlg": "Mmm... A glass of fairy wine... What makes me keep saying this stuff? Manager! You know the answer, right?!"
+        },
+        {
+            "id": "smalltalk_10805_5",
+            "desc": "Chiacchiere Livello Legame 2",
+            "dlg": "I still don't know why I have to use this thing... but, it does get more familiar as I keep using it.\nNo! I am NOT talking about this jelly-like thing, I specifically mean the weapon!"
+        },
+        {
+            "id": "gacksung_10805_1",
+            "desc": "Aumento Legame Liv. 3",
+            "dlg": "Oh, joy... I get recognition for this nonsense... Not sure how I should feel about it."
+        },
+        {
+            "id": "neglect_10805_1",
+            "desc": "Inattività",
+            "dlg": "Haah... I don't even feel like sitting, this thing sticks to chairs if I try..."
+        },
+        {
+            "id": "formation_10805_1",
+            "desc": "Schieramento in Team",
+            "dlg": "Let's go free some technology. I'm not too used to this, so... I might be a bit slow."
+        },
+        {
+            "id": "battleentry_10805_1",
+            "desc": "Entrata nella Sezione",
+            "dlg": "Ugh... It's gooey."
+        },
+        {
+            "id": "battle_select_10805_1",
+            "desc": "Selezione in Battaglia",
+            "dlg": "Not in the mood, please make it short."
+        },
+        {
+            "id": "battle_endcommand_10805_1",
+            "desc": "Inizio Attacco",
+            "dlg": "Here I go!"
+        },
+        {
+            "id": "battle_enemy_break_10805_1",
+            "desc": "Nemico Vacillante",
+            "dlg": "A toast! ...I mean, a clean hit, right?"
+        },
+        {
+            "id": "battle_break_10805_1",
+            "desc": "Vacilla",
+            "dlg": "Bwegh..."
+        },
+        {
+            "id": "battle_kill_10805_1",
+            "desc": "Nemico Ucciso",
+            "dlg": "Knocked out by the booze."
+        },
+        {
+            "id": "battle_dead_10805_1",
+            "desc": "Morte Alleato",
+            "dlg": "Bah... You had to keep being sticky... to the bitter end..."
+        },
+        {
+            "id": "choice_success_p_10805_2",
+            "desc": "Prova Superata",
+            "dlg": "Observing with gluey tenacity paid off."
+        },
+        {
+            "id": "choice_fail_n_10805_1",
+            "desc": "Prova Non Superata",
+            "dlg": "Ugh, it's this thing's fault for getting in the way."
+        },
+        {
+            "id": "battle_clear_10805_1",
+            "desc": "Vittoria",
+            "dlg": "Phew. That's dealt with somehow. ...This will help free more technologies, right?"
+        },
+        {
+            "id": "battle_clear_ex_10805_1",
+            "desc": "Condizioni Extra Soddisfatte",
+            "dlg": "Ahah! Now that that's done, let's drink some fairy... Oh, there I go again with the twaddle... Let's get back."
+        },
+        {
+            "id": "battle_defeat_10805_1",
+            "desc": "Sconfitta",
+            "dlg": "Damn it... We've failed to liberate. Nothing is working out."
+        }
+    ]
+}

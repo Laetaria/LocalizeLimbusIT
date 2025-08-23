@@ -1,0 +1,200 @@
+{
+  "dataList": [
+    {
+      "id": 9732,
+      "name": "Buono Sconto per Seconda Classe",
+      "desc": "Alla Fine del Turno: tra le Identità con 5- Velocità, quella più lenta ottiene 1 [Agility] al turno successivo.",
+      "simpleDesc": [
+        {
+          "abilityID": 9732,
+          "simpleDesc": "Ottiene 1 Rapidità al turno successivo"
+        }
+      ]
+    },
+    {
+      "id": 9733,
+      "name": "Gelato in Scatola",
+      "desc": "Quando un alleato perde PV a causa dell'effetto delle sue stesse Abilità, cura metà dei PV persi a causa dell'Abilità all'Inizio del Turno successivo. (arrotondato per difetto)\n\nQuando un alleato cura dei PV per gli effetti di un'Abilità E.G.O, ottiene +12.5% PV extra. (arrotondato per difetto)",
+      "simpleDesc": [
+        {
+          "abilityID": 9733,
+          "simpleDesc": "Cura PV all'Inizio del Turno successivo"
+        },
+        {
+          "abilityID": 97331,
+          "simpleDesc": "Potenzia le cure PV degli E.G.O"
+        }
+      ]
+    },
+    {
+      "id": 9734,
+      "name": "Daga Dimensionale di Tipo E",
+      "desc": "L'Abilità 1 che fa ottenere Conteggio [Charge] o 'Caric​​a Speciale' ottiene Potere Scontro +1 ed infligge +5% danno.\n\nSe l'Abilità 1 in questione ha una sola moneta, ottiene invece Potere Scontro +1 ed infligge +12.5% danni.\n\nSe un'Identità della W Corp. ha inflitto danno utilizzando un'Abilità Invidia (E.G.O inclusi), essa infligge anche 2 Cure PV Ridotte. (non si accumula)",
+      "simpleDesc": [
+        {
+          "abilityID": 9734,
+          "simpleDesc": "L'Abilità 1 ottiene Potere Scontro e più danno"
+        },
+        {
+          "abilityID": 97341,
+          "simpleDesc": "L'Abilità 1 ottiene Potere Scontro e più danno"
+        },
+        {
+          "abilityID": 97342,
+          "simpleDesc": "infligge 2 Cure PV Ridotte"
+        }
+      ]
+    },
+    {
+      "id": 9735,
+      "name": "Batteria per Barriera Portatile",
+      "desc": "L'Abilità 1 che fa ottenere Conteggio [Charge] o 'Caric​​a Speciale' ottiene Potere Scontro +1.\n\nQuando si utilizza un'Abilità 1 che genera Conteggio [Charge], guadagna invece +2 Conteggio [Charge] ed 1 [ChargeForceField]. (una volta per turno)\n\nSe un'Identità della W Corp. subisce danni ai PV per via di qualsiasi effetto eccetto danni diretti, essa guadanga 5 [ChargeForceField]. (una volta per turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9735,
+          "simpleDesc": "L'Abilità 1 ottiene Potere Scontro, Conteggio Carica e Scudo Energetico"
+        },
+        {
+          "abilityID": 97351,
+          "simpleDesc": "Ottiene Scudo Energetico"
+        }
+      ]
+    },
+    {
+      "id": 9736,
+      "name": "Batteria Biorigenerante",
+      "desc": "Gli alleati con Conteggio [Charge] o 'Caric​​a Speciale' ottengono 1 Aumento Offensivo con ogni Scontro. (max 6. Si resetta dopo gli attacchi)\n\nAlla Fine del Turno: le Identità con 10+ (Conteggio [Charge] + 'Caric​​a Speciale') ottengono 1 [Agility] al turno successivo. A 18+ (Conteggio [Charge] + 'Caric​​a Speciale'), ottengono anche 3 [AttackUp].",
+      "simpleDesc": [
+        {
+          "abilityID": 9736,
+          "simpleDesc": "Ottiene Aumento Offensivo"
+        },
+        {
+          "abilityID": 97361,
+          "simpleDesc": "Ottiene Rapidità"
+        },
+        {
+          "abilityID": 97362,
+          "simpleDesc": "Ottiene Aumento Offensivo"
+        }
+      ]
+    },
+    {
+      "id": 9737,
+      "name": "Modulo Stimolante Cardiovascolare",
+      "desc": "Quando un alleato con Conteggio [Charge] o 'Caric​​a Speciale' perde uno Scontro, questo ottiene Scudo pari a (Conteggio [Charge] + 'Caric​​a Speciale'). (una volta per turno)\n\nQuando si trova a 50%- PV, ottiene invece ((Conteggio [Charge] + 'Caric​​a Speciale') x 2) Scudo. (una volta per turno)\n\nSe un'Identità dell'Ufficio MultiCrack riceve danni ai PV durante l'Incontro: al prossimo turno, si cura 33% dei PV persi il turno precedente. (arrotondato per difetto)",
+      "simpleDesc": [
+        {
+          "abilityID": 9737,
+          "simpleDesc": "Ottiene Scudo"
+        },
+        {
+          "abilityID": 97371,
+          "simpleDesc": "Si cura in base ai PV persi il turno precedente"
+        }
+      ]
+    },
+    {
+      "id": 9738,
+      "name": "Giuntura per Protesi Meccanica",
+      "desc": "Al Turno Successivo: gli alleati ottengono [Agility] e Conteggio [Charge] pari al numero di Abilità Attacco utilizzate in questo turno che includono accumlo di [Charge] o 'Caric​​a Speciale'. (max 2)\n\nQuando un'Identità dell'Ufficio MultiCrack ottiene o consuma Conteggio [Charge] utilizzando un'Abilità Attacco base, ottiene +1 Conteggio [Charge] in più. (max 2)",
+      "simpleDesc": [
+        {
+          "abilityID": 9738,
+          "simpleDesc": "Ottiene Rapidità e Conteggio Carica"
+        },
+        {
+          "abilityID": 97381,
+          "simpleDesc": "Ottiene più Conteggio Carica"
+        }
+      ]
+    },
+    {
+      "id": 9739,
+      "name": "Sangue Cristallizzato",
+      "desc": "Alla Fine del Turno: se questo personaggio ha [Laceration], dimezza la Potenza [Laceration] su di sè e si cura di (Potenza [Laceration] ridotta x Conteggio [Laceration] su sè) PV. (arrotondato per difetto. Si cura fino al 10% dei PV massimi in una volta sola)",
+      "simpleDesc": [
+        {
+          "abilityID": 9739,
+          "simpleDesc": "Dimezza Potenza Sanguinamento e cura PV"
+        }
+      ]
+    },
+    {
+      "id": 9740,
+      "name": "Giunture Cibernetiche",
+      "desc": "All'Inizio dell'Incontro: Questo Dono si attiva quando 5 o più Identità hanno Abilità Attacco che permette di ottenere Conteggio [Charge] o 'Caric​​a Speciale'. (Abilità E.G.O escluse, vale solo per le Identità sul campo all'Inizio dell'Incontro)\n\nLe Abilità Base che consumano Conteggio [Charge] o 'Caric​​a Speciale': ottengono Attacco Aumentato Moneta +1 ed infliggono +(somma conteggio [Charge] e 'Caric​​a Speciale' consumata dalle Abilità x 4)% danno (max 40%)\n\nAlla Fine del Turno: gli alleati con Conteggio [Charge] o 'Caric​​a Speciale' ottengono 1 [Agility] (max 2) ed 1 [AttackDmgUp] (max 3) per ogni volta che hanno utilizzato un'Abilità Attacco base che conusuma Conteggio [Charge] o 'Caric​​a Speciale' durante questo Incontro.\n\nSe un'Identità dell'Ufficio MultiCrack ha 5+ [Charge], questa ottiene Attacco Aumentato Moneta +1 per le Abilità Attacco base.",
+      "simpleDesc": [
+        {
+          "abilityID": 9740,
+          "simpleDesc": "Ottiene Potenziameno Moneta ed infligge più danno"
+        },
+        {
+          "abilityID": 97401,
+          "simpleDesc": "Ottiene Rapidità e Danno Aumentato il turno successivo"
+        },
+        {
+          "abilityID": 97402,
+          "simpleDesc": "Ottiene Potenziameno Moneta"
+        }
+      ]
+    },
+    {
+      "id": 9741,
+      "name": "Batteria Sovraccarica",
+      "desc": "All'Inizio dell'Incontro: Questo Dono si attiva quando 5 o più Identità hanno Abilità Attacco che permette di ottenere Conteggio [Charge] o 'Caric​​a Speciale'. (Abilità E.G.O escluse, vale solo per le Identità sul campo all'Inizio dell'Incontro)\n\nLe Abilità Base che consumano Conteggio [Charge] o 'Caric​​a Speciale': ottengono Attacco Aumentato Moneta +1 ed infliggono +(somma Conteggio [Charge] e 'Caric​​a Speciale' consumata dalle Abilità x 4)% danno (max 40%)\n\nQuando degli alleati con Conteggio [Charge] o 'Caric​​a Speciale' prendono parte agli Scontri con Abilità Attacco base: Potere Scontro +2; ottengono +3 Conteggio [Charge] vincendo Scontri, e perdono 6 Conteggio [Charge] perdendo Scontri.\n\nQuando viene vinto uno Scontro utilizzando un'Abilità Attacco base con Affinità Invidia, infligge 1 [VioletTakeDamageUp]. (si accumula fino a 3 volte)",
+      "simpleDesc": [
+        {
+          "abilityID": 9741,
+          "simpleDesc": "Ottiene Attacco Aumentato Moneta ed infligge più danno"
+        },
+        {
+          "abilityID": 97411,
+          "simpleDesc": "Ottiene Potere Scontro; ottiene Conteggio Carica vincendo Scontri, perde Conteggio perdendo Scontri"
+        },
+        {
+          "abilityID": 97412,
+          "simpleDesc": "Infligge Vulnerabilità Invidia"
+        }
+      ]
+    },
+    {
+      "id": 9742,
+      "name": "Generatore Perpetuo Cibernetico",
+      "desc": "All'Inizio dell'Incontro: Questo Dono si attiva quando 5 o più Identità hanno Abilità Attacco che permettono di ottenere Conteggio [Charge] o 'Caric​​a Speciale'. (Abilità E.G.O escluse, vale solo per le Identità sul campo all'Inizio dell'Incontro)\n\nAbilità Base che consumano Conteggio [Charge] o 'Caric​​a Speciale': ottengono Attacco Aumentato Moneta +1 ed infliggono +(somma Conteggio [Charge] e 'Caric​​a Speciale' consumata dalle Abilità x 4)% danno (max 40%)\n\nQuando degli alleati con Conteggio [Charge] o 'Caric​​a Speciale' prendono parte a Scontri con Abilità Attacco base: Potere Scontro +1; ottengono 2 [AttackUp] all'Inizio del Turno per ogni volta che è stato vinto uno Scontro durante questo Incontro. (max 6)\n\nSe durante l'Incontro un alleato subisce danni che lo ucciderebbero, consuma tutto il Conteggio [Charge] e 'Caric​​a Speciale' che possiede; dopodiché si cura del (10 + somma Conteggio [Charge] e 'Caric​​a Speciale' consumati)%  PV (una volta per Incontro); successivamente, ottiene 3 [Protection] finquando non viene sconfitto.",
+      "simpleDesc": [
+        {
+          "abilityID": 9742,
+          "simpleDesc": "Ottiene Attacco Aumentato Moneta ed infligge più danno"
+        },
+        {
+          "abilityID": 97421,
+          "simpleDesc": "Ottiene Potere Scontro ed Aumento Offensivo"
+        },
+        {
+          "abilityID": 97422,
+          "simpleDesc": "Subito prima di morire, consuma il Conteggio Carica per curarsi ed ottenere Mitigazione"
+        }
+      ]
+    },
+    {
+      "id": 9743,
+      "name": "Gioiello ad Alimentazione Cardiaca",
+      "desc": "All'Inizio dell'Incontro: Questo Dono si attiva quando 5 o più Identità hanno Abilità d'Attacco che permettono di ottenere Conteggio [Charge] o 'Caric​​a Speciale'. (Abilità E.G.O escluse, vale solo per le Identità sul campo all'Inizio dell'Incontro)\n\nLe Abilità Base che consumano Conteggio [Charge] o 'Caric​​a Speciale': ottengono Attacco Aumentato Moneta +1 ed infliggono +(somma Conteggio [Charge] e 'Caric​​a Speciale' consumata dalle Abilità x 4)% danno (max 40%)\n\nQuando degli alleati hanno 15+ Conteggio ([Charge] + 'Caric​​a Speciale'): quando si utilizza un'Abilità 3 che consuma Conteggio [Charge] o 'Carica unica' e se rimane del Conteggio [Charge] o 'Caric​​a Speciale', dopo l'Attacco, consuma tutto il Conteggio [Charge] e 'Caric​​a Speciale' rimanente per infliggere (somma Conteggio [Charge] e 'Caric​​a Speciale' consumate x 7.5)% danno bonus. (max 75%)\n\nConteggio [Charge] massime +5.",
+      "simpleDesc": [
+        {
+          "abilityID": 9743,
+          "simpleDesc": "Ottiene Attacco Aumentato Moneta ed infligge più danno"
+        },
+        {
+          "abilityID": 97431,
+          "simpleDesc": "Consuma Conteggio Carica extra per infliggere ulteriori danni"
+        },
+        {
+          "abilityID": 97432,
+          "simpleDesc": "Conteggio Carica massime +5"
+        }
+      ]
+    }
+  ]
+}

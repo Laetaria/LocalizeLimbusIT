@@ -1,0 +1,764 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Sala Proiezione ",
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Kaff... Koff..."
+        },
+        {
+            "id": 1,
+            "model": "오티스",
+            "content": "Hemoptysis. An optimistic sign."
+        },
+        {
+            "id": 2,
+            "model": "파우스트",
+            "content": "Even with the repeated training with Qliphoth deterrence, abuse of E.G.O will still push the user's body to the limit."
+        },
+        {
+            "id": 3,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ora ci restituirai il Ramo Dorato, Dongbaek?"
+        },
+        {
+            "id": 4,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Era previsto che lo cedessi ai miei ospiti come da contratto, firmato e coperto da qualche complessa marca da bollo... Non posso semplicemente rimangiarmi la parola."
+        },
+        {
+            "id": 5,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Proudly... boasting your... ignorance... still..."
+        },
+        {
+            "id": 6,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "E tu sei ancora debole."
+        },
+        {
+            "id": 7,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Hai deluso le mie aspettative, Dongbeak, persino con l'E.G.O di Lobotomy Corp."
+        },
+        {
+            "id": 8,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Inoltre... Non ho nemmeno avuto la possibilità di mostrarti la tecnologia che ho sviluppato. Ho un'idea, perché non organizziamo una conferenza? Ne è pssatto dall'ultima volta."
+        },
+        {
+            "id": 9,
+            "model": "K사안내방송",
+            "teller": "Avviso",
+            "title": "K Corp.",
+            "content": "Le videoregistrazioni sono state caricate."
+        },
+        {
+            "id": 10,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Dimmi una cosa, Dongbaek..."
+        },
+        {
+            "id": 11,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Quanto può divenatre profonda la tua disperazione?"
+        },
+        {
+            "id": 12,
+            "teller": "Cittadino in Fuga",
+            "title": "Nido K",
+            "content": "Ahhhhh!! Aiuto!!!"
+        },
+        {
+            "id": 13,
+            "model": "이스마엘",
+            "content": "What's up with this sound?"
+        },
+        {
+            "id": 14,
+            "model": "그레고르",
+            "content": "Is that the footage those drones filmed while we were fighting the Abnormality on the street..."
+        },
+        {
+            "id": 15,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ho letto la minaccia che ci hai inviato, Dongbaek. Hai scritto che avreti sguinzagliato un'Anormalità per le strade se non avessi rivelato la Singolarità."
+        },
+        {
+            "id": 16,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ti sono sempre piaciute le mosse radicali... Ma non mi aspettavo l'avresti fatto per davvero."
+        },
+        {
+            "id": 17,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Perlomeno... Gli ha fatto produrre molte più lacrime. Tutto grazie a te."
+        },
+        {
+            "id": 18,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "No... I wasn't planning to release it. It escaped. You ignored my warning..."
+        },
+        {
+            "id": 19,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Se ti avessi risposto al riguardo, sarebbe stata un'ammissione che il laboratorio ha condotto esperimenti arbitrari sulle Anormalità."
+        },
+        {
+            "id": 20,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Grazie al cielo i nostri uomini erano nei paraggi del Nido, quando è successo."
+        },
+        {
+            "id": 21,
+            "model": "이스마엘",
+            "content": "So it was all part of your plan to have us run into the breached Abnormality?"
+        },
+        {
+            "id": 22,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Lo definirei più un esperimento che un piano. Il fallimento era una possibilità tangibile, ma le prove mi hanno portato a fidarmi delle vostre capacità."
+        },
+        {
+            "id": 23,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Vi tengo d'occhio da più tempo di quanto pensiate."
+        },
+        {
+            "id": 24,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non ve l'ho già detto?"
+        },
+        {
+            "id": 25,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Sono un vostro fan."
+        },
+        {
+            "id": 26,
+            "model": "크로머",
+            "teller": "Kromer",
+            "title": "Nagel und Hammer",
+            "content": "No, Sinclair! It's always been the other way around... I am the one who grips...!"
+        },
+        {
+            "id": 27,
+            "model": "싱클레어",
+            "content": "How is this... I don't think I want to watch..."
+        },
+        {
+            "id": 28,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Anche in quell'occasione abbiamo generato lacrime senza precedenti. Aggiungerei che ha giocato un ruolo chiave nel garantirmi il premio dell'anno."
+        },
+        {
+            "id": 29,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Gli impiegati di quel dipartimento di N Corp. non sono state le persone più affabili che ho incontrato, ma grazie a loro mi sono procurato delle ottime riprese."
+        },
+        {
+            "id": 30,
+            "model": "로쟈",
+            "content": "That means... the reason N Corp. could get away with such cruelties in a residential area in Nest K was..."
+        },
+        {
+            "id": 31,
+            "model": "뫼르소",
+            "content": "This is what the deal entailed."
+        },
+        {
+            "id": 32,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Mi sembra di ricordare le parole di un tale: anche se la 'finestra specchio' di Fratello Young-ji era innovativa, non era sufficientemente calibrata per poterla usare comodamente, soprattutto per un uomo rozzo come il sottoscritto."
+        },
+        {
+            "id": 33,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "……."
+        },
+        {
+            "id": 34,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah, Dongbaek. Sei stata tu?"
+        },
+        {
+            "id": 35,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "What is... Are you..."
+        },
+        {
+            "id": 36,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non ci sono mai abbastanza lacrime."
+        },
+        {
+            "id": 37,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Intendo dire, guardati attorno. Gurda quante persone stanno soffrendo."
+        },
+        {
+            "id": 38,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Così che possano piangere al posto nostro."
+        },
+        {
+            "id": 39,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Senza il tempo necessario a chiudere gli occhi."
+        },
+        {
+            "id": 40,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Lega dei Nove Letterati",
+            "content": "I only made minor modifications to Brother Young-ji's work."
+        },
+        {
+            "id": 41,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Lega dei Nove Letterati",
+            "content": "I wanted to show a reflection of any possibility in its unvarnished image."
+        },
+        {
+            "id": 42,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Lega dei Nove Letterati",
+            "content": "That is why I am considering the name for it:"
+        },
+        {
+            "id": 43,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Lega dei Nove Letterati",
+            "content": "'Mirror'."
+        },
+        {
+            "id": 44,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Lega dei Nove Letterati",
+            "content": "I wish that this will serve as a tool of entertainment... giving us more joy."
+        },
+        {
+            "id": 45,
+            "model": "과거동백",
+            "teller": "Dongbaek",
+            "title": "Lega dei Nove Letterati",
+            "content": "Is this why I haven't been able to see you lately? To discover this?"
+        },
+        {
+            "id": 46,
+            "model": "과거동백",
+            "teller": "Dongbaek",
+            "title": "Lega dei Nove Letterati",
+            "content": "Dongrang, why are you laughing like that?"
+        },
+        {
+            "id": 47,
+            "model": "과거동랑",
+            "teller": "Dongrang",
+            "title": "Lega dei Nove Letterati",
+            "content": "Trovo divertente che tu stia parlando con tale ferocia mentre i tuoi occhi brillano di curiosità."
+        },
+        {
+            "id": 48,
+            "model": "과거동백",
+            "teller": "Dongbaek",
+            "title": "Lega dei Nove Letterati",
+            "content": "Yi Sang, will you tell him to shut it?"
+        },
+        {
+            "id": 49,
+            "model": "과거동랑",
+            "teller": "Dongrang",
+            "title": "Lega dei Nove Letterati",
+            "content": "Prima di dire certe cose, dovresti toglierti dalla faccia quell'espressione da bambino che ha assaggiato il gelato per la prima volta."
+        },
+        {
+            "id": 50,
+            "content": "Mouths unable to hold laughter."
+        },
+        {
+            "id": 51,
+            "content": "Exclamations of amazeness."
+        },
+        {
+            "id": 52,
+            "content": "Smiles at each other."
+        },
+        {
+            "id": 53,
+            "content": "Eyes glowing brighter than stars."
+        },
+        {
+            "id": 54,
+            "content": "Everyone there felt... pure joy."
+        },
+        {
+            "id": 55,
+            "content": "I only wished that all this..."
+        },
+        {
+            "id": 56,
+            "content": "Would remain a simple recreation."
+        },
+        {
+            "id": 57,
+            "model": "상이",
+            "teller": "???",
+            "title": "???",
+            "content": "Be quiet."
+        },
+        {
+            "id": 58,
+            "model": "상이",
+            "teller": "???",
+            "title": "???",
+            "content": "You will simply... live on as you are. As if you know nothing."
+        },
+        {
+            "id": 59,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "The glass window... wasn't made for this kind of wicked degeneracy..."
+        },
+        {
+            "id": 60,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Questo è un momento solenne. Modera il linguaggio, per favore."
+        },
+        {
+            "id": 61,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ma capisco quello che intendi. Fratello Young-ji mi avrebbe fatto una ramanzina per quello che ho fatto."
+        },
+        {
+            "id": 62,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah, ma almeno te ne sei resa conto? Non siamo più ai tempi in cui ci sbalordivamo davanti ad invenzioni infantili. Siamo rimasti in così pochi che gli applausi non sono più fragorosi come in passato."
+        },
+        {
+            "id": 63,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "……."
+        },
+        {
+            "id": 64,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ma ancora non riesci a lasciarti il passato alle spalle. Non hai nulla da dire?"
+        },
+        {
+            "id": 65,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ti sei rimepita la bocca con nobili parole, accusando i mali della tecnologia... Ma si trattava solo di un pretesto per trovare supporto dagli altri. Per raggiungere il tuo vero obiettivo."
+        },
+        {
+            "id": 66,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Proclami di opporti alla vile tecnologia, ma le tue stesse azioni sono altrettanto vili."
+        },
+        {
+            "id": 67,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Quando la tua gente si è impadronita del laboratorio in cui mi limitavo a condurre le mie ricerche..."
+        },
+        {
+            "id": 68,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Immagino tu abbia detto ai tuoi seguaci che era necessario ad investigare sulla Singolarità, ma la realtà è che speravi di trovare delle tecnologie da usare come armi, non è vero? Come gli E.G.O."
+        },
+        {
+            "id": 69,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Mi chiedo chi ti abbia passatto tutte quelle preziose informazioni. Shrenne non poteva saperlo. Che ne pensi di una partita ad obbligo o verità, così me lo diresti?"
+        },
+        {
+            "id": 70,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Don't talk like you know everything. That attitude of yours...always annoyed me..."
+        },
+        {
+            "id": 71,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Haha, permettimi di comportarmi come se sapessi almeno un'altra cosa."
+        },
+        {
+            "id": 72,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Quando abbiamo scrutato attraverso la finesta specchio di Fratello Young-ji... e poi, quando abbiamo visto uno scorcio dei mondi riflessi nello specchio di Yi Sang..."
+        },
+        {
+            "id": 73,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Abbiamo provato un'euforia ed una divergenza da cui non ci saremmo mai ripresi."
+        },
+        {
+            "id": 74,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "……."
+        },
+        {
+            "id": 75,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Since the moment the glass window was made..."
+        },
+        {
+            "id": 76,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "All sorts of interest groups came knocking on the door."
+        },
+        {
+            "id": 77,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Right... While we may think... that we left the League of our own volition..."
+        },
+        {
+            "id": 78,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "We all know what actually happened... We were actually just torn apart and scattered away..."
+        },
+        {
+            "id": 79,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "And that the reason for it came from the inside..."
+        },
+        {
+            "id": 80,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Dongbaek, anche se gettassi il mio lavoro nell'inceneritore concettuale, non potremmo comunque tornare a quei tempi innocenti. Lo sai meglio di me."
+        },
+        {
+            "id": 81,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Hmm... nonostante tu lo sappia bene... non riesci ad abbandonare la tua ossessione..."
+        },
+        {
+            "id": 82,
+            "model": "동백여우각성_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "……."
+        },
+        {
+            "id": 83,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah, ora ho capito."
+        },
+        {
+            "id": 84,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Se qualcuno riscoprisse le tecnolgie incenerite..."
+        },
+        {
+            "id": 85,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Altri individui senza nome, con sogni diversi... proverebbero la stessa efuoria che sentimmo noi. Questo è quello che vuoi."
+        },
+        {
+            "id": 86,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Poiché non possiamo tornare al passato..."
+        },
+        {
+            "id": 87,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Avevi intenzione di ricreare il passato per le generazioni future."
+        },
+        {
+            "id": 88,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Wow, ma che idea adorabile ed originale, Dongbaek."
+        },
+        {
+            "id": 89,
+            "model": "싱클레어",
+            "content": "M-Miss Dongbaek... Your body..."
+        },
+        {
+            "id": 90,
+            "content": "Dongbaek muttered into emptiness. It was as though she was talking to someone."
+        },
+        {
+            "id": 91,
+            "model": "동백에고각성중_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Sì... Li seppellirò... deep in the sand... hide them..."
+        },
+        {
+            "id": 92,
+            "model": "동백에고각성중_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "For someone to find... some day..."
+        },
+        {
+            "id": 93,
+            "model": "동백에고각성중_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "We... didn't discover the technologies because we were better or had exclusive rights to..."
+        },
+        {
+            "id": 94,
+            "model": "동백에고각성중_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "You may be right, I fooled everyone including myself into working for my own goals... It was... the land we tilled... that was fertile..."
+        },
+        {
+            "id": 95,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Che parole scoraggianti. Vuoi davvero sminuire tutti gli sforzi che abbiamo dedicato ad arare il terreno, e perderti la vista dei fiori che sbocceranno?"
+        },
+        {
+            "id": 96,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ai tempi non eravamo che degli ingenui dilettanti, ed il passato che tanto ti sta a cuore non è altro che un momento fugace visto attraverso il dolce sguardo della nostalgia."
+        },
+        {
+            "id": 97,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "I tuoi collaboratori che hanno dato la loro vita per la causa lo sapevano?"
+        },
+        {
+            "id": 98,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Che la causa che hai proclamato non era altro che un falso idolo con cui attirare delle pedine? Che la verità erano i banali capircci di una bambina troppo cresciuta?"
+        },
+        {
+            "id": 99,
+            "model": "동백에고각성중_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "No... And yet... I'm finally seeing myself better now. Which is why I should plant the sprout and cover it with dirt with my own hands, isn't that right?"
+        },
+        {
+            "id": 100,
+            "model": "동백에고각성중_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "The bud has fallen... and our fruit has long since withered..."
+        },
+        {
+            "id": 101,
+            "model": "동백에고각성중_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "It must be covered with dirt again... let other fruits be borne..."
+        },
+        {
+            "id": 102,
+            "model": "로쟈",
+            "content": "Hey... Is it really okay to let her be?"
+        },
+        {
+            "id": 103,
+            "model": "로쟈",
+            "content": "You know... Your mind doesn't work right when you're using E.G.O..."
+        },
+        {
+            "id": 104,
+            "model": "히스클리프",
+            "content": "Now hold on... Are you doing this on purpose...? Taunt her as much as you can..."
+        },
+        {
+            "id": 105,
+            "model": "오티스",
+            "content": "And wait for her to tire herself out..."
+        },
+        {
+            "id": 106,
+            "model": "동백에고각성중_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "...Back to the innocent times, now without us."
+        },
+        {
+            "id": 107,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Ah, l'innocenza..."
+        },
+        {
+            "id": 108,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Non esiste parola più imbarazzante."
+        },
+        {
+            "id": 109,
+            "model": "히스클리프",
+            "content": "Oi, keep it together!"
+        },
+        {
+            "id": 110,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dipartimento Ricerca Alimentare di K Corp.",
+            "content": "Nessuno riesce a straziare la tua mente come faccio io, proprio come ai vecchi tempi."
+        },
+        {
+            "id": 111,
+            "model": "동백에고각성중_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "No, I feel like my mind is blooming wider than ever."
+        },
+        {
+            "id": 112,
+            "model": "동백에고각성중_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "I've always wished to be a bud, soon to burst into bloom."
+        },
+        {
+            "id": 113,
+            "model": "동백에고각성중_먼지",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Shrouded in scent all over the body..."
+        },
+        {
+            "id": 114,
+            "model": "동백에고각성",
+            "teller": "Dongbaek",
+            "title": "Technology Liberation Alliance",
+            "content": "Even if this is my own heart-wrenching path, understood by no one..."
+        },
+        {
+            "id": 115,
+            "model": "동백에고각성",
+            "teller": "Dongbaek",
+            "title": "Effloresced E.G.O::Spicebush",
+            "content": "I'll still leave behind a morrow, strong and fertile like fallen petals."
+        }
+    ]
+}

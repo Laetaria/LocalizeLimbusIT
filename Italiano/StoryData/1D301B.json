@@ -1,0 +1,299 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Distretto 4 - Interno Succursale LC",
+      "model": "로쟈",
+      "content": "Il piano è infestato dai vermi."
+    },
+    {
+      "id": 1,
+      "model": "단테",
+      "content": "<Questi insetti non sono così male, dopo l'Anormalità dell'ultimo piano. Non voglio vedere mai più qualcosa del genere.>"
+    },
+    {
+      "id": 2,
+      "model": "로쟈",
+      "content": "Pft… Sono sicura che Greg sarebbe contento di sentirtelo dire. Non è così, insettuccino?"
+    },
+    {
+      "id": 3,
+      "content": "Gregor però non stava ascoltando Rodya."
+    },
+    {
+      "id": 4,
+      "model": "그레고르",
+      "content": "…Sentite anche voi?"
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "È da un po' che sentiamo un brontolio costante. Rodya, non dirmi che ti è venuta fame in un momento come questo?"
+    },
+    {
+      "id": 6,
+      "model": "로쟈",
+      "content": "E-Ehi ciccina, dovresti chiudere un occhio su cose del genere, no~?"
+    },
+    {
+      "id": 7,
+      "model": "그레고르",
+      "content": "No, non quello… È come…"
+    },
+    {
+      "id": 8,
+      "content": "Per la prima volta in tutta la spedizione, Gregor si mise a capofila ed aprì la porta vicino a lui, come se fosse spinto da qualcosa."
+    },
+    {
+      "id": 9,
+      "model": "유리",
+      "teller": "Yuri",
+      "title": "Fixer di Grado 8",
+      "content": "Aspetta, quella è un'unità di contenimento…!"
+    },
+    {
+      "id": 10,
+      "model": "그레고르",
+      "content": "È come… quella volta…"
+    },
+    {
+      "id": 11,
+      "content": "No, la porta era già aperta."
+    },
+    {
+      "id": 12,
+      "content": "Gregor guardò nella luce dorata che emergeva dalla stanza."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Grego—!>"
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "Abbiamo… viaggiato nel tempo?"
+    },
+    {
+      "id": 15,
+      "content": "Il cielo è coperto."
+    },
+    {
+      "id": 16,
+      "content": "Nella distanza si sentono urla e pianti."
+    },
+    {
+      "id": 17,
+      "content": "Ed in quel cielo, gli spari e l'artiglieria creano una cacofonia."
+    },
+    {
+      "id": 18,
+      "model": "오티스",
+      "content": "Non è abbastanza chiaro? Questo è…"
+    },
+    {
+      "id": 19,
+      "place": "Durante la Guerra del Fumo",
+      "model": "오티스",
+      "content": "Un campo di battaglia… Il suo centro."
+    },
+    {
+      "id": 20,
+      "model": "그레고르",
+      "content": "…S-Sto… sognando? O è un incubo? Perché—Perché di nuovo questo…"
+    },
+    {
+      "id": 21,
+      "model": "히스클리프",
+      "content": "Qualcuno me spiega perché cazzo stamo in un campo de battaglia?! È 'na trappola o che?"
+    },
+    {
+      "id": 22,
+      "model": "파우스트",
+      "content": "No. Siamo sulla strada giusta."
+    },
+    {
+      "id": 23,
+      "model": "파우스트",
+      "content": "L'essenza della tecnologia che stiamo cercando non è lontana da qui."
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "content": "Indendi il Ramo Dorato?"
+    },
+    {
+      "id": 25,
+      "model": "파우스트",
+      "content": "Corretto. Ricordate quando è successo quest'evento?"
+    },
+    {
+      "id": 26,
+      "model": "오티스",
+      "content": "Chiunque abbia due occhi funzionanti lo sa."
+    },
+    {
+      "id": 27,
+      "model": "단테",
+      "content": "<Uhhh, in realtà io… non lo so.>"
+    },
+    {
+      "id": 28,
+      "content": "Confessai."
+    },
+    {
+      "id": 29,
+      "model": "오티스",
+      "content": "È ovio che voi non lo ricordiate, Manager. Non avete degli occhi convenzionali."
+    },
+    {
+      "id": 30,
+      "model": "이스마엘",
+      "content": "Davvero questa è la scusa migliore che hai tirato fuori…?"
+    },
+    {
+      "id": 31,
+      "content": "Outis si schiarì la voce, come per nascondere il suo imbarazzo, per poi dirigere il suo sguardo al campo di battaglia."
+    },
+    {
+      "id": 32,
+      "model": "오티스",
+      "content": "A giudicare dalle bandiere che mostrano le fazioni coinvolte…"
+    },
+    {
+      "id": 33,
+      "model": "오티스",
+      "content": "Siamo a 70 giorni dall'inizio della Guerra del Fumo…"
+    },
+    {
+      "id": 34,
+      "model": "오티스",
+      "content": "…Questo è quanto, Manager."
+    },
+    {
+      "id": 35,
+      "content": "All'improvviso, Heatcliff sentì qualcuno tirargli una spalla."
+    },
+    {
+      "id": 36,
+      "teller": "???",
+      "title": "???",
+      "content": "Siete fuori di testa? Dovete andare nel rifugio, adesso! Invecchierete rapidamente se vi esponete all'esplosione di quella bomba!"
+    },
+    {
+      "id": 37,
+      "teller": "???",
+      "title": "???",
+      "content": "L'avamposto vicino al nostro è diventato una casa di riposo—la gente non riesce a camminare neanche coi bastoni!"
+    },
+    {
+      "id": 38,
+      "model": "히스클리프",
+      "content": "E tu chi cazzo sei, e perché ci tratti come se ci conoscessi—"
+    },
+    {
+      "id": 39,
+      "teller": "???",
+      "title": "???",
+      "content": "Oh! Manager Gregor! Salve, signore!"
+    },
+    {
+      "id": 40,
+      "content": "L'uomo ricoperto di bende si mise sull'attenti e salutò Gregor, non appena si accorse di lui."
+    },
+    {
+      "id": 41,
+      "model": "그레고르",
+      "content": "…Tu."
+    },
+    {
+      "id": 42,
+      "teller": "Tomah",
+      "title": "Ricordo di un Soldato",
+      "content": "Non credo voi possiate riconoscermi, signore. Sono Tomah, della Manutenzione Biomimetica!"
+    },
+    {
+      "id": 43,
+      "teller": "Tomah",
+      "title": "Ricordo di un Soldato",
+      "content": "Pensavo faceste parte del unità frontali, non mi aspettavo di trovala qui."
+    },
+    {
+      "id": 44,
+      "teller": "Tomah",
+      "title": "Ricordo di un Soldato",
+      "content": "Are you on your way to the front? I could help you get there since the augmentation on my legs allows me to jump―"
+    },
+    {
+      "id": 45,
+      "model": "로쟈",
+      "content": "Bweh, that sounds gross."
+    },
+    {
+      "id": 46,
+      "content": "Tomah looked at Rodya with suspicion."
+    },
+    {
+      "id": 47,
+      "teller": "Tomah",
+      "title": "Ricordo di un Soldato",
+      "content": "You, what did you just…"
+    },
+    {
+      "id": 48,
+      "model": "그레고르",
+      "content": "H-Hey, Tomah! So you're an assistant manager—or regular staff?"
+    },
+    {
+      "id": 49,
+      "teller": "Tomah",
+      "title": "Ricordo di un Soldato",
+      "content": "Sir, yes, sir! I'm an assistant private, sir!"
+    },
+    {
+      "id": 50,
+      "model": "그레고르",
+      "content": "Err, you see, s-she's a new hire who had her procedure not too long ago, so… Still getting over the confusion, y'know. I'll give her a good talking to."
+    },
+    {
+      "id": 51,
+      "teller": "Tomah",
+      "title": "Ricordo di un Soldato",
+      "content": "Ah, I get it… Our corporation must be getting desperate, sending unprepared employees to battle."
+    },
+    {
+      "id": 52,
+      "model": "그레고르",
+      "content": "Yeah, we're—sorry for the trouble. I've got to take her somewhere real quick…"
+    },
+    {
+      "id": 53,
+      "content": "Gregor practically yanked himself out of the conversation and hurriedly walked to Faust."
+    },
+    {
+      "id": 54,
+      "model": "그레고르",
+      "content": "Just what's going on, Faust? These are…"
+    },
+    {
+      "id": 55,
+      "model": "그레고르",
+      "content": "…my memories."
+    },
+    {
+      "id": 56,
+      "model": "파우스트",
+      "content": "We're in the fathoms of your ego, to be precise."
+    },
+    {
+      "id": 57,
+      "model": "파우스트",
+      "content": "An open path in your psyche. In other words…"
+    },
+    {
+      "id": 58,
+      "model": "파우스트",
+      "content": "We've entered your heart and mind, Gregor."
+    }
+  ]
+}
