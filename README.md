@@ -11,6 +11,7 @@ Selezionare il gioco su Steam e nel menù di avvio e a destra di GIOCA seleziona
 Oppure usare il launcher https://github.com/kimght/LimbusLocalizationManager
 
 # Membri
-flowerssummerr, Eremitaviola, Ballastedmarco91, KoilaKarpaKoi, GhostyTricker, Cimone, SirPapera, Veldia, Dottore
+flowerssummerr, Eremitaviola, Ballastedmarco91, KoilaKarpaKoi, GhostyTricker, Cimone, SirPapera, ImNotVeldia, Dottore
 </div>
+
 
