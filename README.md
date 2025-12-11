@@ -18,7 +18,8 @@ Canti: ✔ Selva Oscura - ✔ Canto 1 - ✔ Canto 2 - ✔ Canto 3 - ❌ Canto 4 
 Intervalli: Galline da Incubo ❌ - M.A.R.E. ❌ - Miracolo nel Distretto 20 ❌ - Cedo la Carne per Strappare le Ossa ❌ - Tempo Ammazzatempo ❌ - Assassinio sul WARP Express ❌ - Controllo di Routine LBC ❌ - Spazzare Notturno ❌ - Cultura Primaverile ❌
 
 # Completamento Gameplay
-Scavoluce: ✔ - Dungeon Storia: In corso - Dungeon Specchio: In corso - Metro Rifrattiva: ✔ - Identità&E.G.O: In corso - Interfaccia Utente: ✔
+Scavoluce: ✔ - Dungeon Storia: 🚧 - Dungeon Specchio: 🚧 - Metro Rifrattiva: ✔ - Identità&E.G.O: 🚧 - Interfaccia Utente: ✔
+
 
 
 
