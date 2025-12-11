@@ -6,7 +6,7 @@ Traduzione&Localizzazione Italiana di Limbus Company a cura dell'Espresso Office
 
 
 # Membri
-flowerssummerr, Eremitaviola, Omegaknignt, KoilaKarpaKoi, GhostyTricker, Cimone, SirPapera, ImNotVeldia, Dottore
+flowerssummerr, Ervi, Omegaknignt, Koi, Veldia, Ghosty, Pizz4, Techiee, SirPapera, Cimone, Dottore
 
 # Vieni a prenderti un caffe con noi!
 <a href="https://espressooffice.carrd.co/">Carrd</a> - <a href="https://t.me/espressooffice">Telegram</a> - Discord (IN ARRIVO)
@@ -19,6 +19,7 @@ Intervalli: Galline da Incubo ❌ - M.A.R.E. ❌ - Miracolo nel Distretto 20 ❌
 
 # Completamento Gameplay
 Scavoluce: ✔ - Dungeon Storia: In corso - Dungeon Specchio: In corso - Metro Rifrattiva: ✔ - Identità&E.G.O: In corso - Interfaccia Utente: ✔
+
 
 
 
