@@ -9,7 +9,7 @@ Traduzione&Localizzazione Italiana di Limbus Company a cura dell'Espresso Office
 flowerssummerr, Ervi, Omegaknignt, Koi, Veldia, Ghosty, Pizz4, Techiee, SirPapera, Cimone, Dottore
 
 # Vieni a prenderti un caffe con noi!
-<a href="https://espressooffice.carrd.co/">Carrd</a> - <a href="https://t.me/espressooffice">Telegram</a> - Discord (IN ARRIVO)
+<a href="https://espressooffice.carrd.co/">Carrd</a> - <a href="https://t.me/espressooffice">Telegram</a> - <a href="https://discord.gg/3nusa6KWpB">Discord</a>
 </div>
 
 # Completamento Storia
@@ -19,6 +19,7 @@ Intervalli: Galline da Incubo ❌ - M.A.R.E. ❌ - Miracolo nel Distretto 20 ❌
 
 # Completamento Gameplay
 Scavoluce: ✔ - Dungeon Storia: 🚧 - Dungeon Specchio: 🚧 - Metro Rifrattiva: ✔ - Identità&E.G.O: 🚧 - Interfaccia Utente: ✔
+
 
 
 
