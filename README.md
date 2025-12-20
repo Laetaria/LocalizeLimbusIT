@@ -15,10 +15,11 @@ flowerssummerr, Ervi, Omegaknignt, Koi, Veldia, Ghosty, Pizz4, Techiee, SirPaper
 # Completamento Storia
 Canti: ✔ Selva Oscura - ✔ Canto 1 - ✔ Canto 2 - ✔ Canto 3 - ❌ Canto 4 - ❌ Canto 5 - ❌ Canto 6 - ❌ Canto 7 - ❌ Canto 8
 
-Intervalli: Galline da Incubo ❌ - M.A.R.E. ❌ - Miracolo nel Distretto 20 ❌ - Cedo la Carne per Strappare le Ossa ❌ - Tempo Ammazzatempo ❌ - Assassinio sul WARP Express ❌ - Controllo di Routine LBC ❌ - Spazzare Notturno ❌ - Cultura Primaverile ❌
+Intervalli: Galline da Incubo ✔ - M.A.R.E. ❌ - Miracolo nel Distretto 20 ❌ - Cedo la Carne per Strappare le Ossa ❌ - Tempo Ammazzatempo ❌ - Assassinio sul WARP Express ❌ - Controllo di Routine LBC ❌ - Spazzare Notturno ❌ - Cultura Primaverile ❌
 
 # Completamento Gameplay
 Scavoluce: ✔ - Dungeon Storia: 🚧 - Dungeon Specchio: 🚧 - Metro Rifrattiva: ✔ - Identità&E.G.O: 🚧 - Interfaccia Utente: ✔
+
 
 
 
