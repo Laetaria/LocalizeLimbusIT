@@ -13,7 +13,7 @@ flowerssummerr, Ervi, Koi, Ghosty, WildKat, Techiee, SirPapera
 </div>
 
 # Completamento Storia
-Canti: ✔ Selva Oscura - ✔ Canto 1 - ✔ Canto 2 - ✔ Canto 3 - ❌ Canto 4 - ❌ Canto 5 - ❌ Canto 6 - ❌ Canto 7 - ❌ Canto 8 - Canto 9 ❌
+Canti: ✔ Selva Oscura - ✔ Canto 1 - ✔ Canto 2 - ✔ Canto 3 - 🚧 Canto 4 - ❌ Canto 5 - ❌ Canto 6 - ❌ Canto 7 - ❌ Canto 8 - Canto 9 ❌
 
 Intervalli: Galline da Incubo ✔ - M.A.R.E. ❌ - Miracolo nel Distretto 20 ❌ - Cedo la Carne per Strappare le Ossa ❌ - Tempo Ammazzatempo ❌ - Assassinio sul WARP Express ❌ - Controllo di Routine LBC ❌ - Spazzare Notturno ❌ - Cultura Primaverile ❌
 
