@@ -6,7 +6,7 @@ Traduzione&Localizzazione Italiana di Limbus Company a cura dell'Espresso Office
 
 
 # Membri
-flowerssummerr, Ervi, Koi, Ghosty, WildKat, Techiee, SirPapera
+flowerssummerr, Ervi, Koi, Ghosty, WildKat, Techiee, SirPapera, Luigi, Carols, SimerOtt, Chiara Firever
 
 # Vieni a prenderti un caffe con noi!
 <a href="https://espressooffice.carrd.co/">Carrd</a> - <a href="https://t.me/espressooffice">Telegram</a> - <a href="https://discord.gg/3nusa6KWpB">Discord</a>
