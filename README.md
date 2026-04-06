@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/3eaf8d42-d60e-453c-a0d8-b1b5b0e35795" width="200" height="200"/>
+<img src="https://github.com/louzhee/IMGEspresso/blob/main/Espresso%20Office.png" width="200" height="200"/>
 
 # Espresso Office
 Traduzione&Localizzazione Italiana di Limbus Company a cura dell'Espresso Office! Non siamo affiliati con la Project Moon!
